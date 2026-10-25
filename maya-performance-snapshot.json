@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "account": "maya._.finds",
+  "source": "Metricool TikTok posts",
+  "last_checked": "2026-10-25",
+  "status": "no_rows_returned",
+  "query_windows": [
+    "2026-10-18 to 2026-10-25",
+    "2026-10-01 to 2026-10-25"
+  ],
+  "last_successful_data_sync": null,
+  "metrics": [
+    "published_at",
+    "video_url",
+    "views",
+    "reach",
+    "full_video_watched_rate",
+    "average_time_watched_seconds"
+  ],
+  "videos": [],
+  "notes": "Empty response is not evidence of zero views or posts. Do not infer performance."
+}
