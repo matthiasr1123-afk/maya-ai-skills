@@ -9,7 +9,7 @@
 | System | Verified state | What is / isn't automatic |
 |---|---|---|
 | GitHub skills repository | Connected: file read and write succeeded | Skill files are reference instructions; GitHub storage alone does **not** activate a background agent |
-| Metricool TikTok | Connected: brand `maya._.finds` found; TikTok post metric definitions available | Actual video-level data retrieval and periodic persistence must be tested; no claim of live sync yet |
+| Metricool TikTok | Connected: brand `maya._.finds` found; TikTok post metric definitions available | Live Oct 1–25 query tested and returned no rows; daily sync task now configured, next run not yet verified |
 | Gemini | No direct Gemini generation/credit integration verified | User submits videos to ChatGPT for inspection; cannot detect new Gemini generations independently |
 | TikTok Shop sales/commissions | No direct Shop data connection verified | Never infer sales, GMV or commissions from Metricool post analytics |
 | ChatGPT scheduled tasks | Daily Brief, Product Scout, Daily Analytics, Weekly Strategy, Viral Fashion Trend Scout configured as of 2026-10-25 | Scheduled reports are separate; they do not automatically update this GitHub page |
@@ -30,7 +30,7 @@
 
 | Area | Latest verified result | Last checked | Next action |
 |---|---|---|---|
-| Views / retention | Awaiting a fresh Metricool data pull | Not yet verified | Query video metrics and record source/date |
+| Views / retention | Metricool Oct 1–25 query returned no rows (not zero views) | 2026-10-25 | Await data; daily sync configured |
 | Product research | Daily scouting task configured; no results copied here yet | 2026-10-25 | Review research output |
 | Gemini quality | Historical failure patterns documented; no new review entries | 2026-10-25 | Review next uploaded video and append log |
 | Clicks / sales / GMV | No live TikTok Shop source verified | 2026-10-25 | Connect a supported source or supply export |
@@ -57,8 +57,15 @@
 ## What remains to make this fully hands-off
 
 - A reliable trigger that receives every new Gemini output, with authorization and file access.
-- A scheduled worker with GitHub write access to update this page and logs.
+- Daily ChatGPT analytics sync task configured for 9 AM PT; unattended GitHub write remains unverified until its first successful scheduled run.
 - A verified data pipeline for Metricool post-level analytics and, separately, TikTok Shop metrics.
 - Failure monitoring/retry and a run-history log.
 
 **Current reality:** This is a central navigable source of truth and an operational specification, not a self-updating website. ChatGPT can update it when explicitly running with connected tools.
+
+## Analytics pipeline
+
+- [Metricool → GitHub → Gemini sync procedure](metricool-gemini-pipeline.md)
+- [Machine-readable performance snapshot](maya-performance-snapshot.json)
+- Daily **Maya Analytics Sync** task scheduled for 9 AM Pacific; first unattended execution not yet verified.
+- Live tests on 2026-10-25 returned no Metricool post rows for Oct 1–25. This does not mean zero views.
