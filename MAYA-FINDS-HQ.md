@@ -69,3 +69,10 @@
 - [Machine-readable performance snapshot](maya-performance-snapshot.json)
 - Daily **Maya Analytics Sync** task scheduled for 9 AM Pacific; first unattended execution not yet verified.
 - Live tests on 2026-10-25 returned no Metricool post rows for Oct 1–25. This does not mean zero views.
+
+## Expanded connection test — 2026-10-25
+
+- Verified the Metricool brand still maps to `maya._.finds`.
+- TikTok video-level metrics query for **September 1–October 25** returned no rows.
+- TikTok evolution metrics query for **October 1–25** returned one zero-valued row dated October 25; this is **not** evidence that historical videos had zero views.
+- **Status: connected, analytics not yet usable.** Need to verify Metricool's TikTok data ingestion and account permissions. No claim of end-to-end automatic learning until data rows and scheduled GitHub persistence are both verified.
