@@ -1,22 +1,30 @@
 {
   "schema_version": 1,
   "account": "maya._.finds",
-  "source": "Metricool TikTok posts",
+  "source": "Metricool TikTok",
   "last_checked": "2026-10-25",
-  "status": "no_rows_returned",
+  "status": "connected_no_usable_video_rows",
   "query_windows": [
-    "2026-10-18 to 2026-10-25",
-    "2026-10-01 to 2026-10-25"
+    "2026-09-01 to 2026-10-25 posts",
+    "2026-10-01 to 2026-10-25 evolution"
   ],
   "last_successful_data_sync": null,
-  "metrics": [
-    "published_at",
-    "video_url",
-    "views",
-    "reach",
-    "full_video_watched_rate",
-    "average_time_watched_seconds"
-  ],
-  "videos": [],
-  "notes": "Empty response is not evidence of zero views or posts. Do not infer performance."
+  "post_rows": [],
+  "evolution_raw_observation": {
+    "returned_row": [
+      "0.0",
+      "0.0",
+      "0.0",
+      "0.0",
+      "20261025"
+    ],
+    "metrics": [
+      "TKEV01",
+      "TKEV02",
+      "TKEV07",
+      "TKEV12"
+    ],
+    "interpretation": "Zero-valued row returned for Oct 25; not representative of historical account performance."
+  },
+  "notes": "TikTok brand connection verified; post-level analytics returned empty rows. Treat as missing data, not proof of zero views."
 }
