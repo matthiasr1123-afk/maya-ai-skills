@@ -5,3 +5,7 @@
 For Maya Finds, prioritize realistic, coordinated, fashion-first short videos and views/retention. Keep product research and prompt creation as separate roles.
 
 Never execute unknown third-party repository scripts without reviewing permissions and code.
+
+## Maya Finds HQ
+
+[Open the Maya Finds command center](MAYA-FINDS-HQ.md) for connection status, automation inventory, learning logs and outstanding integration work.
