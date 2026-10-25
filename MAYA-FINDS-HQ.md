@@ -76,3 +76,10 @@
 - TikTok video-level metrics query for **September 1–October 25** returned no rows.
 - TikTok evolution metrics query for **October 1–25** returned one zero-valued row dated October 25; this is **not** evidence that historical videos had zero views.
 - **Status: connected, analytics not yet usable.** Need to verify Metricool's TikTok data ingestion and account permissions. No claim of end-to-end automatic learning until data rows and scheduled GitHub persistence are both verified.
+
+## Analytics connection restored — 2026-10-25
+
+- After reconnecting TikTok Business, Metricool returned **122 video-level rows** for October 1–25, 2026. Saved the source rows to [maya-performance-snapshot.json](maya-performance-snapshot.json), with successful GitHub commit and no inferred product attribution.
+- Highest observed view counts in this snapshot: **1,197**, **1,133**, **912**, **901**, **829**. These are raw Metricool views, not sales or proof of a winning creative format.
+- **Connection status: Metricool read and GitHub write verified end-to-end manually.** First unattended daily scheduled run still pending.
+- Completion and watch-time fields are preserved as raw values pending unit verification. Next step: identify creative/product for top videos and link actual reviewed Gemini outputs to published URLs.
