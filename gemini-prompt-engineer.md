@@ -22,3 +22,6 @@ Provide one complete copy-paste prompt and at most one brief fidelity warning. A
 
 ## Learning
 After reviewing a generated result, use POST / REGENERATE / DITCH and recommend the single highest-impact change. Avoid repeating failed intricate stripe/label/button generations indefinitely.
+
+## Automatic pre-prompt learning check
+Before each requested Gemini prompt, read `gemini-generation-learning-log.md` when GitHub access is available. Apply the most relevant observed successful patterns and avoid repeated failure modes for the same product. If the log is unavailable, use supplied references and established guidance without pretending the log was read. Do not generate prompts in product-research-only threads.
