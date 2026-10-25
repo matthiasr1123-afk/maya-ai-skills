@@ -30,3 +30,8 @@
 - If Metricool keeps returning empty rows, inspect account sync / TikTok post visibility and connector coverage.
 - If GitHub writes fail, do not overwrite or duplicate data blindly.
 - Keep daily status and last-success timestamps visible in the HQ.
+
+## Additional diagnostic result — 2026-10-25
+- Extended TikTok posts query to Sept 1–Oct 25: still no rows.
+- TikTok evolution query Oct 1–25 (TKEV01, TKEV02, TKEV07, TKEV12): returned a zero-valued row dated Oct 25. Do not extrapolate to the account's earlier activity.
+- Before calling analytics connected end-to-end, require at least one verifiable published video URL with metrics, then a successful GitHub write and readback.
