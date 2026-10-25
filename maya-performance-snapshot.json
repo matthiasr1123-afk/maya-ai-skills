@@ -1,30 +1,874 @@
 {
   "schema_version": 1,
   "account": "maya._.finds",
-  "source": "Metricool TikTok",
+  "source": "Metricool TikTok posts",
   "last_checked": "2026-10-25",
-  "status": "connected_no_usable_video_rows",
-  "query_windows": [
-    "2026-09-01 to 2026-10-25 posts",
-    "2026-10-01 to 2026-10-25 evolution"
+  "status": "video_rows_verified",
+  "query_window": "2026-10-01 to 2026-10-25",
+  "last_successful_data_sync": "2026-10-25",
+  "metric_ids": [
+    "TKPO01",
+    "TKPO03",
+    "TKPO07",
+    "TKPO13",
+    "TKPO15"
   ],
-  "last_successful_data_sync": null,
-  "post_rows": [],
-  "evolution_raw_observation": {
-    "returned_row": [
-      "0.0",
-      "0.0",
-      "0.0",
-      "0.0",
-      "20261025"
-    ],
-    "metrics": [
-      "TKEV01",
-      "TKEV02",
-      "TKEV07",
-      "TKEV12"
-    ],
-    "interpretation": "Zero-valued row returned for Oct 25; not representative of historical account performance."
-  },
-  "notes": "TikTok brand connection verified; post-level analytics returned empty rows. Treat as missing data, not proof of zero views."
+  "video_count": 122,
+  "videos": [
+    {
+      "published_date": "20261025",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7700638593622084895?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 1,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 0
+    },
+    {
+      "published_date": "20261025",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7700638520653647134?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 1,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261025",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7700313905054158111?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 10,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261025",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7700313832027180319?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 527,
+      "completion_rate_raw": 0.00040300000458955767,
+      "average_watch_time_raw": 3
+    },
+    {
+      "published_date": "20261024",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7700313773843778847?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 16,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261024",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7700313628427193630?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 10,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261024",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7700313512991591710?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 7,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261024",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7700142459250035999?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 73,
+      "completion_rate_raw": 0.00013500000350177288,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261024",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7699894299109952798?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 58,
+      "completion_rate_raw": 0.00041700001806020735,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261023",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7699894158097468703?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 286,
+      "completion_rate_raw": 0.00010400000028312206,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261023",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7699894117563649310?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 24,
+      "completion_rate_raw": 0.00041700001806020735,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261023",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7699893985661259038?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 72,
+      "completion_rate_raw": 0.00042899999767541885,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261023",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7699518348555521294?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 384,
+      "completion_rate_raw": 0.0002239999920129776,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261023",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7699518111564746014?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 169,
+      "completion_rate_raw": 0.0002749999985098839,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261022",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7699518006350613791?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 297,
+      "completion_rate_raw": 0.00042899999767541885,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261022",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7699517552740797726?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 41,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261022",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7699517042226990367?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 13,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261022",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7699517419517136159?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 8,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261022",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7699516323042299167?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 22,
+      "completion_rate_raw": 0.0004549999907612801,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261022",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7699148319364222222?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 81,
+      "completion_rate_raw": 0.00027000000700354575,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261022",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7699148228314336525?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 128,
+      "completion_rate_raw": 0.00007899999618530274,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261022",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7699148138854092046?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 20,
+      "completion_rate_raw": 0.0005000000074505806,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261021",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7699147911682116877?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 34,
+      "completion_rate_raw": 0.0002779999934136867,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261021",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7699147813816372494?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 149,
+      "completion_rate_raw": 0.0001899999938905239,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261021",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7699147748125216014?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 22,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261021",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7699147659751247117?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 125,
+      "completion_rate_raw": 0.0005660000070929527,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261021",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7699117800589200653?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 13,
+      "completion_rate_raw": 0.0015379999577999114,
+      "average_watch_time_raw": 3
+    },
+    {
+      "published_date": "20261021",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7698767931341081869?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 774,
+      "completion_rate_raw": 0.00018600000068545342,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261021",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7698767927440411918?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 81,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261020",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7698767582765075726?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 76,
+      "completion_rate_raw": 0.00027000000700354575,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261020",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7698767354846596366?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 169,
+      "completion_rate_raw": 0.0006210000067949296,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261020",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7698767170255293710?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 444,
+      "completion_rate_raw": 0.0004050000011920929,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261020",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7698612391466110222?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 75,
+      "completion_rate_raw": 0.00015200000256299973,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261019",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7698458299695385886?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 72,
+      "completion_rate_raw": 0.00041099999099969864,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261019",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7698399073698696478?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 272,
+      "completion_rate_raw": 0.00022600000724196434,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261019",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7698054150751407391?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 187,
+      "completion_rate_raw": 0.00005200000014156103,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261018",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7698054087073352990?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 33,
+      "completion_rate_raw": 0.000333000011742115,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261018",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7698053944072883487?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 638,
+      "completion_rate_raw": 0.00021999999880790712,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261018",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7698053838120537374?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 230,
+      "completion_rate_raw": 0.0009049999713897705,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261018",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7697668012333174047?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 687,
+      "completion_rate_raw": 0.00018300000578165055,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261018",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7697667960319626526?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 35,
+      "completion_rate_raw": 0.0004879999905824661,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261017",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7697667887317749022?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 61,
+      "completion_rate_raw": 0.00015200000256299973,
+      "average_watch_time_raw": 3
+    },
+    {
+      "published_date": "20261017",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7697667874390953247?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 165,
+      "completion_rate_raw": 0.0001889999955892563,
+      "average_watch_time_raw": 4
+    },
+    {
+      "published_date": "20261017",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7697667766622375198?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 498,
+      "completion_rate_raw": 0.00016000000759959222,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261017",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7697289412429810975?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 122,
+      "completion_rate_raw": 0.00032000001519918444,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261017",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7697289366783249694?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 114,
+      "completion_rate_raw": 0.0004349999874830246,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261016",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7697289252425501982?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 74,
+      "completion_rate_raw": 0.00013199999928474427,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261016",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7697289128316030239?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 288,
+      "completion_rate_raw": 0.0002070000022649765,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261016",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7697288827349617951?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 75,
+      "completion_rate_raw": 0.0004940000176429748,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261015",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7696914201935121694?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 322,
+      "completion_rate_raw": 0.00009399999864399433,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261015",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7696914103012494622?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 108,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 0
+    },
+    {
+      "published_date": "20261015",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7696913942311931167?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 901,
+      "completion_rate_raw": 0.00007400000002235175,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261015",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7696913831649348894?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 1133,
+      "completion_rate_raw": 0.0004859999939799309,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261015",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7696545588325649694?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 347,
+      "completion_rate_raw": 0.00023099999874830245,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261015",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7696545352723352863?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 120,
+      "completion_rate_raw": 0.00015599999576807022,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261014",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7696545131100441887?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 86,
+      "completion_rate_raw": 0.0002410000003874302,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261014",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7696545032152599838?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 798,
+      "completion_rate_raw": 0.0000839999970048666,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261014",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7696544906558459167?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 447,
+      "completion_rate_raw": 0.0005050000175833702,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261014",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7696172102256250143?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 75,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 0
+    },
+    {
+      "published_date": "20261013",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7696172007666339103?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 113,
+      "completion_rate_raw": 0.00009200000204145908,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261013",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7696171821724454174?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 1197,
+      "completion_rate_raw": 0.0001510000042617321,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261013",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7696171717504421151?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 677,
+      "completion_rate_raw": 0.0004309999942779541,
+      "average_watch_time_raw": 4
+    },
+    {
+      "published_date": "20261013",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7696171559601360158?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 524,
+      "completion_rate_raw": 0.00014700000174343585,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261013",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7695808226398407950?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 829,
+      "completion_rate_raw": 0.00021500000730156898,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261012",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7695807915436920078?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 83,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261012",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7695802688998542622?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 490,
+      "completion_rate_raw": 0.00009499999694526196,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261012",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7695443903280991518?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 684,
+      "completion_rate_raw": 0.00044199999421834946,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261011",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7695443810872003870?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 117,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261011",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7695443645805186335?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 319,
+      "completion_rate_raw": 0.00012299999594688415,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261011",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7695443532819041567?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 210,
+      "completion_rate_raw": 0.00009300000034272671,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261011",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7695443454725229854?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 228,
+      "completion_rate_raw": 0.00024000000208616257,
+      "average_watch_time_raw": 8
+    },
+    {
+      "published_date": "20261011",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7694966265546394910?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 187,
+      "completion_rate_raw": 0.0005689999833703041,
+      "average_watch_time_raw": 3
+    },
+    {
+      "published_date": "20261010",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7694965363691310367?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 74,
+      "completion_rate_raw": 0.00022700000554323196,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261010",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7694965066248097055?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 252,
+      "completion_rate_raw": 0.00015399999916553496,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261010",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7694964993917291806?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 81,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261010",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7694965869872434463?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 74,
+      "completion_rate_raw": 0.00026000000536441803,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261010",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7694743780615785742?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 336,
+      "completion_rate_raw": 0.00032000001519918444,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261010",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7694734785133939981?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 94,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261009",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7694734632947879182?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 24,
+      "completion_rate_raw": 0.00125,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261009",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7694734561690815758?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 499,
+      "completion_rate_raw": 0.00048099998384714126,
+      "average_watch_time_raw": 3
+    },
+    {
+      "published_date": "20261009",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7694719005487156511?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 45,
+      "completion_rate_raw": 0.00022199999541044235,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261009",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7694681684553305375?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 606,
+      "completion_rate_raw": 0.00015399999916553496,
+      "average_watch_time_raw": 3
+    },
+    {
+      "published_date": "20261009",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7694509834414116126?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 74,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261008",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7694443728336964877?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 82,
+      "completion_rate_raw": 0.00037000000476837156,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261008",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7694328362810051853?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 550,
+      "completion_rate_raw": 0.00039099998772144316,
+      "average_watch_time_raw": 3
+    },
+    {
+      "published_date": "20261008",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7693956793915018509?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 257,
+      "completion_rate_raw": 0.0005860000103712082,
+      "average_watch_time_raw": 3
+    },
+    {
+      "published_date": "20261008",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7693956809647836429?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 64,
+      "completion_rate_raw": 0.0001429999992251396,
+      "average_watch_time_raw": 0
+    },
+    {
+      "published_date": "20261007",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7693956697798249741?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 54,
+      "completion_rate_raw": 0.00031300000846385957,
+      "average_watch_time_raw": 4
+    },
+    {
+      "published_date": "20261007",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7693956495599258894?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 34,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261007",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7693956340489669902?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 67,
+      "completion_rate_raw": 0.00013899999670684336,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261007",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7693956314765987085?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 115,
+      "completion_rate_raw": 0.0002500000037252903,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261007",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7693944905726561566?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 6,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 0
+    },
+    {
+      "published_date": "20261007",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7693601496771857678?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 168,
+      "completion_rate_raw": 0.00020500000566244124,
+      "average_watch_time_raw": 10
+    },
+    {
+      "published_date": "20261006",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7693600832146787597?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 243,
+      "completion_rate_raw": 0.0002759999968111515,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261006",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7693589933730090254?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 276,
+      "completion_rate_raw": 0.00045099999755620956,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261006",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7693553669706452254?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 757,
+      "completion_rate_raw": 0.00017500000074505807,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261006",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7693261923978202381?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 209,
+      "completion_rate_raw": 0.0002779999934136867,
+      "average_watch_time_raw": 3
+    },
+    {
+      "published_date": "20261006",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7693261793891798286?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 245,
+      "completion_rate_raw": 0.00029100000858306885,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261005",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7693261310389259533?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 23,
+      "completion_rate_raw": 0.00037000000476837156,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261005",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7693261183775673613?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 493,
+      "completion_rate_raw": 0.00014499999582767486,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261005",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7693219956917406989?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 23,
+      "completion_rate_raw": 0.0004349999874830246,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261005",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7693203105080462605?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 91,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261005",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7693049507902147870?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 200,
+      "completion_rate_raw": 0.0002659999951720238,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261005",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7693011779063958815?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 381,
+      "completion_rate_raw": 0.00021299999207258224,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261004",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7692887150995557646?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 171,
+      "completion_rate_raw": 0,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261004",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7692885976745577741?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 377,
+      "completion_rate_raw": 0.0004890000075101853,
+      "average_watch_time_raw": 4
+    },
+    {
+      "published_date": "20261004",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7692499468897242381?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 65,
+      "completion_rate_raw": 0.00015200000256299973,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261004",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7692499232023923982?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 60,
+      "completion_rate_raw": 0.0001640000008046627,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261004",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7692498957087313165?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 443,
+      "completion_rate_raw": 0.0004010000079870224,
+      "average_watch_time_raw": 4
+    },
+    {
+      "published_date": "20261003",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7692215754527149325?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 280,
+      "completion_rate_raw": 0.0005160000175237656,
+      "average_watch_time_raw": 4
+    },
+    {
+      "published_date": "20261003",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7692215785455881485?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 136,
+      "completion_rate_raw": 0.00014399999752640725,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261003",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7692215182935739661?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 215,
+      "completion_rate_raw": 0.00041700001806020735,
+      "average_watch_time_raw": 7
+    },
+    {
+      "published_date": "20261003",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7692214675236228382?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 235,
+      "completion_rate_raw": 0.0001269999984651804,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261003",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7692121504355552525?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 79,
+      "completion_rate_raw": 0.0001119999960064888,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261003",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7692120174698188046?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 157,
+      "completion_rate_raw": 0.000060000000521540644,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261002",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7692118167174286606?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 514,
+      "completion_rate_raw": 0.0002370000071823597,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261002",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7692118017630555405?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 389,
+      "completion_rate_raw": 0.00009800000116229057,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261002",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7692094250690809101?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 912,
+      "completion_rate_raw": 0.00010999999940395356,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261002",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7691867162759154957?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 448,
+      "completion_rate_raw": 0.0002070000022649765,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261002",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7691864336830057759?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 368,
+      "completion_rate_raw": 0.00019600000232458114,
+      "average_watch_time_raw": 2
+    },
+    {
+      "published_date": "20261001",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7691761397323140366?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 289,
+      "completion_rate_raw": 0.00020500000566244124,
+      "average_watch_time_raw": 1
+    },
+    {
+      "published_date": "20261001",
+      "video_url": "https://www.tiktok.com/@maya._.finds/video/7691718589937650957?utm_campaign=tt4d_open_api&utm_source=6853989043827376134",
+      "views": 748,
+      "completion_rate_raw": 0.000908999964594841,
+      "average_watch_time_raw": 3
+    }
+  ],
+  "notes": "Values transcribed directly from Metricool response. Completion and watch-time units not yet independently validated; raw fields retained without interpretive claims. No product or Gemini review attribution."
 }
