@@ -83,3 +83,11 @@
 - Highest observed view counts in this snapshot: **1,197**, **1,133**, **912**, **901**, **829**. These are raw Metricool views, not sales or proof of a winning creative format.
 - **Connection status: Metricool read and GitHub write verified end-to-end manually.** First unattended daily scheduled run still pending.
 - Completion and watch-time fields are preserved as raw values pending unit verification. Next step: identify creative/product for top videos and link actual reviewed Gemini outputs to published URLs.
+
+## HQ refresh — 2026-10-25 (latest manual audit)
+
+- **Analytics:** 122 Metricool TikTok video rows saved in `maya-performance-snapshot.json` (Oct 1–25). Top five observed views: 1,197; 1,133; 912; 901; 829. Video/product identities and watch-time units not yet verified. Earlier 'no rows' entries are historical and superseded by the successful reconnect.
+- **TikTok Shop (historical reports, not live):** Oct 7–13: 4,600 impressions, 112 clicks, 2.43% CTR, 2 sales, $39.68 GMV. Oct 17–23: 5,500 impressions, 101 clicks, 1.84% CTR, zero reported sales. Keep separate from Metricool views.
+- **Gemini QC:** Tan sneaker generation previously reviewed REGENERATE (7/10): altered oversized cream side stripe and laces; preserve camera/outfit, retry product accuracy once. Other recurring issues: PJ stripes, perfume microtext, mask button, lavender leggings camera geometry/color coordination. Do not infer posted-video matches.
+- **Automation audit:** Five enabled recurring tasks: Maya Analytics Sync (daily 9 AM PT, starts Oct 26), Maya Product Scout (daily 10 AM PT, starts Oct 26), Maya Weekly Strategy (Sunday 6 PM PT), Daily Maya Finds Brief (daily morning flexible), Viral Fashion Trend Scout (daily morning flexible). Gemini Credits Reminder and old Maya Posting Plan disabled. No recurring task has a verified completed run as of this audit. Task notifications and email delivery are disabled in the returned status.
+- **Automation limitations:** Scheduled task does not automatically edit this HQ document unless its prompt performs a successful GitHub write; analytics sync is instructed to update the JSON snapshot, not necessarily this Markdown HQ. No automatic Gemini file ingestion or verified Shop analytics connector.
