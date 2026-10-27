@@ -1,0 +1,37 @@
+name: EchoTik Product Scout (manual verification)
+on:
+  workflow_dispatch:
+    inputs:
+      query_json:
+        description: 'Verified EchoTik ranking query parameters as JSON (required)'
+        required: true
+        type: string
+permissions:
+  contents: write
+concurrency:
+  group: echotik-product-scout
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch rankings (one HTTP API request)
+        env:
+          ECHOTIK_USERNAME: ${{ secrets.ECHOTIK_USERNAME }}
+          ECHOTIK_PASSWORD: ${{ secrets.ECHOTIK_PASSWORD }}
+          ECHOTIK_QUERY_JSON: ${{ inputs.query_json }}
+        run: python scripts/echotik_product_scout.py
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/echotik-product-rankings.json
+          if ! git diff --cached --quiet; then
+            git commit -m "data: refresh EchoTik product rankings"
+            git push
+          fi
