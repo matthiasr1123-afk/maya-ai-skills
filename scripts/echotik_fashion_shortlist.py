@@ -13,6 +13,9 @@ if not isinstance(products, list):
 fashion = re.compile(r"\b(leggings?|jeans|pants|trousers|sweaters?|jackets?|shoes?|sneakers?|handbags?|purses?|cardigans?|hoodies?|dresses?|skirts?|blouses?|clogs?|sandals?|socks?|boots?|coats?|knitwear|matching set)\b", re.I)
 exclude = re.compile(r"\b(supplements?|magnesium|vitamins?|serum|shampoo|body wash|bras?|bodysuits?|faja|shapewear|cosmetics?|skincare)\b", re.I)
 
+EVIDENCE = Path("data/echotik-competition-evidence.json")
+evidence = json.loads(EVIDENCE.read_text()) if EVIDENCE.exists() else {"status": "missing", "products": {}}
+
 matches = []
 for product in products:
     name = str(product.get("product_name") or "")
@@ -43,19 +46,25 @@ lines = [
     f"Sample: {len(products)} unique products across {len(record.get('pages', [1]))} pages; fashion leads: {len(matches)}.", "",
     "EchoTik-reported counts and rates are research leads, not verified live affiliate offers. ",
     "Sales/video reporting windows, creator saturation, recent velocity, product listing URLs, ",
-    "and TikTok Shop eligibility are unverified. Low video count does NOT prove low competition.", "",
+    "and TikTok Shop eligibility are unverified. Low video count does NOT prove low competition.",
+    f"Detail enrichment status: {evidence.get('status', 'missing')}; verified creator/listing saturation: UNKNOWN.", "",
 ]
 for i, p in enumerate(matches[:10], 1):
     price = float(p.get("spu_avg_price") or 0)
     rate = float(p.get("product_commission_rate") or 0)
+    detail = evidence.get("products", {}).get(str(p.get("product_id")), {})
+    recent_sales = detail.get("total_sale_30d_cnt")
+    recent_videos = detail.get("total_video_30d_cnt")
+    creator_videos = detail.get("total_ifl_video_30d_cnt")
     lines.extend([
         f"## {i}. {p.get('product_name', 'Unnamed product')}", 
         f"- EchoTik product ID: {p.get('product_id', 'unknown')}",
         f"- Preliminary evidence score: {rank_score(p)}/50 (demand and payout proxies only; not a final recommendation)",
         f"- Reported sales: {p.get('total_sale_cnt', 'unknown')} | reported videos: {p.get('total_video_cnt', 'unknown')}",
         f"- Average price: ${price:.2f} | reported commission: {rate*100:.1f}% | estimated payout: ${price*rate:.2f} (not guaranteed)",
-        "- Competition: UNKNOWN unless independent unique-creator and competing-listing counts are supplied. Reported videos alone cannot establish saturation.",
-        "- Recent growth: UNKNOWN unless comparable dated snapshots with matching measurement windows exist",
+        f"- EchoTik 30d sales: {recent_sales if recent_sales is not None else 'UNKNOWN'} | 30d videos: {recent_videos if recent_videos is not None else 'UNKNOWN'} | 30d influencer-linked videos: {creator_videos if creator_videos is not None else 'UNKNOWN'}",
+        "- Unique active creators and competing listings: UNKNOWN (not supplied by this enrichment). Do not call competition LOW.",
+        "- Growth trend: UNKNOWN until comparable period metrics or historical snapshots are validated",
         "- Status: CONDITIONAL RESEARCH LEAD, never auto-approved; verify exact listing, creator eligibility, commission, recent demand, competition and product fidelity", "",
     ])
 if not matches:
