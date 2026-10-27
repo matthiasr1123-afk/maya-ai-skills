@@ -37,7 +37,7 @@ if ids:
                 pid = str(p.get("product_id", ""))
                 if pid not in ids:
                     continue
-                fields = ["total_sale_7d_cnt", "total_sale_30d_cnt", "total_video_7d_cnt", "total_video_30d_cnt", "total_ifl_video_7d_cnt", "total_ifl_video_30d_cnt", "total_ifl_cnt", "product_rating", "review_count", "total_sale_cnt"]
+                fields = ["total_sale_1d_cnt", "total_sale_7d_cnt", "total_sale_30d_cnt", "total_sale_60d_cnt", "total_video_7d_cnt", "total_video_30d_cnt", "total_ifl_video_7d_cnt", "total_ifl_video_30d_cnt", "total_ifl_cnt", "total_video_sale_7d_cnt", "total_video_sale_30d_cnt", "total_live_sale_30d_cnt", "total_sale_gmv_30d_amt", "product_rating", "review_count", "total_sale_cnt", "seller_id", "free_shipping", "sale_props", "specification", "sales_trend_flag", "product_commission_rate"]
                 out["products"][pid] = {k: p[k] for k in fields if k in p and p[k] is not None}
             out["status"] = "partial" if len(out["products"]) < len(ids) else "complete"
         except (urllib.error.HTTPError, urllib.error.URLError, ValueError, json.JSONDecodeError) as exc:
