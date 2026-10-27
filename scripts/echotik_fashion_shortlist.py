@@ -15,5 +15,5 @@ for p in matches:
     lines.extend(["## " + p["product_name"], "- Product ID: " + str(p["product_id"]), "- Reported sales: " + str(p.get("total_sale_cnt")) + " | videos: " + str(p.get("total_video_cnt")), "- Average price: $" + str(price) + " | Commission: " + str(round(rate*100,1)) + "% | Estimated payout: $" + str(round(price*rate,2)), "- Status: RESEARCH LEAD (not yet approved for posting)", ""])
 if not matches:
     lines.append("No qualifying fashion leads in the 10-product general ranking sample. Do not force a recommendation.")
-Path("data/maya-echotik-fashion-shortlist.md").write_text("\\n".join(lines) + "\\n")
+Path("data/maya-echotik-fashion-shortlist.md").write_text("\n".join(lines) + "\n")
 print("Shortlisted", len(matches), "fashion products")
