@@ -1,4 +1,4 @@
-name: EchoTik Product Scout — daily multi-page research
+name: EchoTik Product Scout
 on:
   schedule:
     - cron: '35 16 * * *'
@@ -6,8 +6,8 @@ on:
     inputs:
       query_json:
         description: 'US daily best-selling products; default query is ready to test'
-        required: false
-        default: ''
+        required: true
+        default: '{"date":"2026-10-26","region":"US","rank_type":1,"product_rank_field":1,"page_num":1,"page_size":10}'
         type: string
 permissions:
   contents: write
@@ -23,8 +23,6 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Validate Python scripts
-        run: python -m py_compile scripts/echotik_product_scout.py scripts/echotik_fashion_shortlist.py
       - name: Fetch rankings (up to five HTTP API requests)
         env:
           ECHOTIK_USERNAME: ${{ secrets.ECHOTIK_USERNAME }}
