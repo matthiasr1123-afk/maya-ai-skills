@@ -1,5 +1,7 @@
 name: EchoTik Product Scout (manual verification)
 on:
+  schedule:
+    - cron: '35 15 * * *'
   workflow_dispatch:
     inputs:
       query_json:
@@ -25,13 +27,15 @@ jobs:
         env:
           ECHOTIK_USERNAME: ${{ secrets.ECHOTIK_USERNAME }}
           ECHOTIK_PASSWORD: ${{ secrets.ECHOTIK_PASSWORD }}
-          ECHOTIK_QUERY_JSON: ${{ inputs.query_json }}
+          ECHOTIK_QUERY_JSON: ${{ github.event_name == 'workflow_dispatch' && inputs.query_json || '' }}
         run: python scripts/echotik_product_scout.py
+      - name: Build fashion shortlist
+        run: python scripts/echotik_fashion_shortlist.py
       - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/echotik-product-rankings.json
+          git add data/echotik-product-rankings.json data/maya-echotik-fashion-shortlist.md
           if ! git diff --cached --quiet; then
             git commit -m "data: refresh EchoTik product rankings"
             git push
