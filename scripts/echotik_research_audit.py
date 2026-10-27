@@ -2,6 +2,7 @@
 """Machine-readable research health, coverage, data freshness, and review gates."""
 import datetime as dt
 import json
+from maya_affiliate_status import eligible_status
 from pathlib import Path
 p = Path("data")
 names = ["echotik-product-rankings.json", "echotik-competition-evidence.json",
@@ -37,12 +38,14 @@ audit = {
     "advanced_status": signals.get("status", "missing"),
     "advanced_products": len(signals.get("products", {})),
     "advanced_api_requests": signals.get("api_requests_attempted", 0),
-    "affiliate_verified_product_count": sum(1 for v in files[names[4]].get("products", {}).values() if v.get("eligibility") == "ELIGIBLE"),
+    "affiliate_verified_product_count": sum(1 for pid, v in files[names[4]].get("products", {}).items() if eligible_status(v, pid, now) == "ELIGIBLE"),
     "unique_active_creator_count_verified": False,
     "equivalent_competing_listing_count_verified": False,
     "automated_approval_enabled": False,
     "issues": []
 }
+if audit["affiliate_verified_product_count"] == 0:
+    audit["issues"].append("Creator-specific affiliate verification unavailable: no fresh verified eligible products")
 if not fresh: audit["issues"].append("Ranking stale or missing")
 if len(ids) < 10: audit["issues"].append("Ranking sample below 10 products")
 for key in ("detail_status", "creator_status", "advanced_status"):
@@ -65,3 +68,4 @@ summary = [
 ] + (["- " + x for x in audit["issues"]] if audit["issues"] else ["- None detected in covered checks. Unverified gates still apply."])
 (p / "maya-product-scout-health.md").write_text("\n".join(summary) + "\n")
 print("Audit complete:", len(audit["issues"]), "issues")
+
