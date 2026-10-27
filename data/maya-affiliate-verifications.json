@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "description": "Creator-account-specific TikTok Shop affiliate checks. Only mark eligible with verified authorized source and recent timestamp. No credentials.",
+  "products": {},
+  "example_fields_not_a_real_record": {
+    "product_id": "",
+    "eligibility": "UNVERIFIED",
+    "checked_at_utc": null,
+    "source": "",
+    "commission_rate": null,
+    "region": "US",
+    "product_url": null,
+    "notes": ""
+  }
+}
