@@ -76,6 +76,8 @@ for i, p in enumerate(matches[:10], 1):
         except (ValueError, TypeError):
             pass
     recent_sales = detail.get("total_sale_30d_cnt")
+    weekly_sales = detail.get("total_sale_7d_cnt")
+    weekly_rate = round(weekly_sales / (recent_sales / 30 * 7), 2) if isinstance(weekly_sales, (int, float)) and isinstance(recent_sales, (int, float)) and recent_sales > 0 else None
     recent_videos = detail.get("total_video_30d_cnt")
     creator_videos = detail.get("total_ifl_video_30d_cnt")
     lines.extend([
@@ -84,7 +86,10 @@ for i, p in enumerate(matches[:10], 1):
         f"- Preliminary evidence score: {rank_score(p)}/50 (demand and payout proxies only; not a final recommendation)",
         f"- Reported sales: {p.get('total_sale_cnt', 'unknown')} | reported videos: {p.get('total_video_cnt', 'unknown')}",
         f"- Average price: ${price:.2f} | reported commission: {rate*100:.1f}% | estimated payout: ${price*rate:.2f} (not guaranteed)",
-        f"- EchoTik 30d sales: {recent_sales if recent_sales is not None else 'UNKNOWN'} | 30d videos: {recent_videos if recent_videos is not None else 'UNKNOWN'} | 30d influencer-linked videos: {creator_videos if creator_videos is not None else 'UNKNOWN'}",
+        f"- EchoTik 7d sales: {weekly_sales if weekly_sales is not None else 'UNKNOWN'} | 30d sales: {recent_sales if recent_sales is not None else 'UNKNOWN'} | 7d-vs-30d daily pace ratio: {weekly_rate if weekly_rate is not None else 'UNKNOWN'} (not proof of sustained growth)",
+        f"- EchoTik 30d videos: {recent_videos if recent_videos is not None else 'UNKNOWN'} | 30d influencer-linked videos: {creator_videos if creator_videos is not None else 'UNKNOWN'}",
+        f"- Video-driven 30d sales: {detail.get('total_video_sale_30d_cnt', 'UNKNOWN')} | Live-driven 30d sales: {detail.get('total_live_sale_30d_cnt', 'UNKNOWN')}",
+        f"- Product rating: {detail.get('product_rating', 'UNKNOWN')} | reviews: {detail.get('review_count', 'UNKNOWN')} | free shipping flag: {detail.get('free_shipping', 'UNKNOWN')}",
         f"- Associated creators observed: {creator.get('unique_associated_creators_observed') if creator.get('unique_associated_creators_observed') is not None else 'UNKNOWN'} (sample; pages: {creator.get('pages_sampled', 0)}, exhausted: {creator.get('pagination_exhausted', False)})",
         f"- Total associated creators: {creator.get('total_associated_creators') if creator.get('total_associated_creators') is not None else 'UNKNOWN'} (only shown if pagination fully exhausted)",
         "- Unique ACTIVE creators last 30 days: UNKNOWN (creator activity window not established)",
