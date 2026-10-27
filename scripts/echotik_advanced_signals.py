@@ -30,7 +30,7 @@ def fetch(endpoint, params):
     url = "https://open.echotik.live/api/v3/echotik/" + endpoint + "?" + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={"Authorization": "Basic " + auth, "Accept": "application/json"})
     try:
-        with urllib.request.urlopen(req, timeout=20) as response:
+        with urllib.request.urlopen(req, timeout=15) as response:
             result = json.load(response)
         if isinstance(result, dict) and result.get("code") == 0 and isinstance(result.get("data"), list):
             return result["data"], None
