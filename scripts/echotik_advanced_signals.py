@@ -22,7 +22,7 @@ now = dt.datetime.now(dt.timezone.utc)
 start = (now - dt.timedelta(days=31)).date().isoformat()
 end = (now - dt.timedelta(days=1)).date().isoformat()
 out = {"checked_at_utc": now.isoformat(), "source": "EchoTik offline T+1", "products": {},
-       "status": "unavailable", "api_requests_attempted": 0, "request_budget": 10}
+       "status": "unavailable", "api_requests_attempted": 0, "request_budget": 20}
 user, password = os.environ.get("ECHOTIK_USERNAME", ""), os.environ.get("ECHOTIK_PASSWORD", "")
 auth = base64.b64encode((user + ":" + password).encode()).decode() if user and password else ""
 def fetch(endpoint, params):
@@ -50,19 +50,29 @@ if auth:
                 "reported_daily_sales_sample_sum": sum(float(r.get("total_sale_1d_cnt") or 0) for r in dates),
                 "complete_30_day_window": False,
                 "note": "At most 10 daily snapshots fetched; do not label sample sum as 30-day sales"}
-        rows, error = fetch("product/video/list", {"product_id": pid, "min_create_time": int((now-dt.timedelta(days=30)).timestamp()),
-                 "max_create_time": int(now.timestamp()), "page_num": 1, "page_size": 10})
-        if error:
-            entry["errors"].append("video:" + error)
-        elif rows is not None:
-            unique = {str(r.get("user_id")) for r in rows if isinstance(r, dict) and r.get("user_id")}
-            views = [float(r.get("total_views_cnt") or 0) for r in rows if isinstance(r, dict)]
-            entry["video_sample"] = {"sample_size": len(rows), "unique_creators_in_sample": len(unique),
+        # Bounded three-page sample; only claim exact observed unique IDs, not market total.
+        videos, video_errors, exhausted = [], [], False
+        for page in range(1, 4):
+            rows, error = fetch("product/video/list", {"product_id": pid,
+                "min_create_time": int((now-dt.timedelta(days=30)).timestamp()),
+                "max_create_time": int(now.timestamp()), "page_num": page, "page_size": 10})
+            if error:
+                video_errors.append("video_page_" + str(page) + ":" + error)
+                break
+            videos.extend(r for r in rows if isinstance(r, dict))
+            if len(rows) < 10:
+                exhausted = True
+                break
+        entry["errors"].extend(video_errors)
+        if videos or exhausted:
+            unique = {str(r.get("user_id")) for r in videos if r.get("user_id")}
+            views = sorted(float(r.get("total_views_cnt") or 0) for r in videos)
+            entry["video_sample"] = {"sample_size": len(videos), "unique_creators_in_sample": len(unique),
                 "sample_views_max": max(views) if views else None,
-                "sample_views_median": sorted(views)[len(views)//2] if views else None,
-                "sample_is_complete": len(rows) < 10,
+                "sample_views_median": views[len(views)//2] if views else None,
+                "pages_sampled": min(3, (len(videos) + 9)//10), "pagination_exhausted": exhausted,
                 "unique_active_creators_30d": None,
-                "note": "Sampled creators only; full 30-day creator count unverified without pagination and confirmed date filtering"}
+                "note": "Observed creator IDs only; 30-day completeness and API date-filter behavior unverified"}
         out["products"][pid] = entry
     out["status"] = "partial" if any(v["errors"] for v in out["products"].values()) else "sampled"
 elif not ids:
