@@ -15,7 +15,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Validate Python syntax
-        run: python -m py_compile scripts/echotik_product_scout.py scripts/echotik_competition_enrich.py scripts/echotik_creator_competition.py scripts/echotik_advanced_signals.py scripts/echotik_research_audit.py scripts/echotik_fashion_shortlist.py
+        run: python -m py_compile scripts/echotik_product_scout.py scripts/echotik_competition_enrich.py scripts/echotik_creator_competition.py scripts/echotik_advanced_signals.py scripts/echotik_research_audit.py scripts/echotik_competing_listings.py scripts/echotik_fashion_shortlist.py
       - name: Fetch EchoTik rankings
         env:
           ECHOTIK_USERNAME: ${{ secrets.ECHOTIK_USERNAME }}
@@ -37,6 +37,8 @@ jobs:
           ECHOTIK_USERNAME: ${{ secrets.ECHOTIK_USERNAME }}
           ECHOTIK_PASSWORD: ${{ secrets.ECHOTIK_PASSWORD }}
         run: python scripts/echotik_advanced_signals.py
+      - name: Compare overlapping listings in ranking sample
+        run: python scripts/echotik_competing_listings.py
       - name: Build fashion shortlist
         run: python scripts/echotik_fashion_shortlist.py
       - name: Audit data quality and coverage
@@ -45,7 +47,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/echotik-product-rankings.json data/maya-echotik-fashion-shortlist.md data/echotik-competition-evidence.json data/echotik-creator-competition.json data/echotik-advanced-signals.json data/maya-product-scout-audit.json data/maya-product-scout-health.md
+          git add data/echotik-product-rankings.json data/maya-echotik-fashion-shortlist.md data/echotik-competition-evidence.json data/echotik-creator-competition.json data/echotik-advanced-signals.json data/maya-product-scout-audit.json data/maya-product-scout-health.md data/echotik-listing-overlap.json
           if ! git diff --cached --quiet; then
             git commit -m "data: refresh EchoTik product rankings"
             git push
