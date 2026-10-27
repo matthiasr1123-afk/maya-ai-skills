@@ -5,7 +5,7 @@ on:
       query_json:
         description: 'US daily best-selling products; default query is ready to test'
         required: true
-        default: '{"date":"2026-10-26","region":"US","rank_type":1,"product_rank_field":1,"page_num":1,"page_size":20}'
+        default: '{"date":"2026-10-26","region":"US","rank_type":1,"product_rank_field":1,"page_num":1,"page_size":10}'
         type: string
 permissions:
   contents: write
