@@ -30,7 +30,7 @@ if ids and user and password:
                 {"product_id": pid, "page_num": page, "page_size": 10})
             req = urllib.request.Request(url, headers={"Authorization": "Basic " + auth, "Accept": "application/json"})
             try:
-                with urllib.request.urlopen(req, timeout=20) as response:
+                with urllib.request.urlopen(req, timeout=15) as response:
                     data = json.load(response)
                 if not isinstance(data, dict) or data.get("code") != 0 or not isinstance(data.get("data"), list):
                     raise ValueError("Invalid API response")
