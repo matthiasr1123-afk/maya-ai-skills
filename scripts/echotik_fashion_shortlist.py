@@ -50,7 +50,8 @@ for i, p in enumerate(matches[:10], 1):
     rate = float(p.get("product_commission_rate") or 0)
     lines.extend([
         f"## {i}. {p.get('product_name', 'Unnamed product')}", 
-        f"- EchoTik product ID: {p.get('product_id', 'unknown')}",\n        f"- Preliminary evidence score: {rank_score(p)}/50 (demand and payout proxies only; not a final recommendation)",
+        f"- EchoTik product ID: {p.get('product_id', 'unknown')}",
+        f"- Preliminary evidence score: {rank_score(p)}/50 (demand and payout proxies only; not a final recommendation)",
         f"- Reported sales: {p.get('total_sale_cnt', 'unknown')} | reported videos: {p.get('total_video_cnt', 'unknown')}",
         f"- Average price: ${price:.2f} | reported commission: {rate*100:.1f}% | estimated payout: ${price*rate:.2f} (not guaranteed)",
         "- Competition: UNKNOWN unless independent unique-creator and competing-listing counts are supplied. Reported videos alone cannot establish saturation.",\n        "- Recent growth: UNKNOWN unless comparable dated snapshots with matching measurement windows exist",
