@@ -20,7 +20,8 @@ def main():
     if not username or not password:
         sys.exit("Missing EchoTik credentials in GitHub Actions secrets.")
     if not query:
-        sys.exit("ECHOTIK_QUERY_JSON is required; no API request made.")
+        yesterday = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=1)).date().isoformat()
+        query = json.dumps({"date": yesterday, "region": "US", "rank_type": 1, "product_rank_field": 1, "page_num": 1, "page_size": 10})
     try:
         params = json.loads(query)
     except json.JSONDecodeError:
@@ -40,6 +41,8 @@ def main():
         sys.exit("EchoTik HTTP " + str(exc.code) + " response: " + body)
     except (urllib.error.URLError, json.JSONDecodeError) as exc:
         sys.exit("EchoTik request failed: " + str(exc))
+    if not isinstance(data, dict) or data.get("code") != 0 or not isinstance(data.get("data"), list):
+        sys.exit("EchoTik did not return a valid successful product list.")
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     record = {"source": "EchoTik Product Ranking List", "endpoint": URL, "checked_at_utc": dt.datetime.now(dt.timezone.utc).isoformat(), "query": params, "data": data}
     OUTPUT.write_text(json.dumps(record, ensure_ascii=False, indent=2) + "\n")
