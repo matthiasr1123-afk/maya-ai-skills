@@ -24,6 +24,9 @@ advanced = json.loads(ADVANCED.read_text()) if ADVANCED.exists() else {"status":
 AFFILIATE = Path("data/maya-affiliate-verifications.json")
 affiliate = json.loads(AFFILIATE.read_text()) if AFFILIATE.exists() else {"products": {}}
 
+LISTINGS = Path("data/echotik-listing-overlap.json")
+listings = json.loads(LISTINGS.read_text()) if LISTINGS.exists() else {"products": {}}
+
 matches = []
 for product in products:
     name = str(product.get("product_name") or "")
@@ -66,6 +69,7 @@ for i, p in enumerate(matches[:10], 1):
     videos = signal.get("video_sample", {})
     trend = signal.get("trend", {})
     eligible = affiliate.get("products", {}).get(str(p.get("product_id")), {})
+    listing = listings.get("products", {}).get(str(p.get("product_id")), {})
     affiliate_status = "UNVERIFIED"
     if eligible.get("eligibility") in ("ELIGIBLE", "INELIGIBLE") and eligible.get("checked_at_utc") and eligible.get("source"):
         from datetime import datetime, timezone, timedelta
@@ -93,7 +97,8 @@ for i, p in enumerate(matches[:10], 1):
         f"- Associated creators observed: {creator.get('unique_associated_creators_observed') if creator.get('unique_associated_creators_observed') is not None else 'UNKNOWN'} (sample; pages: {creator.get('pages_sampled', 0)}, exhausted: {creator.get('pagination_exhausted', False)})",
         f"- Total associated creators: {creator.get('total_associated_creators') if creator.get('total_associated_creators') is not None else 'UNKNOWN'} (only shown if pagination fully exhausted)",
         "- Unique ACTIVE creators last 30 days: UNKNOWN (creator activity window not established)",
-        "- Competing equivalent product listings: UNKNOWN (requires validated matching product search)",
+        f"- Other broad-category listings within our 50-product ranking sample: {listing.get('other_listings_in_ranking_sample', 'UNKNOWN')} (NOT a marketplace competitor count)",
+        "- Competing equivalent product listings marketwide: UNKNOWN (requires validated matching product search)",
         f"- Product-associated videos in 30d query sample: {videos.get('sample_size', 'UNKNOWN')} | unique sampled creators: {videos.get('unique_creators_in_sample', 'UNKNOWN')} | max sampled views: {videos.get('sample_views_max', 'UNKNOWN')}",
         f"- Trend snapshot days observed: {trend.get('sampled_days', 'UNKNOWN')} | sales in sampled days: {trend.get('reported_daily_sales_sample_sum', 'UNKNOWN')} (NOT a 30-day total)",
         f"- TikTok Shop affiliate eligibility for @maya._.finds: {affiliate_status} (account-specific, 48-hour freshness gate)",
