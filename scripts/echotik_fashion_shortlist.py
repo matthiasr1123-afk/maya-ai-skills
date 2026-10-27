@@ -19,13 +19,28 @@ for product in products:
     rate = float(product.get("product_commission_rate") or 0)
     if fashion.search(name) and not exclude.search(name) and rate > 0:
         matches.append(product)
-matches.sort(key=lambda p: float(p.get("total_sale_cnt") or 0), reverse=True)
+def number(value):
+    try:
+        return float(value or 0)
+    except (TypeError, ValueError):
+        return 0.0
+
+def rank_score(p):
+    # Evidence-based proxy only. Competition remains unknown without unique creator counts.
+    sales = max(0, number(p.get("total_sale_cnt")))
+    rate = max(0, number(p.get("product_commission_rate")))
+    price = max(0, number(p.get("spu_avg_price")))
+    import math
+    return round(30 * min(1, math.log1p(sales) / math.log1p(10000)) +
+                 20 * min(1, price * rate / 8), 1)
+
+matches.sort(key=lambda p: (rank_score(p), number(p.get("total_sale_cnt"))), reverse=True)
 
 lines = [
     "# Maya Finds — EchoTik Fashion Research Shortlist", "",
     f"Source snapshot date: {record.get('query', {}).get('date', 'unknown')}",
     f"Collected at (UTC): {record.get('checked_at_utc', 'unknown')}",
-    f"Sample: {len(products)} products from EchoTik US ranking query; fashion leads: {len(matches)}.", "",
+    f"Sample: {len(products)} unique products across {len(record.get('pages', [1]))} pages; fashion leads: {len(matches)}.", "",
     "EchoTik-reported counts and rates are research leads, not verified live affiliate offers. ",
     "Sales/video reporting windows, creator saturation, recent velocity, product listing URLs, ",
     "and TikTok Shop eligibility are unverified. Low video count does NOT prove low competition.", "",
@@ -35,11 +50,11 @@ for i, p in enumerate(matches[:10], 1):
     rate = float(p.get("product_commission_rate") or 0)
     lines.extend([
         f"## {i}. {p.get('product_name', 'Unnamed product')}", 
-        f"- EchoTik product ID: {p.get('product_id', 'unknown')}",
+        f"- EchoTik product ID: {p.get('product_id', 'unknown')}",\n        f"- Preliminary evidence score: {rank_score(p)}/50 (demand and payout proxies only; not a final recommendation)",
         f"- Reported sales: {p.get('total_sale_cnt', 'unknown')} | reported videos: {p.get('total_video_cnt', 'unknown')}",
         f"- Average price: ${price:.2f} | reported commission: {rate*100:.1f}% | estimated payout: ${price*rate:.2f} (not guaranteed)",
-        "- Competition: UNKNOWN; creator counts and comparable listing counts not verified",
-        "- Status: RESEARCH LEAD; verify exact listing, current affiliate terms and product fidelity", "",
+        "- Competition: UNKNOWN unless independent unique-creator and competing-listing counts are supplied. Reported videos alone cannot establish saturation.",\n        "- Recent growth: UNKNOWN unless comparable dated snapshots with matching measurement windows exist",
+        "- Status: CONDITIONAL RESEARCH LEAD, never auto-approved; verify exact listing, creator eligibility, commission, recent demand, competition and product fidelity", "",
     ])
 if not matches:
     lines.append("No qualifying fashion leads in this sample. Do not invent candidates; broaden research using verified sources.")
