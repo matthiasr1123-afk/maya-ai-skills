@@ -61,8 +61,8 @@ if auth:
                 "sample_views_max": max(views) if views else None,
                 "sample_views_median": sorted(views)[len(views)//2] if views else None,
                 "sample_is_complete": len(rows) < 10,
-                "unique_active_creators_30d": len(unique) if len(rows) < 10 else None,
-                "note": "Active creator count only if 30-day filtered video result is exhaustive; endpoint coverage still EchoTik-only"}
+                "unique_active_creators_30d": None,
+                "note": "Sampled creators only; full 30-day creator count unverified without pagination and confirmed date filtering"}
         out["products"][pid] = entry
     out["status"] = "partial" if any(v["errors"] for v in out["products"].values()) else "sampled"
 elif not ids:
