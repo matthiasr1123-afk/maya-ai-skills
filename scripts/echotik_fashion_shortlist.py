@@ -2,6 +2,7 @@
 """Create a conservative, evidence-labeled fashion shortlist from EchoTik rankings."""
 import json
 import re
+from maya_affiliate_status import eligible_status
 from pathlib import Path
 
 SOURCE = Path("data/echotik-product-rankings.json")
@@ -70,15 +71,7 @@ for i, p in enumerate(matches[:10], 1):
     trend = signal.get("trend", {})
     eligible = affiliate.get("products", {}).get(str(p.get("product_id")), {})
     listing = listings.get("products", {}).get(str(p.get("product_id")), {})
-    affiliate_status = "UNVERIFIED"
-    if eligible.get("eligibility") in ("ELIGIBLE", "INELIGIBLE") and eligible.get("checked_at_utc") and eligible.get("source"):
-        from datetime import datetime, timezone, timedelta
-        try:
-            checked = datetime.fromisoformat(eligible["checked_at_utc"].replace("Z", "+00:00"))
-            if checked.tzinfo and datetime.now(timezone.utc) - checked < timedelta(hours=48):
-                affiliate_status = eligible["eligibility"]
-        except (ValueError, TypeError):
-            pass
+    affiliate_status = eligible_status(eligible, str(p.get("product_id")))
     recent_sales = detail.get("total_sale_30d_cnt")
     weekly_sales = detail.get("total_sale_7d_cnt")
     weekly_rate = round(weekly_sales / (recent_sales / 30 * 7), 2) if isinstance(weekly_sales, (int, float)) and isinstance(recent_sales, (int, float)) and recent_sales > 0 else None
@@ -110,3 +103,4 @@ if not matches:
 OUTPUT.parent.mkdir(parents=True, exist_ok=True)
 OUTPUT.write_text("\n".join(lines) + "\n", encoding="utf-8")
 print(f"Shortlisted {len(matches)} fashion products from {len(products)} sampled products")
+
