@@ -19,6 +19,11 @@ evidence = json.loads(EVIDENCE.read_text()) if EVIDENCE.exists() else {"status":
 CREATOR_EVIDENCE = Path("data/echotik-creator-competition.json")
 creator_evidence = json.loads(CREATOR_EVIDENCE.read_text()) if CREATOR_EVIDENCE.exists() else {"status": "missing", "products": {}}
 
+ADVANCED = Path("data/echotik-advanced-signals.json")
+advanced = json.loads(ADVANCED.read_text()) if ADVANCED.exists() else {"status": "missing", "products": {}}
+AFFILIATE = Path("data/maya-affiliate-verifications.json")
+affiliate = json.loads(AFFILIATE.read_text()) if AFFILIATE.exists() else {"products": {}}
+
 matches = []
 for product in products:
     name = str(product.get("product_name") or "")
@@ -57,6 +62,19 @@ for i, p in enumerate(matches[:10], 1):
     rate = float(p.get("product_commission_rate") or 0)
     detail = evidence.get("products", {}).get(str(p.get("product_id")), {})
     creator = creator_evidence.get("products", {}).get(str(p.get("product_id")), {})
+    signal = advanced.get("products", {}).get(str(p.get("product_id")), {})
+    videos = signal.get("video_sample", {})
+    trend = signal.get("trend", {})
+    eligible = affiliate.get("products", {}).get(str(p.get("product_id")), {})
+    affiliate_status = "UNVERIFIED"
+    if eligible.get("eligibility") in ("ELIGIBLE", "INELIGIBLE") and eligible.get("checked_at_utc") and eligible.get("source"):
+        from datetime import datetime, timezone, timedelta
+        try:
+            checked = datetime.fromisoformat(eligible["checked_at_utc"].replace("Z", "+00:00"))
+            if checked.tzinfo and datetime.now(timezone.utc) - checked < timedelta(hours=48):
+                affiliate_status = eligible["eligibility"]
+        except (ValueError, TypeError):
+            pass
     recent_sales = detail.get("total_sale_30d_cnt")
     recent_videos = detail.get("total_video_30d_cnt")
     creator_videos = detail.get("total_ifl_video_30d_cnt")
@@ -71,7 +89,9 @@ for i, p in enumerate(matches[:10], 1):
         f"- Total associated creators: {creator.get('total_associated_creators') if creator.get('total_associated_creators') is not None else 'UNKNOWN'} (only shown if pagination fully exhausted)",
         "- Unique ACTIVE creators last 30 days: UNKNOWN (creator activity window not established)",
         "- Competing equivalent product listings: UNKNOWN (requires validated matching product search)",
-        "- TikTok Shop affiliate eligibility for @maya._.finds: UNVERIFIED (must check account-specific Product Marketplace)",
+        f"- Product-associated videos in 30d query sample: {videos.get('sample_size', 'UNKNOWN')} | unique sampled creators: {videos.get('unique_creators_in_sample', 'UNKNOWN')} | max sampled views: {videos.get('sample_views_max', 'UNKNOWN')}",
+        f"- Trend snapshot days observed: {trend.get('sampled_days', 'UNKNOWN')} | sales in sampled days: {trend.get('reported_daily_sales_sample_sum', 'UNKNOWN')} (NOT a 30-day total)",
+        f"- TikTok Shop affiliate eligibility for @maya._.finds: {affiliate_status} (account-specific, 48-hour freshness gate)",
         "- Growth trend: UNKNOWN until comparable period metrics or historical snapshots are validated",
         "- Status: CONDITIONAL RESEARCH LEAD, never auto-approved; verify exact listing, creator eligibility, commission, recent demand, competition and product fidelity", "",
     ])
