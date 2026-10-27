@@ -1,7 +1,7 @@
 {
   "source": "EchoTik Product Ranking List",
   "endpoint": "https://open.echotik.live/api/v3/echotik/product/ranklist",
-  "checked_at_utc": "2026-10-27T19:21:53.812240+00:00",
+  "checked_at_utc": "2026-10-27T19:39:26.639227+00:00",
   "query": {
     "date": "2026-10-26",
     "region": "US",

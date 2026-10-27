@@ -1,0 +1,18 @@
+{
+  "checked_at_utc": "2026-10-27T19:39:46.788879+00:00",
+  "ranking_fresh_under_30h": true,
+  "ranking_products": 50,
+  "ranking_pages": 5,
+  "detail_status": "complete",
+  "detail_products": 5,
+  "creator_status": "sampled",
+  "creator_products": 5,
+  "advanced_status": "sampled",
+  "advanced_products": 5,
+  "advanced_api_requests": 10,
+  "affiliate_verified_product_count": 0,
+  "unique_active_creator_count_verified": false,
+  "equivalent_competing_listing_count_verified": false,
+  "automated_approval_enabled": false,
+  "issues": []
+}
