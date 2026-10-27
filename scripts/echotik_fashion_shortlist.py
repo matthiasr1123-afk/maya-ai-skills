@@ -16,6 +16,9 @@ exclude = re.compile(r"\b(supplements?|magnesium|vitamins?|serum|shampoo|body wa
 EVIDENCE = Path("data/echotik-competition-evidence.json")
 evidence = json.loads(EVIDENCE.read_text()) if EVIDENCE.exists() else {"status": "missing", "products": {}}
 
+CREATOR_EVIDENCE = Path("data/echotik-creator-competition.json")
+creator_evidence = json.loads(CREATOR_EVIDENCE.read_text()) if CREATOR_EVIDENCE.exists() else {"status": "missing", "products": {}}
+
 matches = []
 for product in products:
     name = str(product.get("product_name") or "")
@@ -53,6 +56,7 @@ for i, p in enumerate(matches[:10], 1):
     price = float(p.get("spu_avg_price") or 0)
     rate = float(p.get("product_commission_rate") or 0)
     detail = evidence.get("products", {}).get(str(p.get("product_id")), {})
+    creator = creator_evidence.get("products", {}).get(str(p.get("product_id")), {})
     recent_sales = detail.get("total_sale_30d_cnt")
     recent_videos = detail.get("total_video_30d_cnt")
     creator_videos = detail.get("total_ifl_video_30d_cnt")
@@ -63,7 +67,11 @@ for i, p in enumerate(matches[:10], 1):
         f"- Reported sales: {p.get('total_sale_cnt', 'unknown')} | reported videos: {p.get('total_video_cnt', 'unknown')}",
         f"- Average price: ${price:.2f} | reported commission: {rate*100:.1f}% | estimated payout: ${price*rate:.2f} (not guaranteed)",
         f"- EchoTik 30d sales: {recent_sales if recent_sales is not None else 'UNKNOWN'} | 30d videos: {recent_videos if recent_videos is not None else 'UNKNOWN'} | 30d influencer-linked videos: {creator_videos if creator_videos is not None else 'UNKNOWN'}",
-        "- Unique active creators and competing listings: UNKNOWN (not supplied by this enrichment). Do not call competition LOW.",
+        f"- Associated creators observed: {creator.get('unique_associated_creators_observed') if creator.get('unique_associated_creators_observed') is not None else 'UNKNOWN'} (sample; pages: {creator.get('pages_sampled', 0)}, exhausted: {creator.get('pagination_exhausted', False)})",
+        f"- Total associated creators: {creator.get('total_associated_creators') if creator.get('total_associated_creators') is not None else 'UNKNOWN'} (only shown if pagination fully exhausted)",
+        "- Unique ACTIVE creators last 30 days: UNKNOWN (creator activity window not established)",
+        "- Competing equivalent product listings: UNKNOWN (requires validated matching product search)",
+        "- TikTok Shop affiliate eligibility for @maya._.finds: UNVERIFIED (must check account-specific Product Marketplace)",
         "- Growth trend: UNKNOWN until comparable period metrics or historical snapshots are validated",
         "- Status: CONDITIONAL RESEARCH LEAD, never auto-approved; verify exact listing, creator eligibility, commission, recent demand, competition and product fidelity", "",
     ])
