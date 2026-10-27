@@ -1,13 +1,13 @@
-name: EchoTik Product Scout (manual verification)
+name: EchoTik Product Scout — daily multi-page research
 on:
   schedule:
-    - cron: '35 15 * * *'
+    - cron: '35 16 * * *'
   workflow_dispatch:
     inputs:
       query_json:
         description: 'US daily best-selling products; default query is ready to test'
-        required: true
-        default: '{"date":"2026-10-26","region":"US","rank_type":1,"product_rank_field":1,"page_num":1,"page_size":10}'
+        required: false
+        default: ''
         type: string
 permissions:
   contents: write
@@ -17,17 +17,17 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Fetch rankings (one HTTP API request)
+      - name: Validate Python scripts\n        run: python -m py_compile scripts/echotik_product_scout.py scripts/echotik_fashion_shortlist.py\n      - name: Fetch rankings (up to five HTTP API requests)
         env:
           ECHOTIK_USERNAME: ${{ secrets.ECHOTIK_USERNAME }}
           ECHOTIK_PASSWORD: ${{ secrets.ECHOTIK_PASSWORD }}
-          ECHOTIK_QUERY_JSON: ${{ github.event_name == 'workflow_dispatch' && inputs.query_json || '' }}
+          ECHOTIK_MAX_PAGES: "5"\n          ECHOTIK_QUERY_JSON: ${{ github.event_name == 'workflow_dispatch' && inputs.query_json || '' }}
         run: python scripts/echotik_product_scout.py
       - name: Build fashion shortlist
         run: python scripts/echotik_fashion_shortlist.py
