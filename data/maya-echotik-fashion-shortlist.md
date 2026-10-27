@@ -21,7 +21,8 @@ Detail enrichment status: complete; verified creator/listing saturation: UNKNOWN
 - Associated creators observed: 29 (sample; pages: 3, exhausted: False)
 - Total associated creators: UNKNOWN (only shown if pagination fully exhausted)
 - Unique ACTIVE creators last 30 days: UNKNOWN (creator activity window not established)
-- Competing equivalent product listings: UNKNOWN (requires validated matching product search)
+- Other broad-category listings within our 50-product ranking sample: UNKNOWN (NOT a marketplace competitor count)
+- Competing equivalent product listings marketwide: UNKNOWN (requires validated matching product search)
 - Product-associated videos in 30d query sample: 10 | unique sampled creators: 9 | max sampled views: 50644.0
 - Trend snapshot days observed: 10 | sales in sampled days: 12215.0 (NOT a 30-day total)
 - TikTok Shop affiliate eligibility for @maya._.finds: UNVERIFIED (account-specific, 48-hour freshness gate)
@@ -40,7 +41,8 @@ Detail enrichment status: complete; verified creator/listing saturation: UNKNOWN
 - Associated creators observed: 28 (sample; pages: 3, exhausted: False)
 - Total associated creators: UNKNOWN (only shown if pagination fully exhausted)
 - Unique ACTIVE creators last 30 days: UNKNOWN (creator activity window not established)
-- Competing equivalent product listings: UNKNOWN (requires validated matching product search)
+- Other broad-category listings within our 50-product ranking sample: UNKNOWN (NOT a marketplace competitor count)
+- Competing equivalent product listings marketwide: UNKNOWN (requires validated matching product search)
 - Product-associated videos in 30d query sample: 10 | unique sampled creators: 10 | max sampled views: 4705.0
 - Trend snapshot days observed: 10 | sales in sampled days: 10718.0 (NOT a 30-day total)
 - TikTok Shop affiliate eligibility for @maya._.finds: UNVERIFIED (account-specific, 48-hour freshness gate)
@@ -59,7 +61,8 @@ Detail enrichment status: complete; verified creator/listing saturation: UNKNOWN
 - Associated creators observed: 29 (sample; pages: 3, exhausted: False)
 - Total associated creators: UNKNOWN (only shown if pagination fully exhausted)
 - Unique ACTIVE creators last 30 days: UNKNOWN (creator activity window not established)
-- Competing equivalent product listings: UNKNOWN (requires validated matching product search)
+- Other broad-category listings within our 50-product ranking sample: UNKNOWN (NOT a marketplace competitor count)
+- Competing equivalent product listings marketwide: UNKNOWN (requires validated matching product search)
 - Product-associated videos in 30d query sample: 10 | unique sampled creators: 8 | max sampled views: 12070.0
 - Trend snapshot days observed: 10 | sales in sampled days: 10714.0 (NOT a 30-day total)
 - TikTok Shop affiliate eligibility for @maya._.finds: UNVERIFIED (account-specific, 48-hour freshness gate)
@@ -78,7 +81,8 @@ Detail enrichment status: complete; verified creator/listing saturation: UNKNOWN
 - Associated creators observed: 29 (sample; pages: 3, exhausted: False)
 - Total associated creators: UNKNOWN (only shown if pagination fully exhausted)
 - Unique ACTIVE creators last 30 days: UNKNOWN (creator activity window not established)
-- Competing equivalent product listings: UNKNOWN (requires validated matching product search)
+- Other broad-category listings within our 50-product ranking sample: UNKNOWN (NOT a marketplace competitor count)
+- Competing equivalent product listings marketwide: UNKNOWN (requires validated matching product search)
 - Product-associated videos in 30d query sample: 10 | unique sampled creators: 8 | max sampled views: 4431.0
 - Trend snapshot days observed: 10 | sales in sampled days: 12675.0 (NOT a 30-day total)
 - TikTok Shop affiliate eligibility for @maya._.finds: UNVERIFIED (account-specific, 48-hour freshness gate)
@@ -97,7 +101,8 @@ Detail enrichment status: complete; verified creator/listing saturation: UNKNOWN
 - Associated creators observed: 29 (sample; pages: 3, exhausted: False)
 - Total associated creators: UNKNOWN (only shown if pagination fully exhausted)
 - Unique ACTIVE creators last 30 days: UNKNOWN (creator activity window not established)
-- Competing equivalent product listings: UNKNOWN (requires validated matching product search)
+- Other broad-category listings within our 50-product ranking sample: UNKNOWN (NOT a marketplace competitor count)
+- Competing equivalent product listings marketwide: UNKNOWN (requires validated matching product search)
 - Product-associated videos in 30d query sample: 10 | unique sampled creators: 10 | max sampled views: 4492.0
 - Trend snapshot days observed: 10 | sales in sampled days: 13802.0 (NOT a 30-day total)
 - TikTok Shop affiliate eligibility for @maya._.finds: UNVERIFIED (account-specific, 48-hour freshness gate)
