@@ -35,7 +35,10 @@ def main():
     try:
         with urllib.request.urlopen(req, timeout=30) as response:
             data = json.load(response)
-    except (urllib.error.HTTPError, urllib.error.URLError, json.JSONDecodeError) as exc:
+    except urllib.error.HTTPError as exc:
+        body = exc.read(2048).decode("utf-8", errors="replace")
+        sys.exit("EchoTik HTTP " + str(exc.code) + " response: " + body)
+    except (urllib.error.URLError, json.JSONDecodeError) as exc:
         sys.exit("EchoTik request failed: " + str(exc))
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     record = {"source": "EchoTik Product Ranking List", "endpoint": URL, "checked_at_utc": dt.datetime.now(dt.timezone.utc).isoformat(), "query": params, "data": data}
