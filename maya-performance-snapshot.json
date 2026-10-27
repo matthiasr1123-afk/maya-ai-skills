@@ -2,10 +2,10 @@
   "schema_version": 1,
   "account": "maya._.finds",
   "source": "Metricool TikTok posts, brand 7649128",
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "status": "video_rows_verified",
-  "query_window": "2026-09-27 to 2026-10-26 (through 08:56:34 America/Los_Angeles)",
-  "last_successful_data_sync": "2026-10-26T15:57:42.916Z",
+  "query_window": "2026-09-27 09:01 to 2026-10-27 09:01 America/Los_Angeles",
+  "last_successful_data_sync": "2026-10-27T16:01:51.900Z",
   "metric_ids": [
     "TKPO01",
     "TKPO03",
@@ -1113,9 +1113,9 @@
       "average_watch_time_raw": 1
     }
   ],
-  "notes": "Observed TikTok post-level records only; Metricool field definitions: views=play count, reach=people reached, full-video-watched rate=percentage (raw returned scale retained without conversion), average watch time=seconds (raw values retained). Some reach fields are zero despite positive views; interpret as provider values, not proof of no reach. No TikTok Shop sales, creative labels or Gemini review matches inferred. Previous snapshots are represented by historical dated HQ notes; rows outside current query preserved by URL.",
-  "last_checked_at": "2026-10-26T15:57:42.916Z",
-  "query_window_start": "2026-09-27T00:00:00-07:00",
-  "query_window_end": "2026-10-26T08:56:34-07:00",
+  "notes": "Observed TikTok post-level records only; Metricool field definitions: views=play count, reach=people reached, full-video-watched rate=percentage (raw returned scale retained without conversion), average watch time=seconds (raw values retained). Some reach fields are zero despite positive views; interpret as provider values, not proof of no reach. No TikTok Shop sales, creative labels or Gemini review matches inferred. Prior dated HQ audits preserve historical context; video records outside current query retained by URL.",
+  "last_checked_at": "2026-10-27T16:01:51.900Z",
+  "query_window_start": "2026-09-27T09:01:00-07:00",
+  "query_window_end": "2026-10-27T09:01:00-07:00",
   "queried_video_count": 137
 }
