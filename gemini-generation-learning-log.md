@@ -35,3 +35,8 @@ Purpose: Keep durable, evidence-based lessons from reviewed Gemini UGC generatio
 
 ## Reviewed generation entries
 _No new reviews logged yet._
+
+## Analytics-only observation — 2026-10-28 (not a Gemini QC review)
+- **Evidence:** Metricool post records observed 2026-10-28T15:58:39.908Z; [video 7690809818910674189](https://www.tiktok.com/@maya._.finds/video/7690809818910674189) had 2102 cumulative views, 3s reported average watch time on a 10s clip; [video 7696171821724454174](https://www.tiktok.com/@maya._.finds/video/7696171821724454174) had 1197 cumulative views, 2s reported average watch time on a 10s clip. Metricool average watch time is reported in seconds but appears rounded; completion-rate scale remains unverified.
+- **Lesson (confidence: high for observed counts, none for creative attribution):** Views alone cannot establish that a Gemini prompt, product, or camera format succeeded; neither linked video has a verified Gemini generation mapping. Do not issue POST/REGENERATE/DITCH from analytics alone.
+- **Single next test:** Inspect the two linked published videos and match them to original product and Gemini records before repeating either visual concept. No causal inference yet.
