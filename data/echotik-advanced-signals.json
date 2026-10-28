@@ -1,114 +1,45 @@
 {
-  "checked_at_utc": "2026-10-27T19:39:39.654319+00:00",
+  "checked_at_utc": "2026-10-28T21:17:29.032616+00:00",
   "source": "EchoTik offline T+1",
   "products": {
-    "1731795774080652206": {
-      "product_id": "1731795774080652206",
-      "trend": {
-        "sampled_days": 10,
-        "first_date": "2026-09-26",
-        "last_date": "2026-10-07",
-        "reported_daily_sales_sample_sum": 12215.0,
-        "complete_30_day_window": false,
-        "note": "At most 10 daily snapshots fetched; do not label sample sum as 30-day sales"
-      },
-      "video_sample": {
-        "sample_size": 10,
-        "unique_creators_in_sample": 9,
-        "sample_views_max": 50644.0,
-        "sample_views_median": 803.0,
-        "sample_is_complete": false,
-        "unique_active_creators_30d": null,
-        "note": "Sampled creators only; full 30-day creator count unverified without pagination and confirmed date filtering"
-      },
-      "errors": []
-    },
     "1730470200737173796": {
       "product_id": "1730470200737173796",
-      "trend": {
-        "sampled_days": 10,
-        "first_date": "2026-09-26",
-        "last_date": "2026-10-05",
-        "reported_daily_sales_sample_sum": 10714.0,
-        "complete_30_day_window": false,
-        "note": "At most 10 daily snapshots fetched; do not label sample sum as 30-day sales"
-      },
-      "video_sample": {
-        "sample_size": 10,
-        "unique_creators_in_sample": 8,
-        "sample_views_max": 12070.0,
-        "sample_views_median": 2269.0,
-        "sample_is_complete": false,
-        "unique_active_creators_30d": null,
-        "note": "Sampled creators only; full 30-day creator count unverified without pagination and confirmed date filtering"
-      },
-      "errors": []
+      "trend": {},
+      "video_sample": {},
+      "errors": [
+        "trend:HTTPError",
+        "video_page_1:HTTPError"
+      ]
+    },
+    "1731546902730674406": {
+      "product_id": "1731546902730674406",
+      "trend": {},
+      "video_sample": {},
+      "errors": [
+        "trend:HTTPError",
+        "video_page_1:HTTPError"
+      ]
     },
     "1730356078947897636": {
       "product_id": "1730356078947897636",
-      "trend": {
-        "sampled_days": 10,
-        "first_date": "2026-09-26",
-        "last_date": "2026-10-05",
-        "reported_daily_sales_sample_sum": 12675.0,
-        "complete_30_day_window": false,
-        "note": "At most 10 daily snapshots fetched; do not label sample sum as 30-day sales"
-      },
-      "video_sample": {
-        "sample_size": 10,
-        "unique_creators_in_sample": 8,
-        "sample_views_max": 4431.0,
-        "sample_views_median": 1392.0,
-        "sample_is_complete": false,
-        "unique_active_creators_30d": null,
-        "note": "Sampled creators only; full 30-day creator count unverified without pagination and confirmed date filtering"
-      },
-      "errors": []
+      "trend": {},
+      "video_sample": {},
+      "errors": [
+        "trend:HTTPError",
+        "video_page_1:HTTPError"
+      ]
     },
-    "1731752751104888912": {
-      "product_id": "1731752751104888912",
-      "trend": {
-        "sampled_days": 10,
-        "first_date": "2026-09-26",
-        "last_date": "2026-10-05",
-        "reported_daily_sales_sample_sum": 13802.0,
-        "complete_30_day_window": false,
-        "note": "At most 10 daily snapshots fetched; do not label sample sum as 30-day sales"
-      },
-      "video_sample": {
-        "sample_size": 10,
-        "unique_creators_in_sample": 10,
-        "sample_views_max": 4492.0,
-        "sample_views_median": 908.0,
-        "sample_is_complete": false,
-        "unique_active_creators_30d": null,
-        "note": "Sampled creators only; full 30-day creator count unverified without pagination and confirmed date filtering"
-      },
-      "errors": []
-    },
-    "1729406693411230691": {
-      "product_id": "1729406693411230691",
-      "trend": {
-        "sampled_days": 10,
-        "first_date": "2026-09-26",
-        "last_date": "2026-10-06",
-        "reported_daily_sales_sample_sum": 10718.0,
-        "complete_30_day_window": false,
-        "note": "At most 10 daily snapshots fetched; do not label sample sum as 30-day sales"
-      },
-      "video_sample": {
-        "sample_size": 10,
-        "unique_creators_in_sample": 10,
-        "sample_views_max": 4705.0,
-        "sample_views_median": 1227.0,
-        "sample_is_complete": false,
-        "unique_active_creators_30d": null,
-        "note": "Sampled creators only; full 30-day creator count unverified without pagination and confirmed date filtering"
-      },
-      "errors": []
+    "1732088332692918644": {
+      "product_id": "1732088332692918644",
+      "trend": {},
+      "video_sample": {},
+      "errors": [
+        "trend:HTTPError",
+        "video_page_1:HTTPError"
+      ]
     }
   },
-  "status": "sampled",
-  "api_requests_attempted": 10,
-  "request_budget": 10
+  "status": "partial",
+  "api_requests_attempted": 8,
+  "request_budget": 20
 }

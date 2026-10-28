@@ -1,10 +1,10 @@
 {
-  "checked_at_utc": "2026-10-27T19:39:29.465579+00:00",
+  "checked_at_utc": "2026-10-28T21:17:21.566123+00:00",
   "source": "EchoTik product/influencer/list, offline T+1",
   "coverage": "up to 3 pages of 10 creators per product, top 5 candidates",
   "products": {
-    "1731795774080652206": {
-      "unique_associated_creators_observed": 29,
+    "1730470200737173796": {
+      "unique_associated_creators_observed": 26,
       "pages_sampled": 3,
       "pagination_exhausted": false,
       "total_associated_creators": null,
@@ -15,8 +15,8 @@
       "current_affiliate_eligibility": "UNVERIFIED: requires connected TikTok Shop creator account",
       "error": null
     },
-    "1730470200737173796": {
-      "unique_associated_creators_observed": 29,
+    "1731546902730674406": {
+      "unique_associated_creators_observed": 25,
       "pages_sampled": 3,
       "pagination_exhausted": false,
       "total_associated_creators": null,
@@ -28,8 +28,8 @@
       "error": null
     },
     "1730356078947897636": {
-      "unique_associated_creators_observed": 29,
-      "pages_sampled": 3,
+      "unique_associated_creators_observed": 10,
+      "pages_sampled": 1,
       "pagination_exhausted": false,
       "total_associated_creators": null,
       "unique_active_creators_last_30d": null,
@@ -37,11 +37,11 @@
       "competing_listings_count": null,
       "competing_listings_status": "UNKNOWN: no verified equivalent-product matching dataset",
       "current_affiliate_eligibility": "UNVERIFIED: requires connected TikTok Shop creator account",
-      "error": null
+      "error": "HTTPError"
     },
-    "1731752751104888912": {
-      "unique_associated_creators_observed": 29,
-      "pages_sampled": 3,
+    "1732088332692918644": {
+      "unique_associated_creators_observed": null,
+      "pages_sampled": 0,
       "pagination_exhausted": false,
       "total_associated_creators": null,
       "unique_active_creators_last_30d": null,
@@ -49,20 +49,8 @@
       "competing_listings_count": null,
       "competing_listings_status": "UNKNOWN: no verified equivalent-product matching dataset",
       "current_affiliate_eligibility": "UNVERIFIED: requires connected TikTok Shop creator account",
-      "error": null
-    },
-    "1729406693411230691": {
-      "unique_associated_creators_observed": 28,
-      "pages_sampled": 3,
-      "pagination_exhausted": false,
-      "total_associated_creators": null,
-      "unique_active_creators_last_30d": null,
-      "active_creator_status": "UNKNOWN: creator list has no verified last-30-day activity window",
-      "competing_listings_count": null,
-      "competing_listings_status": "UNKNOWN: no verified equivalent-product matching dataset",
-      "current_affiliate_eligibility": "UNVERIFIED: requires connected TikTok Shop creator account",
-      "error": null
+      "error": "HTTPError"
     }
   },
-  "status": "sampled"
+  "status": "partial"
 }

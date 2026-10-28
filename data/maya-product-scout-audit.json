@@ -1,20 +1,22 @@
 {
-  "checked_at_utc": "2026-10-27T20:02:40.429060+00:00",
+  "checked_at_utc": "2026-10-28T21:17:35.576119+00:00",
   "ranking_fresh_under_30h": true,
   "ranking_products": 50,
   "ranking_pages": 5,
   "detail_status": "complete",
-  "detail_products": 5,
-  "creator_status": "sampled",
-  "creator_products": 5,
-  "advanced_status": "sampled",
-  "advanced_products": 5,
-  "advanced_api_requests": 10,
+  "detail_products": 4,
+  "creator_status": "partial",
+  "creator_products": 4,
+  "advanced_status": "partial",
+  "advanced_products": 4,
+  "advanced_api_requests": 8,
   "affiliate_verified_product_count": 0,
   "unique_active_creator_count_verified": false,
   "equivalent_competing_listing_count_verified": false,
   "automated_approval_enabled": false,
   "issues": [
-    "Creator-specific affiliate verification unavailable: no fresh verified eligible products"
+    "Creator-specific affiliate verification unavailable: no fresh verified eligible products",
+    "creator_status: partial",
+    "advanced_status: partial"
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "source": "Same-day EchoTik 50-product ranking sample only",
+  "sample_size": 50,
+  "marketwide_competing_listings_count": null,
+  "products": {
+    "1730470200737173796": {
+      "shared_broad_category": [],
+      "other_listings_in_ranking_sample": 0,
+      "sample_peer_product_ids": [],
+      "equivalent_listings_verified": null,
+      "note": "Broad keyword overlap within top-50 ranking only; not a count of comparable competing marketplace listings"
+    },
+    "1731546902730674406": {
+      "shared_broad_category": [
+        "leggings"
+      ],
+      "other_listings_in_ranking_sample": 0,
+      "sample_peer_product_ids": [],
+      "equivalent_listings_verified": null,
+      "note": "Broad keyword overlap within top-50 ranking only; not a count of comparable competing marketplace listings"
+    },
+    "1730356078947897636": {
+      "shared_broad_category": [],
+      "other_listings_in_ranking_sample": 0,
+      "sample_peer_product_ids": [],
+      "equivalent_listings_verified": null,
+      "note": "Broad keyword overlap within top-50 ranking only; not a count of comparable competing marketplace listings"
+    },
+    "1732088332692918644": {
+      "shared_broad_category": [
+        "jacket"
+      ],
+      "other_listings_in_ranking_sample": 0,
+      "sample_peer_product_ids": [],
+      "equivalent_listings_verified": null,
+      "note": "Broad keyword overlap within top-50 ranking only; not a count of comparable competing marketplace listings"
+    }
+  }
+}

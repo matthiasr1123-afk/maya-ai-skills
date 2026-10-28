@@ -7,19 +7,18 @@
 <!-- MAYA_AFFILIATE_START -->
 ## Affiliate verification dashboard
 
-Report generated (UTC): 2026-10-27T20:02:40.538085+00:00
+Report generated (UTC): 2026-10-28T21:17:35.533412+00:00
 
 Account: @maya._.finds. These are snapshots, not a guarantee at posting time.
 
-Current candidates: 5 | VERIFIED: 0 | PARTIALLY VERIFIED: 0 | UNAVAILABLE: 5
+Current candidates: 4 | VERIFIED: 0 | PARTIALLY VERIFIED: 0 | UNAVAILABLE: 4
 
 | Candidate | Product ID | Verification |
 |---|---|---|
-| YEOREO Women's Ease Everyday Active Leggings - High Waist, No Front Seam, Buttery Fabric, V-Back Contour, Booty Lifting, Wide Straight Leg, 29"/31.5"/33"/35" Inseam for Gym Yoga,outdoorfun | 1731795774080652206 | UNAVAILABLE |
-| Women's Official Magic Skin Fleece Lined Tights Leggings - High Waist, Body Slimming Compression Band, Plus Size Chic Cute Women's Fashion Clothes, 1-Seam Option, Closed Foot, XXS-3XL, 4 Shades, Light-Brown Fur Fleece, Cold Wash, Viral Item | 1729406693411230691 | UNAVAILABLE |
 | Halara UltraSculpt™ High Waisted Tummy Control Pocket Shaping Yoga Bootcut Leggings | 1730470200737173796 | UNAVAILABLE |
 | 【Creator’s Pick】Halara UltraSculpt High Waisted Tummy Control Pocket Shaping Training Leggings | 1730356078947897636 | UNAVAILABLE |
-| Women's Classical Mid-Calf Polyester Knitting Socks - Simple, Casual, Minimalist, Cozy, Soft, Warm Basic Solid Underwear for Fall & Winter Everyday Wear, Ideal Gifts for Women,sohochic | 1731752751104888912 | UNAVAILABLE |
+| Men's Baseball Jacket High Street Patchwork Print Windproof Coat, Fashion College Style Long Sleeve Outerwear for All Seasons | 1732088332692918644 | UNAVAILABLE |
+| OEAK Women Fleece Lined Tights Body Slimming Leggings Sheer Fake Translucent Pantyhose Plus Size Thermal High Waisted Footed Opaque Tights | 1731546902730674406 | UNAVAILABLE |
 
 - Automatic: queue refresh, 48-hour expiry, account/product/source validation, shortlist and HQ reporting.
 - Live TikTok account checks: UNAVAILABLE until a permitted signed-in creator surface or approved Creator API integration is tested.

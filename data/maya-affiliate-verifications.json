@@ -91,17 +91,52 @@
       "add_to_showcase_status": "UNKNOWN",
       "reason": "Creator account evidence unavailable; EchoTik is research only",
       "evidence": {}
+    },
+    "1732088332692918644": {
+      "product_id": "1732088332692918644",
+      "product_name": "Men's Baseball Jacket High Street Patchwork Print Windproof Coat, Fashion College Style Long Sleeve Outerwear for All Seasons",
+      "account": "@maya._.finds",
+      "region": "US",
+      "verification_status": "UNAVAILABLE",
+      "eligibility": "UNVERIFIED",
+      "source_type": null,
+      "source": null,
+      "checked_at_utc": null,
+      "commission_rate": null,
+      "price": null,
+      "availability": "UNKNOWN",
+      "availability_scope": null,
+      "add_to_showcase_status": "UNKNOWN",
+      "reason": "Creator account evidence unavailable; EchoTik is research only",
+      "evidence": {}
+    },
+    "1731546902730674406": {
+      "product_id": "1731546902730674406",
+      "product_name": "OEAK Women Fleece Lined Tights Body Slimming Leggings Sheer Fake Translucent Pantyhose Plus Size Thermal High Waisted Footed Opaque Tights",
+      "account": "@maya._.finds",
+      "region": "US",
+      "verification_status": "UNAVAILABLE",
+      "eligibility": "UNVERIFIED",
+      "source_type": null,
+      "source": null,
+      "checked_at_utc": null,
+      "commission_rate": null,
+      "price": null,
+      "availability": "UNKNOWN",
+      "availability_scope": null,
+      "add_to_showcase_status": "UNKNOWN",
+      "reason": "Creator account evidence unavailable; EchoTik is research only",
+      "evidence": {}
     }
   },
   "account": "@maya._.finds",
   "region": "US",
-  "report_generated_at_utc": "2026-10-27T20:02:40.538085+00:00",
+  "report_generated_at_utc": "2026-10-28T21:17:35.533412+00:00",
   "freshness_hours": 48,
   "current_candidate_ids": [
-    "1731795774080652206",
-    "1729406693411230691",
     "1730470200737173796",
     "1730356078947897636",
-    "1731752751104888912"
+    "1732088332692918644",
+    "1731546902730674406"
   ]
 }
