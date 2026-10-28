@@ -76,7 +76,7 @@ Current candidates: 5 | VERIFIED: 0 | PARTIALLY VERIFIED: 0 | UNAVAILABLE: 5
 
 | Area | Latest verified result | Last checked | Next action |
 |---|---|---|---|
-| Views / retention | 136 returned posts Sept 28–Oct 28, 137 stored; 0 new IDs or changed core metrics; median average watch time 2s (rounded); completion scale unverified | 2026-10-28 | Refresh Oct 26–27 feed and inspect top videos |
+| Views / retention | 136 returned posts Sept 28–Oct 28, 137 stored; 0 new IDs or changed core metrics; median reported average watch time 1.5s (values rounded); completion scale unverified | 2026-10-28 | Refresh Oct 26–27 feed and inspect top videos |
 | Product research | Oct 27 shortlist: Dokotoo cardigan conditional TEST; Yimo leg warmers WATCHLIST; Chic Chic scarf WATCHLIST (commissions unverified) | 2026-10-27 | Verify exact Creator Marketplace affiliate eligibility, commissions and stock |
 | Gemini quality | Analytics-only observation logged Oct 28; no new reviewed Gemini generations or verified prompt/post mapping | 2026-10-28 | Inspect top published videos and map to actual outputs |
 | Clicks / sales / GMV | No live TikTok Shop source verified | 2026-10-25 | Connect a supported source or supply export |
