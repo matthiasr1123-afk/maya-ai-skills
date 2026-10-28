@@ -40,3 +40,14 @@ _No new reviews logged yet._
 - **Evidence:** Metricool post records observed 2026-10-28T15:58:39.908Z; [video 7690809818910674189](https://www.tiktok.com/@maya._.finds/video/7690809818910674189) had 2102 cumulative views, 3s reported average watch time on a 10s clip; [video 7696171821724454174](https://www.tiktok.com/@maya._.finds/video/7696171821724454174) had 1197 cumulative views, 2s reported average watch time on a 10s clip. Metricool average watch time is reported in seconds but appears rounded; completion-rate scale remains unverified.
 - **Lesson (confidence: high for observed counts, none for creative attribution):** Views alone cannot establish that a Gemini prompt, product, or camera format succeeded; neither linked video has a verified Gemini generation mapping. Do not issue POST/REGENERATE/DITCH from analytics alone.
 - **Single next test:** Inspect the two linked published videos and match them to original product and Gemini records before repeating either visual concept. No causal inference yet.
+
+
+## The Cozy Collective — frame-sampled review and edit — 2026-10-28
+- Account: @cozycollective.finds ONLY; no Maya analytics or sales attributed.
+- Evidence: user-uploaded gemini_generated_video_B6BBADDB.mp4 (black set home), BFC7D3DB.mp4 (pink pants front), FDAC87B3.mp4 (black set courtyard), F99D57F8.mp4 (pink pants side); product screenshots IMG_8368.png and IMG_8369.png.
+- Review scope: sampled frames at 0.5s intervals across the 10s clips plus larger detail frames; not continuous playback. Provisional assessment only; exact embroidery and subtle inter-frame defects remain unverified.
+- Observed: garments visible throughout sampled frames; black indoor clip turns substantially toward side; pink front clip repositions a foot despite planted-feet prompt; all show repeated stance/turn motion and lingering poses. Courtyard black set is a distinct user-supplied scene, not generated or attributed to a verified winning reference in this review.
+- Provisional verdict: all four are usable edit candidates, not unconditional POST approvals. Biggest issue: repetitive 10s pacing; highest-impact action: shorten to 5.3s using 2s wider view, 1.6s closer crop, 1.7s wider return, adding short question hooks outside Gemini. Original normal-speed motion retained, no invented product results. No definitive retention or sales claims.
+- Fidelity caution: small logos/embroidery and drape must be checked against exact variant; source resolution 512x910 limits precision. Editing cannot correct any underlying product mismatch.
+- Deliverables: black_set_home.mp4, pink_pants_front.mp4, black_set_courtyard.mp4, pink_pants_side.mp4; muted for in-app commercial sound choice. Text directly on footage with mixed fonts and coffee/heart symbols, no header boxes.
+- Posted analytics: unavailable; no published URLs or performance outcomes supplied.
