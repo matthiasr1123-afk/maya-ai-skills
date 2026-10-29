@@ -125,3 +125,14 @@ _No new reviews logged yet._
 - Future prompt lesson: avoid allocating several seconds to a held finishing pose. Request one small action that resolves close to the endpoint; verify actual generated duration rather than assuming requested duration was honored. If continuing this concept, keep coherent styling/contrast and avoid adding complexity just to fill time.
 - Realism limitation: staged/catalog lighting carried from still; 512x910 source limits fine texture/hardware checks. Do not upscale and claim recovered original detail.
 - Posted analytics: unavailable. Account not explicitly identified for this upload; do not attribute to Maya or Cozy performance.
+
+
+## Cozy brown tights hook edit review — 2026-10-29
+- Evidence: uploaded cozy_collective_brown_tights_aesthetic_hooks(1).mp4; 5.6s, 512x910; visually corresponds to prior seated tights generation. Account indicated by filename only; no performance attribution.
+- Scope: frames sampled every 0.25s across full edit, not continuous playback or audio review. Seller reference unavailable.
+- Observed: shorter than 10s source; both shoes visible; cream sweater/charcoal skirt/brown tights styling preserved in samples. Pale serif/italic text over cream knit has weak contrast. Opening three-line text includes COZY FALL and Brown tights; later overlay includes SO GOOD. A text-free interval occurs around 2.5–3.25s in samples.
+- Provisional verdict: usable after text-legibility correction and seller-fidelity check; no generation retry needed.
+- Biggest issue: light text blends into textured cream sweater at phone size.
+- Highest-impact action: replace opening stack with one concise hook in dark chocolate bold type plus restrained light outline/shadow, positioned in upper safe area without obscuring tights. Verify at phone size before export.
+- Lesson: palette coordination cannot replace contrast for hook readability. Pacing is shorter but no retention improvement measured.
+- Posted views/retention/clicks/sales: unavailable.
