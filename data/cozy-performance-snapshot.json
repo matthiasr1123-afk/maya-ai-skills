@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "account": "cozycollective.finds",
+  "observations": [
+    {
+      "observed_date": "2026-10-29",
+      "source": "User screenshots IMG_8400.jpeg and IMG_8401.jpeg; user identifies counts as yesterday's posts",
+      "screenshot_clock": "08:46; timezone not shown",
+      "posts": [
+        {
+          "local_label": "seated_cardigan",
+          "views": 179
+        },
+        {
+          "local_label": "cafe_scarf",
+          "views": 129
+        },
+        {
+          "local_label": "standing_cardigan",
+          "views": 64
+        }
+      ],
+      "summary": {
+        "sample_count": 3,
+        "observed_cumulative_views": 372,
+        "mean_views": 124,
+        "median_views": 129
+      },
+      "draft_count": 9,
+      "followers_displayed": "40.7K",
+      "limitations": [
+        "Post IDs, URLs, publish timestamps and exact post ages unavailable; creative labels based on visible thumbnails only",
+        "Views are cumulative at screenshot time, not views gained yesterday",
+        "Retention, clicks, orders, GMV and commission not supplied; unavailable not zero",
+        "Older unrelated posts excluded; partially obscured counts not inferred"
+      ],
+      "comparison": {
+        "account": "maya._.finds",
+        "source": "maya-performance-snapshot.json read 2026-10-29; last checked 2026-10-28",
+        "median_views": 170,
+        "sample_posts": 136,
+        "comparison_type": "context only, not age matched",
+        "conclusion": "Cozy median 129 is numerically below Maya saved median 170; cannot infer account or creative superiority from 3 fresh posts versus mixed-age historical sample"
+      },
+      "posting_plan": {
+        "date": "2026-10-29",
+        "timezone": "America/Los_Angeles",
+        "posts": [
+          {
+            "time": "12:00",
+            "draft": "bottom-left black matching set courtyard"
+          },
+          {
+            "time": "18:30",
+            "draft": "middle-left pink pants mirror"
+          }
+        ],
+        "reason": "Two different products and distinct settings; not verified peak times or winners"
+      }
+    }
+  ]
+}
