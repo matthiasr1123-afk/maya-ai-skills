@@ -53,10 +53,10 @@ Current candidates: 4 | VERIFIED: 0 | PARTIALLY VERIFIED: 0 | UNAVAILABLE: 4
 | System | Verified state | What is / isn't automatic |
 |---|---|---|
 | GitHub skills repository | Connected: file read and write succeeded | Skill files are reference instructions; GitHub storage alone does **not** activate a background agent |
-| Metricool TikTok | Connected: brand `maya._.finds` found; live Sept 28–Oct 28 query returned 136 video rows | Post metrics ingested in snapshot; data quality caveats noted above |
+| Metricool TikTok | Connected: Oct 29 live query returned 150 unique rolling-window posts; 153 stored after 16 new IDs persisted; latest source-dated post Oct 28 | Post metrics ingested in snapshot; Oct 29 rows not yet returned, and data quality caveats remain |
 | Gemini | No direct Gemini generation/credit integration verified | User submits videos to ChatGPT for inspection; cannot detect new Gemini generations independently |
 | TikTok Shop sales/commissions | No direct Shop data connection verified | Never infer sales, GMV or commissions from Metricool post analytics |
-| ChatGPT scheduled tasks | Five enabled recurring tasks verified Oct 28 (listed above) | Maya HQ Daily Sync is configured to write this page; other task reports remain separate |
+| ChatGPT scheduled tasks | Five enabled recurring tasks last verified Oct 28 (no new inventory in Oct 29 run) | Maya HQ Daily Sync is configured to write this page; other task reports remain separate |
 | GitHub review learning log | File created and review/prompt skills updated | Logging is instruction-driven when a reviewed video is available, not a guaranteed autonomous event listener |
 
 ## Quick links
@@ -74,7 +74,7 @@ Current candidates: 4 | VERIFIED: 0 | PARTIALLY VERIFIED: 0 | UNAVAILABLE: 4
 
 | Area | Latest verified result | Last checked | Next action |
 |---|---|---|---|
-| Views / retention | 150 unique current-window posts; 153 stored; 16 newly persisted IDs; latest source post Oct 28; Oct 29 not yet indexed; median avg watch 1s (rounded); completion scale unverified | 2026-10-29 | Map published videos to Gemini source files; inspect retention |
+| Views / retention | 150 unique current-window posts; 153 stored; 16 newly persisted IDs; latest source post Oct 28; Oct 29 not yet indexed; median avg watch 2s (rounded); completion scale unverified | 2026-10-29 | Map published videos to Gemini source files; inspect retention |
 | Product research | Oct 27 shortlist: Dokotoo cardigan conditional TEST; Yimo leg warmers WATCHLIST; Chic Chic scarf WATCHLIST (commissions unverified) | 2026-10-27 | Verify exact Creator Marketplace affiliate eligibility, commissions and stock |
 | Gemini quality | No newly verified Gemini-to-published-video mappings or new generation review | 2026-10-29 | Map Oct 26–28 posts to original Gemini files |
 | Clicks / sales / GMV | No live TikTok Shop source verified | 2026-10-25 | Connect a supported source or supply export |
