@@ -63,3 +63,12 @@ _No new reviews logged yet._
 - Export: silent 720x1280 upscale from 512x910; decode verification and ZIP integrity check. AI-generation comment retained; publishing AI disclosure still needed where applicable.
 - Highest-impact next action: correct nail source artwork before further shoppable nail generations; compare tights with exact seller SKU. Avoid claiming reviewed outputs are proven winning formats.
 - Posted metrics, Shop clicks and sales: unavailable.
+
+
+## Reference request and user quality standard — 2026-10-29
+- User requested analysis of https://www.tiktok.com/t/ZTfWwm98N/ and https://www.tiktok.com/t/ZTfWKJ7w7/ and asked that future generations match their level of detail.
+- Resolved references: @jacobxburns video 7700736142093716766 and video 7700363353901845791. Second page title: "Coloring 101: Why Contrast Matters in Coloring".
+- Access scope: page screenshots and brief visible background frames only. TikTok's login/age gate prevented a complete video/audio inspection. No full transcript, timing analysis, or performance verification. References remain PENDING full analysis; do not describe them as watched or infer the creator's full advice from the title.
+- User-directed production requirement (not a verified lesson from these videos): specify camera position/crop, exact product construction, coordinated outfit and accessories, subject/background contrast, light direction, visible texture, an opening visual hook, and a timed simple movement in future generation briefs. Inspect starting-image fidelity before animation. Detail must be visually useful and compatible with reliable motion.
+- Evidence boundary: no assertion that greater detail guarantees views. Compare subsequent published retention/views to assess the test.
+- Next action: inspect uploaded video files or screen recordings of both references, including audio, before recording source-specific lessons.
