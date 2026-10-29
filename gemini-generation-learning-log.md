@@ -95,3 +95,17 @@ _No new reviews logged yet._
 10. Treat this as a creative hypothesis to test. Record subsequent retention/views separately from clicks/sales; no guaranteed-view or copied-revenue claims.
 
 - Highest-impact change for upcoming generations: replace generic scene adjectives with a deliberate, product-specific styling map covering product + outfit + accessory + background + contrast, all visible in the opening frame.
+
+
+## Jacob contrast and audience-aesthetic tutorial — 2026-10-29
+- Evidence: uploaded "ScreenRecording_10-29-2026 10-22-38_1.mp4", 25.2 seconds; visible "Coloring 101: contrast matters" caption and target-demographic/aesthetic title.
+- Scope: sampled visual frames and embedded speech captions every 0.5s across the recording, including a 2x section. Direct audio listening/transcription unavailable; precise music, omitted speech, and fine continuous movement remain unverified. This supplies a caption-supported visual analysis of the previously pending second tutorial, not full audiovisual verification.
+- Observed comparison: dark outfit against dark backdrop has weak silhouette separation; pale/grey checked cardigan with light denim contrasts more clearly against a darker interior. Separate overhead example shows a dark patterned shoe with a pale sole against textured grey ground, orange details, dark sleeve, metallic accessories and orange nails.
+- Caption-supported lesson: align outfit, setting, accessories and sound mood with a specific intended viewer aesthetic. The tutorial contrasts cozy/light styling with a darker Halloween/skull shoe aesthetic; it references black clothing, silver jewelry, orange manicure and a studded/spiked dark bag. These are examples for that product, not universal Maya styling requirements.
+- Application: decide the intended aesthetic before building the image; echo one or two real SKU accents through a coherent supporting outfit/accessory palette. Preserve product visibility with background lightness/color/texture separation. A dark product does not require a dark background; a coordinated palette does not require everything to match in value.
+- Lighting: use directional, believable light to reveal edges, surface texture and construction. Avoid uniformly dark exposure or uniformly beige scenes. Keep exact product colors unchanged.
+- Opening-frame QA: at phone-preview size, can the viewer immediately distinguish product silhouette, recognize the focal item, and understand the outfit's mood? If the product blends into its surroundings, fix background/outfit/light before animation.
+- Plan text color for legibility and palette cohesion in editing; music should support the mood and commercial availability must be verified. Reference audio itself was not identified.
+- Adapt general styling principles without copying creator identity, tattoos, distinctive footage or artwork. Do not add tattoos merely because this tutorial's example uses them.
+- Speaker's claims about which example earned most views and universal scroll behavior are unverified; no causal or guaranteed-performance claim. Test contrast/aesthetic choices against actual Maya views and retention.
+- Highest-impact future change: explicitly specify BOTH aesthetic coordination AND product/background separation in each still-image scene, before adding subtle motion.
