@@ -72,3 +72,26 @@ _No new reviews logged yet._
 - User-directed production requirement (not a verified lesson from these videos): specify camera position/crop, exact product construction, coordinated outfit and accessories, subject/background contrast, light direction, visible texture, an opening visual hook, and a timed simple movement in future generation briefs. Inspect starting-image fidelity before animation. Detail must be visually useful and compatible with reliable motion.
 - Evidence boundary: no assertion that greater detail guarantees views. Compare subsequent published retention/views to assess the test.
 - Next action: inspect uploaded video files or screen recordings of both references, including audio, before recording source-specific lessons.
+
+
+## Jacob shoe-creative breakdown — uploaded reference review — 2026-10-29
+- Evidence: user-uploaded "ScreenRecording_10-29-2026 10-06-41_1.mp4" (57.43s). Visible title concerns Girlypopshopfinds shoe-video breakdown, corresponding in topic to the first shared Jacob reference. Do not claim exact source-ID verification from this recording alone.
+- Review scope: visual frames and embedded speech captions sampled every 0.5s throughout the recording, including its 2x-speed section. No direct audio listening/transcription capability available; music identity, sound timing and uncaptured speech are unverified. This is a tutorial/reference analysis, not a Gemini QC verdict. The second contrast tutorial remains pending.
+- Main observed lesson: the demonstrated shoe creative layers coordinated, audience-relevant details into one legible product-first composition. It is not merely a product placed in a generic attractive scene.
+- Caption-supported tutorial points: short shoe format; seasonal autumn sound; text plus autumn emojis; prominent centrally framed shoe; readable brand reference; showing the shoe being worn; contrast from skin/denim; coordinated jewelry, nails, knitwear and handbag; seasonal leaves and neutral/gold accents. The speaker mentions 13 elements, but the review does not assert an independently verified exhaustive 13-item taxonomy.
+- Visual observations: inset examples show overhead/direct-downward shoe views; a hand holds a dark slip-on with a contrasting pale sole and patterned inner lining; blue denim and a cream ribbed sleeve appear with gold-toned jewelry; brown/orange leaves decorate the grey ground. Other shown examples include shoes on feet, a pink sleeve and different variants. Do not combine every example as if one identical shot.
+- Tutorial assertions only: roughly 80% frame occupancy and revenue/performance claims are NOT independently measured or verified. Do not apply 80% occupancy mechanically to every product category.
+
+### Apply before future Maya still-image and video prompts
+1. Define one intended viewer aesthetic and occasion from the product/reference; do not arbitrarily default every product to autumn.
+2. Lock exact seller product first. Plan the surrounding outfit, accessories and setting around its real colors, pattern and material. Never recolor/redesign the SKU for the palette.
+3. Choose explicit reference geometry and a product-dominant crop. Preserve enough surrounding outfit/context to communicate how it is worn. For this shoe format, use an overhead shoe-in-hand or worn-shoe composition; do not turn all products into mirror shots.
+4. Specify each visible detail and its role: contrasting background separates silhouette; denim supplies texture/color; knit sleeve echoes a real product accent; restrained jewelry/manicure reinforces the intended style; seasonal props establish occasion. Use only details visible and appropriate in that composition, with hand anatomy and product visibility taking precedence over accessory count.
+5. Build color contrast deliberately within a cohesive palette. Avoid making every surface the same brown/beige or increasing saturation without purpose. Match actual product accents where appropriate.
+6. First frame must already deliver the complete styled composition, with product large, sharp and unobscured. Keep one small reliable action; detail density does not require complex movement or many cuts.
+7. Plan a short, readable hook outside Gemini, with intentional type hierarchy and restrained relevant emojis. Brand text only when accurate/appropriate; do not fabricate logos or readable microtext. Do not bake the tutorial presenter's captions/UI into generated footage.
+8. Select mood/season-appropriate music during editing, verifying commercial availability where possible. Exact reference song remains unknown. Continue silent generation/export defaults.
+9. Starting-image QA: product accuracy, geometry, subject/background separation, coherent accessories, fabric detail, hands and shadows. Correct failures before animation.
+10. Treat this as a creative hypothesis to test. Record subsequent retention/views separately from clicks/sales; no guaranteed-view or copied-revenue claims.
+
+- Highest-impact change for upcoming generations: replace generic scene adjectives with a deliberate, product-specific styling map covering product + outfit + accessory + background + contrast, all visible in the opening frame.
