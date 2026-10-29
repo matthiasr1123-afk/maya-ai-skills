@@ -136,3 +136,14 @@ _No new reviews logged yet._
 - Highest-impact action: replace opening stack with one concise hook in dark chocolate bold type plus restrained light outline/shadow, positioned in upper safe area without obscuring tights. Verify at phone size before export.
 - Lesson: palette coordination cannot replace contrast for hook readability. Pacing is shorter but no retention improvement measured.
 - Posted views/retention/clicks/sales: unavailable.
+
+
+## Burgundy gothic nails — three auto edits — 2026-10-29
+- Sources: A16709C3 (open hand vanity), DAF12D19 (curled hand closeup), 7A0C976C (hand holding burgundy cosmetic with mirror). Source frames sampled every 0.5s throughout; not continuous playback. Exact seller artwork reference not supplied.
+- Verdict: provisional edit candidates pending exact design and gemstone comparison, not unconditional POST. Sampled frames show coordinated burgundy knit, manicure, gold accessories and warm vanity setting. Mirror in 7A0C976C requires final continuity check.
+- Biggest issue: long, low-change posing; intricate nail designs cannot be certified at 512x910 without seller image.
+- Edits: first 4.8 / 5.0 / 4.6 seconds respectively at normal speed, no added zooms or generated motion. Three distinct pink/ivory high-contrast hooks with dark outline, above nails: personality / details / dramatic. No unsupported material or durability claims.
+- QA: beginning/middle/end output frames inspected; no hook clipping or nail obstruction in checked frames; full export decode and ZIP integrity checked. Silent exports with AI-generation comment, unnecessary personal metadata removed. Original resolution retained.
+- Sound scout: official CML guidance found, but no exact track/US availability verified; no invented track recommendation.
+- Learning: keep hook contrast stronger than background detail, preserve nail tips within frame, and use brief native motion rather than adding complex nail/hand actions.
+- Metrics: unavailable; no account attribution or retention uplift claimed.
