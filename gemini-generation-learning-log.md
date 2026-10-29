@@ -51,3 +51,15 @@ _No new reviews logged yet._
 - Fidelity caution: small logos/embroidery and drape must be checked against exact variant; source resolution 512x910 limits precision. Editing cannot correct any underlying product mismatch.
 - Deliverables: black_set_home.mp4, pink_pants_front.mp4, black_set_courtyard.mp4, pink_pants_side.mp4; muted for in-app commercial sound choice. Text directly on footage with mixed fonts and coffee/heart symbols, no header boxes.
 - Posted analytics: unavailable; no published URLs or performance outcomes supplied.
+
+
+## The Cozy Collective — sampled review and hook edit — 2026-10-29
+- Account: @cozycollective.finds only. No Maya metrics attributed.
+- Evidence: user files 5BC7DF03 (nails flatlay), 270145EC (brown mirror), FBBCD906 (nails on hand), 06F4E424 (brown cafe). Nails reference IMG_8403(1).jpeg. Exact tights seller image unavailable in this edit session.
+- Scope: source frames sampled at 0.5s across ten seconds plus larger detail frames; edited contact sheets reviewed. Not continuous visual playback. No unconditional POST verdict.
+- Nail verdict: HOLD / REGENERATE for exact artwork and gemstone placement differences already present in generated still. Editorial exports supplied for review only; crop and hook cannot correct fidelity.
+- Tights verdict: provisional edit candidates pending exact listing comparison. Seated cafe moves free hand toward cup; mirror uncrosses/repositions legs. Do not infer accurate construction or performance claims.
+- Edit test: 5.3s normal speed, wide 2s / detail crop 1.6s / wider return 1.7s. Four distinct coordinated hook treatments: blush bold + ivory italic/heart for flatlay; large tan BROWN and heart for mirror; serif + blush bold/gold sparkles for hand; italic + cream bold/coffee for cafe. Opening text changes to a short question at 3.6s. No retention uplift established.
+- Export: silent 720x1280 upscale from 512x910; decode verification and ZIP integrity check. AI-generation comment retained; publishing AI disclosure still needed where applicable.
+- Highest-impact next action: correct nail source artwork before further shoppable nail generations; compare tights with exact seller SKU. Avoid claiming reviewed outputs are proven winning formats.
+- Posted metrics, Shop clicks and sales: unavailable.
