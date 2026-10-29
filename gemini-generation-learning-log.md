@@ -109,3 +109,19 @@ _No new reviews logged yet._
 - Adapt general styling principles without copying creator identity, tattoos, distinctive footage or artwork. Do not add tattoos merely because this tutorial's example uses them.
 - Speaker's claims about which example earned most views and universal scroll behavior are unverified; no causal or guaranteed-performance claim. Test contrast/aesthetic choices against actual Maya views and retention.
 - Highest-impact future change: explicitly specify BOTH aesthetic coordination AND product/background separation in each still-image scene, before adding subtle motion.
+
+
+## Brown tights seated outfit — generated video review — 2026-10-29
+- Evidence: user-uploaded gemini_generated_video_75F02944.mp4; starting image 3F9D79BD-6C2B-47F8-9319-FFFF5A8F02A4.jpeg visible in conversation.
+- Scope: sampled video frames every 0.25s throughout 10.003s (512x910, 30fps). Not continuous playback; no audio review or exact seller SKU reference available. Verdict is provisional, not unconditional Shop posting clearance.
+- Product / variant: brown tights; exact seller shade, opacity, construction and material remain unverified. General brown appearance stays broadly consistent across samples.
+- Reference / geometry: seated neck-down outfit; crossed legs, cream knit, charcoal pleated skirt, brown loafers and handbag with gold accents; light textured bench, daylight, both shoes within frame.
+- Prompt approach: requested 8s, one roughly 5-degree outward ankle pivot and return, stable crossed legs/hands, minimal camera drift.
+- Observed output: actual duration 10s; suspended foot pivots/sways in approximately first 3s, hand on lap settles early; later frames show little pose change. Do not claim exact angular compliance. No gross limb disappearance observed in sampled frames; subtle temporal defects remain unchecked.
+- Verdict: provisional POST after pacing edit and exact seller-fidelity check; usable edit candidate, no immediate regeneration recommended.
+- First-second hook: complete coordinated outfit and visible tights from opening; movement is primarily shoe-led rather than a tights-specific reveal. No measured retention outcome.
+- Biggest issue: long low-change tail following the early ankle movement.
+- Single highest-impact action: trim to approximately first 3.5–4s at normal speed, checking the final cut for a natural ending. Editing test, not proven retention improvement.
+- Future prompt lesson: avoid allocating several seconds to a held finishing pose. Request one small action that resolves close to the endpoint; verify actual generated duration rather than assuming requested duration was honored. If continuing this concept, keep coherent styling/contrast and avoid adding complexity just to fill time.
+- Realism limitation: staged/catalog lighting carried from still; 512x910 source limits fine texture/hardware checks. Do not upscale and claim recovered original detail.
+- Posted analytics: unavailable. Account not explicitly identified for this upload; do not attribute to Maya or Cozy performance.
