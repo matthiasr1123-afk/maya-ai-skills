@@ -19,35 +19,45 @@ jobs:
       - name: Test affiliate verification safeguards
         run: python -m unittest discover -s scripts -p "test_maya_affiliate_status.py" -v
       - name: Fetch EchoTik rankings
+        id: echotik_collector
+        continue-on-error: true
         env:
           ECHOTIK_USERNAME: ${{ secrets.ECHOTIK_USERNAME }}
           ECHOTIK_PASSWORD: ${{ secrets.ECHOTIK_PASSWORD }}
           ECHOTIK_MAX_PAGES: '5'
         run: python scripts/echotik_product_scout.py
       - name: Enrich top fashion products with EchoTik detail (one batch request)
+        if: steps.echotik_collector.outcome == 'success'
         env:
           ECHOTIK_USERNAME: ${{ secrets.ECHOTIK_USERNAME }}
           ECHOTIK_PASSWORD: ${{ secrets.ECHOTIK_PASSWORD }}
         run: python scripts/echotik_competition_enrich.py
       - name: Sample product-associated creators
+        if: steps.echotik_collector.outcome == 'success'
         env:
           ECHOTIK_USERNAME: ${{ secrets.ECHOTIK_USERNAME }}
           ECHOTIK_PASSWORD: ${{ secrets.ECHOTIK_PASSWORD }}
         run: python scripts/echotik_creator_competition.py
       - name: Gather bounded product trends and associated videos
+        if: steps.echotik_collector.outcome == 'success'
         env:
           ECHOTIK_USERNAME: ${{ secrets.ECHOTIK_USERNAME }}
           ECHOTIK_PASSWORD: ${{ secrets.ECHOTIK_PASSWORD }}
         run: python scripts/echotik_advanced_signals.py
       - name: Compare overlapping listings in ranking sample
+        if: steps.echotik_collector.outcome == 'success'
         run: python scripts/echotik_competing_listings.py
       - name: Build fashion shortlist
+        if: steps.echotik_collector.outcome == 'success'
         run: python scripts/echotik_fashion_shortlist.py
       - name: Refresh affiliate verification queue and HQ (no live account fetch)
+        if: always() && steps.echotik_collector.outcome != 'cancelled'
         run: python scripts/maya_affiliate_report.py
       - name: Audit data quality and coverage
+        if: always() && steps.echotik_collector.outcome != 'cancelled'
         run: python scripts/echotik_research_audit.py
       - name: Commit results
+        if: always() && steps.echotik_collector.outcome != 'cancelled'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
