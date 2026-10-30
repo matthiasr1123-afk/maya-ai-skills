@@ -1,6 +1,6 @@
 {
-  "checked_at_utc": "2026-10-28T21:17:35.576119+00:00",
-  "ranking_fresh_under_30h": true,
+  "checked_at_utc": "2026-10-30T21:00:04.640337+00:00",
+  "ranking_fresh_under_30h": false,
   "ranking_products": 50,
   "ranking_pages": 5,
   "detail_status": "complete",
@@ -16,6 +16,7 @@
   "automated_approval_enabled": false,
   "issues": [
     "Creator-specific affiliate verification unavailable: no fresh verified eligible products",
+    "Ranking stale or missing",
     "creator_status: partial",
     "advanced_status: partial"
   ]

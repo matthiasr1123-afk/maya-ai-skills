@@ -1,8 +1,8 @@
 # Maya Finds — Product Research Health
 
-Checked (UTC): 2026-10-28T21:17:35.576119+00:00
+Checked (UTC): 2026-10-30T21:00:04.640337+00:00
 
-- Ranking fresh: True
+- Ranking fresh: False
 - Ranked products: 50
 - Detail enrichment: complete
 - Creator sampling: partial
@@ -14,5 +14,6 @@ Checked (UTC): 2026-10-28T21:17:35.576119+00:00
 
 ## Problems requiring attention
 - Creator-specific affiliate verification unavailable: no fresh verified eligible products
+- Ranking stale or missing
 - creator_status: partial
 - advanced_status: partial
