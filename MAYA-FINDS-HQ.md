@@ -27,6 +27,14 @@ Current candidates: 4 | VERIFIED: 0 | PARTIALLY VERIFIED: 0 | UNAVAILABLE: 4
 - Evidence: [verification records](data/maya-affiliate-verifications.json); [queue](data/maya-affiliate-verification-queue.json); [integration findings](docs/maya-affiliate-integration.md).
 <!-- MAYA_AFFILIATE_END -->
 
+## TikTok Shop selling-video evidence — screenshots received 2026-10-30
+
+- **Source:** User-supplied TikTok Shop > Video > Overview screenshots, custom window Sep 30–Oct 29, 2026 GMT-8. **These are video-list view counts, not Metricool views, and no video URLs/IDs are visible.** Manual creative mapping only; no Gemini match inferred.
+- **Five distinct selling videos visible:** Oct 4 striped pajama set, 329 views, 1 item, $30.99 attributed GMV; Oct 21 collagen face serum, 105 views, 1 item, $17.83; Sep 29 black bodysuit, 345 views, 1 item, $11.76; Oct 11 cushion foundation, 659 views, 1 item, $8.69; Sep 29 electric toothbrush, 910 views, 1 item, $6.58. Sum: **5 items and $75.85 attributed GMV**. The foundation and toothbrush repeat across screenshots and are counted once.
+- **Account-wide screenshot totals:** 6 items and $86.87 attributed GMV. **Unreconciled: 1 item and $11.02 GMV**, possibly another video not visible in screenshots; do not assign without evidence.
+- **Visible non-selling examples:** Oct 15 cushion foundation 1.1K views, 0 attributed items; Oct 2 headphones 504 views, 0; Oct 17 headphones 502 views, 0. Views alone do not identify purchase conversion.
+- **No per-video product clicks, product-card impressions, or CTR are shown.** Do not calculate clicks or product CTR from views. Next: obtain full video-level Shop report and exact video links/IDs for joining to Metricool; reconcile sixth item.
+
 ## TikTok Shop conversion snapshot — user-provided screenshot, 2026-10-30
 
 - **Source:** TikTok Shop Creator > Data screenshot supplied in chat on 2026-10-30; selected reporting window **2026-09-30 through 2026-10-29, GMT-8**. This is a manually verified screenshot, **not** an automated TikTok Shop connection.
