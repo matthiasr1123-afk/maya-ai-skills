@@ -27,6 +27,14 @@ Current candidates: 4 | VERIFIED: 0 | PARTIALLY VERIFIED: 0 | UNAVAILABLE: 4
 - Evidence: [verification records](data/maya-affiliate-verifications.json); [queue](data/maya-affiliate-verification-queue.json); [integration findings](docs/maya-affiliate-integration.md).
 <!-- MAYA_AFFILIATE_END -->
 
+## TikTok Shop conversion snapshot — user-provided screenshot, 2026-10-30
+
+- **Source:** TikTok Shop Creator > Data screenshot supplied in chat on 2026-10-30; selected reporting window **2026-09-30 through 2026-10-29, GMT-8**. This is a manually verified screenshot, **not** an automated TikTok Shop connection.
+- **Attributed GMV:** **$86.87**; **attributed items sold:** **6** (not necessarily six orders); **product impressions:** **24.3K** (rounded in UI); **product-card clicks:** **443**; **estimated commissions:** **$6.98**.
+- **Estimated product-card CTR:** **approximately 1.82%**, calculated as 443 / 24,300. Exact CTR is unavailable because displayed impressions are rounded. Product clicks refer to product-card interactions, not necessarily product-detail-page visits.
+- **Attribution limitation:** Screenshot provides account-wide totals only; **per-video product clicks, per-video CTR, sale dates, specific products and individual order count are not shown**. Do not assign any of these to a TikTok video without verified video-level Shop analytics. The recent sale cannot yet be dated individually.
+- **Next manual data step:** Open TikTok Shop Creator analytics **Video** tab for the same date range and capture/export per-video product impressions, clicks, CTR, attributed GMV, and items sold with video IDs or URLs. Preserve Metricool performance as a separate source. Automated Shop sync remains unconnected.
+
 ## Latest verified HQ sync — 2026-10-30
 
 - **Freshness / source:** Metricool TikTok brand `7649128` queried 2026-09-30T00:00:00-07:00 through 2026-10-30T23:59:59-07:00, plus independent five-calendar-day check 2026-10-26T00:00:00-07:00 through 2026-10-30T23:59:59-07:00. Checked 2026-10-30T15:56:11Z. **150 unique returned in rolling query; 20 in recent query; 159 stored including history.** Latest source publication date: **2026-10-29**, versus **2026-10-28** previously. No 2026-10-30 source-dated rows yet; **not proof no posts were published**. Source dates may differ from local dates. A rolling response of exactly 150 rows may be capped; the separate recent query is the freshness cross-check.
