@@ -2,7 +2,7 @@
 
 **Account:** @maya._.finds  
 **Priority:** Views → retention → reach → product clicks → sales  
-**Last connection audit:** 2026-10-30. This page is a GitHub document updated by verified scheduled checks, not a continuously live dashboard.
+**Last connection audit:** 2026-10-31. This page is a GitHub document updated by verified scheduled checks, not a continuously live dashboard.
 
 <!-- MAYA_AFFILIATE_START -->
 ## Affiliate verification dashboard
@@ -43,7 +43,27 @@ Current candidates: 4 | VERIFIED: 0 | PARTIALLY VERIFIED: 0 | UNAVAILABLE: 4
 - **Attribution limitation:** Screenshot provides account-wide totals only; **per-video product clicks, per-video CTR, sale dates, specific products and individual order count are not shown**. Do not assign any of these to a TikTok video without verified video-level Shop analytics. The recent sale cannot yet be dated individually.
 - **Next manual data step:** Open TikTok Shop Creator analytics **Video** tab for the same date range and capture/export per-video product impressions, clicks, CTR, attributed GMV, and items sold with video IDs or URLs. Preserve Metricool performance as a separate source. Automated Shop sync remains unconnected.
 
-## Latest verified HQ sync — 2026-10-30
+## Latest verified HQ sync — 2026-10-31
+
+- **Metricool source / query:** TikTok brand `7649128`; checked **2026-10-31T16:04:40Z**. Rolling window **2026-10-01T00:00:00-07:00 to 2026-10-31T23:59:59-07:00**: **144 rows**. Independent five-calendar-day window **2026-10-27T00:00:00-07:00 to 2026-10-31T23:59:59-07:00**: **14 rows**. Deduplicated **144 live video IDs**; **159** total stored historical records. Exactly 150 rolling rows **may indicate a result cap**.
+- **Freshness:** Latest returned source publication date **2026-10-29** (saved previous latest **2026-10-29**). **0 new IDs**, **0 existing videos with changed six-field metrics**, 0 overlapping query discrepancies. All latest returned IDs were already in the saved snapshot. **No source-dated Oct 30 or Oct 31 posts returned**; do **not** infer no posts were published. Metricool indexing may lag, and source timezone is unverified. Latest returned date is two calendar days old.
+- **Last three source-date days (TKPO01):**
+
+| Source publication date | Returned videos | Current cumulative views of those videos |
+|---|---:|---:|
+| 2026-10-29 | 3 | 25 |
+| 2026-10-30 | 0 | No rows returned |
+| 2026-10-31 | 0 | No rows returned |
+
+  Views are **cumulative on videos published that date**, not account views gained that day.
+- **Top recent returned videos (Oct 27–31):** [7701767296984861965](https://www.tiktok.com/@maya._.finds/video/7701767296984861965) — 399 views, reach 9, avg watch 1s (2026-10-28); [7701402433179684109](https://www.tiktok.com/@maya._.finds/video/7701402433179684109) — 390 views, reach 163, avg watch 1s (2026-10-28); [7701011776758041887](https://www.tiktok.com/@maya._.finds/video/7701011776758041887) — 265 views, reach 241, avg watch 2s (2026-10-27); [7701402195551407374](https://www.tiktok.com/@maya._.finds/video/7701402195551407374) — 34 views, reach 26, avg watch 2s (2026-10-27); [7701402545348037901](https://www.tiktok.com/@maya._.finds/video/7701402545348037901) — 31 views, reach 14, avg watch 0s (2026-10-28).
+- **Top rolling-window videos:** [7696171821724454174](https://www.tiktok.com/@maya._.finds/video/7696171821724454174) — 1199 views (2026-10-13); [7696913831649348894](https://www.tiktok.com/@maya._.finds/video/7696913831649348894) — 1137 views (2026-10-15); [7692094250690809101](https://www.tiktok.com/@maya._.finds/video/7692094250690809101) — 912 views (2026-10-02); [7696913942311931167](https://www.tiktok.com/@maya._.finds/video/7696913942311931167) — 901 views (2026-10-15); [7695808226398407950](https://www.tiktok.com/@maya._.finds/video/7695808226398407950) — 829 views (2026-10-13).
+- **Current returned performance:** **33,025 cumulative views** across 144 unique returned videos; median **127.5 views** and **1.5s reported average watch time**. **4 positive-view/zero-reach anomalies**, including [7702113744230337822](https://www.tiktok.com/@maya._.finds/video/7702113744230337822), [7702113563866877215](https://www.tiktok.com/@maya._.finds/video/7702113563866877215), [7701760621108382989](https://www.tiktok.com/@maya._.finds/video/7701760621108382989), [7701760454791646478](https://www.tiktok.com/@maya._.finds/video/7701760454791646478). TKPO13 completion raw values saved, **scale not validated**.
+- **TikTok Shop:** Separate manually verified Sep 30–Oct 29 screenshot totals remain **6 items sold, $86.87 attributed GMV, 443 account-wide product-card clicks, $6.98 estimated commissions**. These were **not refreshed by Metricool**. Five unique selling videos have screenshot evidence without video IDs; sixth item ($11.02 GMV) remains unreconciled. Per-video product clicks/CTR unavailable.
+- **Learning and mapping:** Read `gemini-generation-learning-log.md`; no new verified shared identifier connects a Gemini generation to these TikTok video IDs. No creative or sales attribution invented, and no new POST/REGENERATE/DITCH verdict.
+- **Sync status:** Metricool returned usable data but **freshness lagging for Oct 30–31**; GitHub readback required to confirm persistence.
+
+## Previous verified HQ sync — 2026-10-30
 
 - **Freshness / source:** Metricool TikTok brand `7649128` queried 2026-09-30T00:00:00-07:00 through 2026-10-30T23:59:59-07:00, plus independent five-calendar-day check 2026-10-26T00:00:00-07:00 through 2026-10-30T23:59:59-07:00. Checked 2026-10-30T15:56:11Z. **150 unique returned in rolling query; 20 in recent query; 159 stored including history.** Latest source publication date: **2026-10-29**, versus **2026-10-28** previously. No 2026-10-30 source-dated rows yet; **not proof no posts were published**. Source dates may differ from local dates. A rolling response of exactly 150 rows may be capped; the separate recent query is the freshness cross-check.
 - **Persisted changes:** **6 newly discovered TikTok video IDs** (`7702113744230337822`, `7702113563866877215`, `7701760729132616973`, `7701760621108382989`, `7701760454791646478`, `7701767296984861965`); 61 previously stored posts changed one or more of the six queried metrics; 150 new dated observations appended. Historical records and existing creative mappings retained. **Newest fresh IDs must be verified in GitHub readback before declaring success.**
@@ -69,7 +89,7 @@ Current candidates: 4 | VERIFIED: 0 | PARTIALLY VERIFIED: 0 | UNAVAILABLE: 4
 | System | Verified state | What is / isn't automatic |
 |---|---|---|
 | GitHub skills repository | Connected: file read and write succeeded | Skill files are reference instructions; GitHub storage alone does **not** activate a background agent |
-| Metricool TikTok | Connected: Oct 30 live query returned 150 rolling posts and 20 independently checked recent posts; 159 stored after 6 new IDs; latest source date Oct 29 | Source may lag and rolling response may be capped; reach and completion caveats remain |
+| Metricool TikTok | Connected: Oct 31 rolling query 144 rows, recent independent query 14 rows; 159 historical videos stored; latest source date 2026-10-29 | Oct 30–31 rows absent; indexing may lag, timezone unverified, rolling response may be capped |
 | Gemini | No direct Gemini generation/credit integration verified | User submits videos to ChatGPT for inspection; cannot detect new Gemini generations independently |
 | TikTok Shop sales/commissions | No direct Shop data connection verified | Never infer sales, GMV or commissions from Metricool post analytics |
 | ChatGPT scheduled tasks | Five enabled recurring tasks last verified Oct 28 (no new inventory in Oct 29 run) | Maya HQ Daily Sync is configured to write this page; other task reports remain separate |
@@ -90,10 +110,10 @@ Current candidates: 4 | VERIFIED: 0 | PARTIALLY VERIFIED: 0 | UNAVAILABLE: 4
 
 | Area | Latest verified result | Last checked | Next action |
 |---|---|---|---|
-| Views / retention | 150 rolling posts; 159 stored; 6 newly discovered; latest source date Oct 29; median avg watch 2s (rounded); 4 positive-view/zero-reach anomalies | 2026-10-30 | Match posts to Gemini source IDs and inspect retention |
+| Views / retention | 144 live returned videos; 159 stored; 0 new IDs; latest source 2026-10-29; median avg watch 1.5s; 4 positive-view/zero-reach anomalies | 2026-10-31 | Recheck source freshness and match posts to Gemini originals |
 | Product research | Oct 27 shortlist: Dokotoo cardigan conditional TEST; Yimo leg warmers WATCHLIST; Chic Chic scarf WATCHLIST (commissions unverified) | 2026-10-27 | Verify exact Creator Marketplace affiliate eligibility, commissions and stock |
 | Gemini quality | No new verified Gemini-to-published-video mapping or inspected generation in this Oct 30 analytics sync | 2026-10-30 | Map recent TikTok IDs to original Gemini files |
-| Clicks / sales / GMV | No live TikTok Shop source verified | 2026-10-25 | Connect a supported source or supply export |
+| Clicks / sales / GMV | Manual TikTok Shop Sep 30–Oct 29 screenshot: 443 clicks, 6 items, $86.87 attributed GMV, $6.98 estimated commissions; not live-connected | 2026-10-30 screenshot | Reconcile sixth sale and seek per-video Shop clicks |
 | Automation health | Metricool Oct 30 source check completed; GitHub readback required for persistence confirmation | 2026-10-30 | Monitor source freshness and readback |
 
 ## Learning loop: operating contract
