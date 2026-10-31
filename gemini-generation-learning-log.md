@@ -147,3 +147,15 @@ _No new reviews logged yet._
 - Sound scout: official CML guidance found, but no exact track/US availability verified; no invented track recommendation.
 - Learning: keep hook contrast stronger than background detail, preserve nail tips within frame, and use brief native motion rather than adding complex nail/hand actions.
 - Metrics: unavailable; no account attribution or retention uplift claimed.
+
+
+## The Cozy Collective — White/Grey lined clogs batch review/edit — 2026-10-31
+- Account: @cozycollective.finds ONLY. No Maya metrics attributed.
+- Sources: A8C8E2EB raspberry outfit; E0CA1F5D denim side; 30A97A1A shoe in hand; 324B6949 worn POV. All actual sources 10s, 512x910, despite shorter requested durations. Seller reference: TikTok product 1729562305804538814 White/Grey side image, with black same-model top geometry reference; no authenticated account eligibility verified.
+- Scope: frames sampled every0.5s across full sources plus larger detail frames; edited contact sheets inspected; full export decode/ZIP integrity verified. Not continuous visual playback. Fine motion/vent/rivet details remain uncertain.
+- Verdict: REGENERATE starting still product geometry before Shop approval; supplied editorial review exports, not unconditional POST. Biggest issue: ventilation count/spacing and small logo fidelity not certified; some generated angles appear inconsistent with seller top geometry, with perspective limiting definitive counts. Editing cannot fix baked-in product discrepancies. Repeated identical Gemini retries not worth credits; correct/verify still first.
+- Observed movement: outfit clips pivot/reposition foreground foot; hand clip tilts shoe more than minimal instruction; POV rotates foreground foot outward. Repeated/low-change late posing across10s sources. No large anatomy disappearance in sampled frames; continuous temporal stability unverified.
+- Edits: 5.6s raspberry,6.0s denim,5.2s hand,5.4s POV, first useful native sequence at normal speed, no extra zooms or transitions, original512x910 resolution, silent. Four distinct palette-coordinated hooks with heart/sparkle/coffee symbols, readable above shoes. Hooks Crocs with a skirt?/hear me out..., socks+clogs YES or NO?, wait...these are lined?, coffee-run or staying-in shoes?.
+- Single next action: verify/rebuild product vent layout and rivet before animation or publishing; keep useful coordinated styling. No new generation recommended from unchanged stills.
+- Sound scout: exact current US TikTok Shop CML titles/clearance unavailable from public lookup, no fabricated track selection. Keep AI provenance/disclosure; export AI comment retained, redundant creation timestamp removed.
+- Posted views/retention/clicks/sales/GMV: unavailable. No retention uplift claimed.
