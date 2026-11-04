@@ -2,7 +2,7 @@
 
 **Account:** @maya._.finds  
 **Priority:** Views → retention → reach → product clicks → sales  
-**Last connection audit:** 2026-11-03. This page is a GitHub document updated by verified scheduled checks, not a continuously live dashboard.
+**Last connection audit:** 2026-11-04. This page is a GitHub document updated by verified scheduled checks, not a continuously live dashboard.
 
 <!-- MAYA_AFFILIATE_START -->
 ## Affiliate verification dashboard
@@ -121,20 +121,20 @@ Current candidates: 4 | VERIFIED: 0 | PARTIALLY VERIFIED: 0 | UNAVAILABLE: 4
 - **Attribution limitation:** Screenshot provides account-wide totals only; **per-video product clicks, per-video CTR, sale dates, specific products and individual order count are not shown**. Do not assign any of these to a TikTok video without verified video-level Shop analytics. The recent sale cannot yet be dated individually.
 - **Next manual data step:** Open TikTok Shop Creator analytics **Video** tab for the same date range and capture/export per-video product impressions, clicks, CTR, attributed GMV, and items sold with video IDs or URLs. Preserve Metricool performance as a separate source. Automated Shop sync remains unconnected.
 
-## Latest verified HQ sync — 2026-11-03
+## Latest verified HQ sync — November 4, 2026
 
-- **Source and freshness:** Metricool TikTok brand 7649128 checked 2026-11-03T17:03:32Z; rolling window 2026-10-04T00:00:00-08:00 to 2026-11-03T23:59:59-08:00; independent five-calendar-day window 2026-10-30T00:00:00-08:00 to 2026-11-03T23:59:59-08:00. Rolling returned **131 rows**, independent recent returned **0 rows**. Newest source publication date **20261029**, versus previously stored **20261029**. **STALE:** No rows returned for Oct 30–Nov 3; this does **not** prove no posts were published. Metricool timezone unverified, indexing may lag, and rolling query may be truncated.
-- **Persistence:** 0 newly discovered IDs (none); 0 existing posts with changed metrics; 131 dated observations appended; **159 historical IDs preserved** (previously 159). Newest source IDs: 7702113744230337822, 7702113563866877215, 7701760729132616973. Completion TKPO13 remains raw/unvalidated; 4 returned videos have positive views but zero reach.
-- **Last three local calendar dates** (source date TKPO01; cumulative views on posts published that date, *not* daily views gained):
+- **Checked:** 2026-11-04T17:02:13Z. Rolling 30-day query: 126 rows and 27,134 cumulative views; independent five-calendar-day query Oct 31–Nov 4: 0 rows.
+- **Latest returned publication date:** 20261029; **0 new IDs**, 122 changed/new metric observations; 159 historical video records retained. **STALE source**: latest returned Oct 29, six days before Nov 4. No recent rows does not prove no new posting. Rolling query may omit older records; Metricool source timezone unverified.
+- **Last three source publication dates:**
 
-| Date | Returned posts | Current cumulative views |
+| Date | Returned posts | Cumulative views on those posts |
 |---|---:|---:|
-| 2026-11-01 | 0 | No rows returned |
 | 2026-11-02 | 0 | No rows returned |
 | 2026-11-03 | 0 | No rows returned |
+| 2026-11-04 | 0 | No rows returned |
 
-- **Recent top returned videos:** [7701767296984861965](https://www.tiktok.com/@maya._.finds/video/7701767296984861965) — 399 views, reach 9, average watch 1s (source 20261028); [7701402433179684109](https://www.tiktok.com/@maya._.finds/video/7701402433179684109) — 390 views, reach 163, average watch 1s (source 20261028); [7701011776758041887](https://www.tiktok.com/@maya._.finds/video/7701011776758041887) — 265 views, reach 241, average watch 2s (source 20261027).
-- **Outstanding:** Gemini-to-post source mappings remain unverified; TikTok Shop sales and per-video clicks/CTR cannot be refreshed from Metricool. Previously screenshot-verified Shop data must not be represented as current live sales.
+- **Recent top returned videos:** [7701767296984861965](https://www.tiktok.com/@maya._.finds/video/7701767296984861965) — 399 views (20261028); [7701402433179684109](https://www.tiktok.com/@maya._.finds/video/7701402433179684109) — 390 views (20261028); [7701011776758041887](https://www.tiktok.com/@maya._.finds/video/7701011776758041887) — 265 views (20261027); [7701011583681563934](https://www.tiktok.com/@maya._.finds/video/7701011583681563934) — 178 views (20261026); [7701011687943572766](https://www.tiktok.com/@maya._.finds/video/7701011687943572766) — 165 views (20261026).
+- **Limitations:** 4 positive-view/zero-reach anomalies; completion TKPO13 raw values unvalidated; average watch times may be rounded; GMT/Pacific publication boundary unverified (DST offsets accounted for in query); Gemini-to-post mapping outstanding. TikTok Shop sales/clicks not available in Metricool and not refreshed.
 
 ## Previous verified HQ sync — 2026-11-01
 
