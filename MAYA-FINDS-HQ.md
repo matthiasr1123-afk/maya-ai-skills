@@ -1,3 +1,27 @@
+## Current creative decisions for all Maya project chats — November 6, 2026
+
+User-directed shared priority: AI-only production; competitor reference analysis comes before generation. Read this section and gemini-generation-learning-log.md before recommending another batch. These Maya findings must not be attributed to Cozy Collective.
+
+Source: user recording ScreenRecording_11-05-2026 22-26-07_1.mp4; displayed 7D reporting period Oct 29–Nov 4, not refreshed/lifetime figures. Full evidence and limitations are in the Nov 6 learning-log entry.
+
+| Execution | Displayed views | Displayed CTR | Current decision |
+|---|---:|---:|---|
+| Nov 4 standing dark leopard matching set, “wait because this matching set…” (6s) | 141 | 5.34% | KEEP: promising click response; small follow-up batch |
+| Nov 3 car-seat leopard set, “the car fit check never lies…” (6s) | 345 | 3.84% | KEEP + FOLLOW: prioritize studying/adapting this composition |
+| Nov 4 leopard pants, “It’s officially cozy outfit season…” (5s) | 280 | 0.71% | DITCH unchanged execution; pause repeats |
+| Nov 1 leopard sweats, “These leopard sweats might be my new…” (5s) | 335 | 0.58% | DITCH unchanged execution; pause repeats |
+| Oct 30 neutral/brown flared pants, “why does this outfit look so put together…” (8s) | 268 | 0.36% | PAUSE unchanged execution; investigate inventory diagnostic |
+
+All five panels show $0 attributed GMV and zero attributed items sold. Retention not shown. These are click-response leads, not verified reach/retention/sales winners; do not infer creative causation. Do not calculate click counts from views × CTR without confirming denominator.
+
+Next proposed batch: two car-seat adaptations and one standing matching-set adaptation, using the same verified product where practical and one opening change per version. Inspect accurate starting stills before animation. Reference structure must be observed; use original generated footage and styling.
+
+Operational follow-up: Nov 2 blue-pants post and Oct 31 jacket post show content-quality violations; inspect exact reasons before reusing executions. Oct 25 sunglasses post has removed product link; header shows two hidden links, not both identified. Verify matching active listing and stock. No accountwide restriction established.
+
+“Ditch” means stop spending credits repeating that execution, not delete posted videos or abandon the entire product category. Green Exposure plus additional-view labels are not total video views.
+
+---
+
 ## Daily Metricool verification — November 6, 2026
 
 - **Source:** Live Metricool TikTok posts, brand 7649128, checked 2026-11-06T16:59:00Z; metrics TKPO01, TKPO03, TKPO07, TKPO11, TKPO13, TKPO15.
