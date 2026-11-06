@@ -159,3 +159,19 @@ _No new reviews logged yet._
 - Single next action: verify/rebuild product vent layout and rivet before animation or publishing; keep useful coordinated styling. No new generation recommended from unchanged stills.
 - Sound scout: exact current US TikTok Shop CML titles/clearance unavailable from public lookup, no fabricated track selection. Keep AI provenance/disclosure; export AI comment retained, redundant creation timestamp removed.
 - Posted views/retention/clicks/sales/GMV: unavailable. No retention uplift claimed.
+
+
+## Maya Finds — Shop analytics recording review — 2026-11-06
+- Evidence: user-uploaded ScreenRecording_11-05-2026 22-26-07_1.mp4 (60.83s), attributed to Maya by user. Reviewed sampled frames across recording, with denser 1s samples at 30–48s. Not full audiovisual creative QC.
+- Displayed reporting period: 7D, Oct 29–Nov 4, 2026, GMT-8 as shown. These are historical displayed figures, not refreshed Nov 6/lifetime metrics. Exposure-plus incremental-view labels on list cards are NOT total video views.
+- Verified detail panels:
+  - Nov 4, standing dark leopard matching set, “wait because this matching set is EVERYT…”; 6s: 141 views, CTR 5.34%, attributed GMV $0, items sold 0, CTOR 0%.
+  - Nov 3, car-seat leopard set, “the car fit check never lies…”; 6s: 345 views, CTR 3.84%, attributed GMV $0, items sold 0, CTOR 0%.
+  - Nov 4, “It’s officially cozy outfit season…” leopard sweatpants; 5s: 280 views, CTR 0.71%, attributed GMV $0, items sold 0, CTOR 0%.
+  - Nov 1, “These leopard sweats might be my new fa…”; 5s: 335 views, CTR 0.58%, attributed GMV $0, items sold 0, CTOR 0%.
+  - Oct 30, “why does this outfit look so put together…” neutral/brown flared pants; 8s: 268 views, CTR 0.36%, attributed GMV $0, items sold 0, CTOR 0%.
+- Decision: KEEP/PRIORITIZE car-seat leopard set format and standing dark leopard matching-set format for small follow-up batch; stronger observed CTR, not proven retention/reach/sales winners. Hold product and opening wording constant where possible when comparing angles; current posts differ in date, framing, hook and possibly SKU.
+- DITCH unchanged repetitions of the two low-CTR leopard sweatpants executions and neutral-pants execution. Pause these executions, not entire product categories; do not delete posted videos. Product inventory diagnostic visible on neutral-pants panel; investigate before attributing result solely to creative.
+- FOLLOW: detailed study/recreation of car-seat product-dominant crop and standing matching-set presentation, using original generated footage and accurate seller reference. Full movement/audio/retention and exact SKU mapping not established by this recording.
+- Operational issues observed: content-quality violation labels on Nov 2 6PM blue-pants post (“the pop of blue…”) and Oct 31 noon jacket post (“Wait because this jacket…”). Sunglasses Oct 25 5:30PM post shows one product link needs attention and product removed. Header shows Hidden product links (2); identity of both hidden links unverified. Stop unchanged reuse of flagged outputs; read exact violation reason before diagnosis. Verify active matching product link, stock and variant before further generations.
+- No product-click counts inferred by multiplying views × CTR: denominator not displayed/validated. Small samples; no causal angle claims or accountwide penalty inference. No retention data visible.
