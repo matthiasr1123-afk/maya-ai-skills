@@ -1,3 +1,13 @@
+## Daily Metricool verification — November 6, 2026
+
+- **Source:** Live Metricool TikTok posts, brand 7649128, checked 2026-11-06T16:59:00Z; metrics TKPO01, TKPO03, TKPO07, TKPO11, TKPO13, TKPO15.
+- **Windows:** rolling Oct 7–Nov 6 (115 rows, 115 unique videos); independent Nov 2–6 (0 rows). Queries include November 6 and account for local DST change. A missing row is not proof of no upload.
+- **Freshest publication returned:** 20261029 (source raw YYYYMMDD; publication timezone unverified). Saved snapshot previous newest: 20261029. **Freshness: STALE**; Metricool still does not surface newer posts.
+- **New IDs persisted:** 0; **existing records with changed metrics:** 111; **historical records retained:** 159. Window cumulative views: 24,193 (not daily view gains). 4 returned videos show views > 0 with zero reach; reach unreliable for these.
+- **Last three local calendar dates (publication cohorts, cumulative views, not daily impressions):** 20261104: 0 videos / 0 views; 20261105: 0 videos / 0 views; 20261106: 0 videos / 0 views. Treat zeros as *no rows returned*, not confirmed zero publishing.
+- **Recent highest-viewed returned videos:** [20261028, 399 views](https://www.tiktok.com/@maya._.finds/video/7701767296984861965); [20261028, 390 views](https://www.tiktok.com/@maya._.finds/video/7701402433179684109); [20261027, 265 views](https://www.tiktok.com/@maya._.finds/video/7701011776758041887).
+- **Limitations:** Metricool delayed/stale indexing, source timezone unverified, completion-rate raw scale unvalidated, average watch time units as reported; Gemini-to-published-video mapping unresolved. TikTok Shop sales not refreshed or inferred.
+
 # MAYA FINDS HQ — Command Center
 
 **Account:** @maya._.finds  
