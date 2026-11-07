@@ -175,3 +175,13 @@ _No new reviews logged yet._
 - FOLLOW: detailed study/recreation of car-seat product-dominant crop and standing matching-set presentation, using original generated footage and accurate seller reference. Full movement/audio/retention and exact SKU mapping not established by this recording.
 - Operational issues observed: content-quality violation labels on Nov 2 6PM blue-pants post (“the pop of blue…”) and Oct 31 noon jacket post (“Wait because this jacket…”). Sunglasses Oct 25 5:30PM post shows one product link needs attention and product removed. Header shows Hidden product links (2); identity of both hidden links unverified. Stop unchanged reuse of flagged outputs; read exact violation reason before diagnosis. Verify active matching product link, stock and variant before further generations.
 - No product-click counts inferred by multiplying views × CTR: denominator not displayed/validated. Small samples; no causal angle claims or accountwide penalty inference. No retention data visible.
+
+
+## Maya leopard matching set — reference-style auto-edit — 2026-11-07
+- Sources: 2A18DFB5 close car, 1A0ED734 mirror, 80904D11 standing, A2E98102 wide car. All 10s, 512x910; reviewed source frames every 0.5s and edited contact sheets at 1s; not continuous playback/audio review.
+- Observed: close car hand gesture resolves early then low-change tail; mirror turns and returns more substantially than prompt; standing uncrosses legs and repeats stance; wide car turns head toward window and returns. No gross anatomy disappearance in sampled frames. Fine temporal print fidelity remains uncertain.
+- Verdict: provisional edit candidates, no unconditional POST approval. Exact seller rosette placement differs/uncertified, full-length seller hem reference absent and generated standing/mirror ankle fits differ. Editing cannot repair these starting-image limitations.
+- Exported close car 4.2s, mirror 5.7s, standing 4.8s, wide car 5.4s at normal speed, original resolution, silent. Removed redundant metadata, added AI-generation provenance comment; no watermark cropping. Full decode checks passed.
+- User-preferred hook style: large lowercase white sans headline, smaller centered second line, fine dark outline, outline heart inline, thin white divider beneath; no blocks/busy typography. Checked output contact sheets for spacing and visibility. This is a user preference, not proven retention lift.
+- Highest-impact next action: confirm exact seller lower-leg cut before Shop publication; preserve useful motion and trim idle/repeated tails rather than add movements.
+- Sound: no exact current US CML track verified; exports silent. No new performance metrics.
