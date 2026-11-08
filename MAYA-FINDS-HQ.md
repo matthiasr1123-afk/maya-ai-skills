@@ -22,6 +22,16 @@ Operational follow-up: Nov 2 blue-pants post and Oct 31 jacket post show content
 
 ---
 
+## Daily Metricool verification — November 8, 2026
+
+- **Source:** Metricool TikTok posts, brand 7649128, fields TKPO01/TKPO03/TKPO07/TKPO11/TKPO13/TKPO15. Queried Oct 9–Nov 8 inclusive (local PST boundaries; DST transition may affect source grouping), and independently Nov 4–8 inclusive.
+- **Rolling window:** 105 rows / 105 unique video IDs; **22,778 cumulative video views** on returned posts, not views earned during the window.
+- **Newest publication returned:** 20261029 (October 29). **STALE**: no November posts returned; missing rows are not evidence of zero uploads. Publication timezone and indexing lag unverified.
+- **Last three publication cohorts:** Nov 6, Nov 7, Nov 8: no rows returned for each; earned daily views unavailable.
+- **Highest-view recent returned posts:** [10/25: 560 views](https://www.tiktok.com/@maya._.finds/video/7700638674475601182); [10/25: 548 views](https://www.tiktok.com/@maya._.finds/video/7700313832027180319); [10/28: 399 views](https://www.tiktok.com/@maya._.finds/video/7701767296984861965).
+- **Data quality:** 4 returned posts have positive views and zero reach. Average watch time is reported in seconds; TKPO13 completion values are stored only as unvalidated raw values in the source query and must not be interpreted as percentages. Exact Gemini-to-post matches remain outstanding. No TikTok Shop sales refreshed.
+- **SNAPSHOT BLOCKER:** GitHub returned an empty body for `maya-performance-snapshot.json` with blob SHA 3b1a490f2cbfe68ef22ecfa0f6c3b912fe280083. The saved video IDs and historical observations could not be inspected. **Do not claim zero new IDs relative to saved snapshot. Snapshot was not modified or readback verified. Full sync incomplete.**
+
 ## Daily Metricool verification — November 7, 2026
 
 - **Source:** Fresh Metricool TikTok posts query for brand 7649128; fields TKPO01, TKPO03, TKPO07, TKPO11, TKPO13, TKPO15.
