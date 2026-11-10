@@ -1,3 +1,15 @@
+## Daily Metricool verification — November 10, 2026
+
+- **Source:** Metricool TikTok posts, brand 7649128; TKPO01/TKPO03/TKPO07/TKPO11/TKPO13/TKPO15. Rolling Oct 11–Nov 10 (DST-aware local boundaries), separate Nov 6–10 check.
+- **Rolling results:** 94 rows, 94 unique video IDs, **20,593 cumulative views on returned videos** (not views earned in this date range). Recent query: 0 rows.
+- **Latest publication returned:** 20261029 (October 29). **STALE**: November posts not returned; this does not establish no uploads. Source timezone/indexing delay unknown.
+- **Last three publication cohorts:** 11/08: 0 returned rows, cumulative views unavailable; 11/09: 0 returned rows, cumulative views unavailable; 11/10: 0 returned rows, cumulative views unavailable. Daily earned views unavailable.
+- **Top returned posts:** [10/13: 1199 views](https://www.tiktok.com/@maya._.finds/video/7696171821724454174); [10/15: 1137 views](https://www.tiktok.com/@maya._.finds/video/7696913831649348894); [10/15: 901 views](https://www.tiktok.com/@maya._.finds/video/7696913942311931167); [10/13: 829 views](https://www.tiktok.com/@maya._.finds/video/7695808226398407950); [10/14: 798 views](https://www.tiktok.com/@maya._.finds/video/7696545032152599838).
+- **Snapshot:** 159 historical video IDs preserved; 0 newly discovered IDs; 91 changed metrics (comparison with saved values). New source IDs persisted and checked against historical IDs. 4 positive-view/zero-reach anomalies.
+- **Limitations:** TKPO13 completion raw scale unvalidated; TKPO15 seconds possibly rounded; source publication timezone unverified; no verified Gemini-to-published-video mapping; TikTok Shop sales not refreshed. Missing November rows are a source-coverage gap, not zero posts.
+
+---
+
 ## Current creative decisions for all Maya project chats — November 6, 2026
 
 User-directed shared priority: AI-only production; competitor reference analysis comes before generation. Read this section and gemini-generation-learning-log.md before recommending another batch. These Maya findings must not be attributed to Cozy Collective.
