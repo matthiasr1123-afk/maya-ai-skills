@@ -67,7 +67,7 @@ See Git history for full November 6 metrics.
 <!-- MAYA_AFFILIATE_START -->
 ## Affiliate verification dashboard
 
-Report generated (UTC): 2026-11-10T00:23:53.676224+00:00
+Report generated (UTC): 2026-11-10T21:55:05.525215+00:00
 
 Account: @maya._.finds. These are snapshots, not a guarantee at posting time.
 
