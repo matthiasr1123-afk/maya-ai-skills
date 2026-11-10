@@ -87,6 +87,26 @@ Current candidates: 4 | VERIFIED: 0 | PARTIALLY VERIFIED: 0 | UNAVAILABLE: 4
 - Evidence: [verification records](data/maya-affiliate-verifications.json); [queue](data/maya-affiliate-verification-queue.json); [integration findings](docs/maya-affiliate-integration.md).
 <!-- MAYA_AFFILIATE_END -->
 
+## Daily Product Scout Shortlist — 2026-11-10
+
+**Checked November 10, 2026 PST.** Read `product-research.md`, `docs/paid-demand-creator-scarcity-spec.md` and HQ. Latest accessible [TokConnect new-products table](https://tokconnect.com/trends/tiktok-shop/new-products/) is dated **November 7**, with estimated 30-day sales through **November 4**; no fresh product-level Nov 10 dataset. [Rising products](https://tokconnect.com/trends/tiktok-shop/rising-products/) likewise updated Nov 7, data through Nov 4. [Black Friday category tracker](https://tokconnect.com/trends/tiktok-shop/black-friday-2026/) updated Nov 9, through Nov 7; category growth is NOT product-level acceleration. EchoTik: last recorded HTTP 402, no authenticated recovery check possible; stale rankings excluded.
+
+**Eight public candidates screened** (TokConnect provider estimates, not fresh product verification): PULKRITU pleated A-line (source Oct 10; $9.6K/246 units; 16 reported selling creators); Comfrt Dreamer Robe (Oct 26; $274.6K/4.1K units; 669 reported sellers); Comfrt Sweater Knit Hoodie (Oct 28; $195.9K/5.3K; 374); Comfrt Sweater Knit Crew (Oct 28; $168.3K/4.5K; 380); women's half-zip two-piece outfit (Oct 17; $39.7K/2.1K; 278); waffle-knit collared long-sleeve (Oct 12; $24.6K/1.6K; 176); gold-tone snake-chain initial bracelet (Oct 16; $588.4K/58K; 59); Comfrt Packable Puffer (source Oct 7; $243.2K/5K through Oct 29, outside preferred age window if source launch accurate). These historical reported seller totals are NOT unique 30-day active video creators. Exact listing ID and launch date verification incomplete.
+
+**MANDATORY COMPETITION — ACCESS REQUIRED:** No authorized Kalodata Open Center API or other exact-product creator/video integration exposed for this run. Planned US exact-`product_id` `/openapi/v1/tiktok/video/rank`, `last30Day`, `publish_date_range <30`, page_size 100 was **not called**. For each ranked candidate: pages retrieved **0**, videos examined **0**, unique IDs processed **0** (retrieval counts, NOT creator counts), 30d unique active creators **UNKNOWN**, 7d count and growth **UNKNOWN**, data timestamp **N/A**, pagination coverage **NOT ESTABLISHED**, API estimation limits **N/A**. Exact IDs for PULKRITU and Dreamer Robe unresolved; Puffer provisional ID 1732723240005440387 remains unverified. No VERIFIED LOW COMPETITION.
+
+**Ads:** No dated exact-product US advertiser creative independently confirmed. `ad=1`, `ad_view_ratio`, `ad_revenue_ratio`, `ads_roas` **N/A**; documented ad spend USD **null**. Creative Center Top Ads is curated, not complete ad inventory. No assumption US TikTok Commercial Content API coverage. **Affiliate:** Maya exact-ID eligibility, 48h commission, stock and showcase status **UNKNOWN**. Product-level 7d VIDEO sales acceleration **UNKNOWN**; category and cumulative sales do not establish it. EchoTik outage not freshly authenticated, so state remains unverified rather than recovered.
+
+**Weighting:** competition 25%, paid-ad intensity 25%, video momentum 20%, verified age 10%, Maya economics 10%, AI UGC fidelity 10%; unknown factors N/A, no fabricated composite score. **Exactly three editorial investigation priorities (all WATCHLIST, none approved):**
+
+| Rank | Candidate | Why investigate / limitations | Evidence coverage |
+|---|---|---|---|
+| 1 | **PULKRITU pleated A-line** | Source-reported Oct 10 launch; $9.6K/246 units and 16 selling creators. Best provisional scarcity signal; exact product ID/title/variant unresolved. | Competition N/A; ads N/A; video momentum N/A; age provisional; affiliate N/A; AI fidelity provisional |
+| 2 | **Comfrt Dreamer Robe** | Source-reported Oct 26 launch; $274.6K/4.1K units, but 669 selling creators suggests crowded; no exact ID mapping. | Competition N/A; ads N/A; video momentum N/A; age provisional; affiliate N/A; AI fidelity provisional |
+| 3 | **Comfrt Packable Puffer** | Provisional [listing ID 1732723240005440387](https://shop.tiktok.com/us/pdp/1732723240005440387); historical $243.2K/5K units through Oct 29; Oct 7 source launch now 34 days ago. | Competition N/A; ads N/A; video momentum N/A; age outside target if confirmed; affiliate N/A; AI fidelity provisional |
+
+**Result:** 8 screened, 3 ranked, **0 VERIFIED TEST**. No prompts/scripts/captions, purchases or showcase changes. Affiliate section and all history retained.
+
 ## Daily Product Scout Shortlist — 2026-11-09
 
 **Checked November 9, 2026 PST.** Read `product-research.md`, `docs/paid-demand-creator-scarcity-spec.md` and prior HQ. Freshest public candidate table: [TokConnect new products](https://tokconnect.com/trends/tiktok-shop/new-products/), updated November 7 with estimates through November 4. [Black Friday category tracker](https://tokconnect.com/trends/tiktok-shop/black-friday-2026/) updated November 9 with category sales through November 7: Fashion Accessories +31.4% and Womenswear +26.4% week-on-week; **category growth is not product-level acceleration**. EchoTik last recorded HTTP 402; no authenticated recovery evidence; stale rankings excluded.
