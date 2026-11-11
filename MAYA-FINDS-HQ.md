@@ -1,3 +1,14 @@
+## Daily Metricool verification — November 11, 2026
+
+- **Source:** Metricool brand 7649128; TKPO01, TKPO03, TKPO07, TKPO11, TKPO13, TKPO15. Rolling 2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00.
+- **Rolling results:** 138 rows, 138 unique video IDs; **200,767 cumulative views** on returned videos (not views gained in this period). Independent recent query: 19 rows.
+- **Freshness:** Newest published date returned **20261110**; previously saved latest **20261029**. November posts now visible; November 11 may not be indexed yet. Source publication timezone unverified.
+- **Snapshot:** 208 historical video IDs preserved, **49 new IDs persisted**, 126 new/changed metric observations; 8 positive-view/zero-reach anomalies. Source raw completion values retained without interpreting scale.
+- **Last three publication cohorts:** 11/09: 5 posts, 2,298 cumulative post views; 11/10: 4 posts, 592 cumulative post views; 11/11: 0 posts, 0 cumulative post views (no rows returned; not proof of no posts). Daily earned views unavailable.
+- **Top recently published videos:** [20261107: 932 views](https://www.tiktok.com/@maya._.finds/video/7705488494277233950); [20261109: 907 views](https://www.tiktok.com/@maya._.finds/video/7706215989351959822); [20261108: 652 views](https://www.tiktok.com/@maya._.finds/video/7705893294261144862); [20261109: 614 views](https://www.tiktok.com/@maya._.finds/video/7706216064664833293); [20261107: 612 views](https://www.tiktok.com/@maya._.finds/video/7705356726442183966).
+- **Limitations:** TKPO13 raw scale unvalidated; TKPO15 seconds may be rounded; UTC/local date boundaries and Metricool indexing may shift dates. No verified Gemini-to-published-video match; no refreshed TikTok Shop sales, CTR or product attribution.
+
+---
 ## Daily Metricool verification — November 10, 2026
 
 - **Source:** Metricool TikTok posts, brand 7649128; TKPO01/TKPO03/TKPO07/TKPO11/TKPO13/TKPO15. Rolling Oct 11–Nov 10 (DST-aware local boundaries), separate Nov 6–10 check.
