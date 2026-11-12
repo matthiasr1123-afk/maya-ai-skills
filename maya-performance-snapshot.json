@@ -2,10 +2,10 @@
   "schema_version": 1,
   "account": "maya._.finds",
   "source": "Metricool TikTok posts, brand 7649128",
-  "last_checked": "2026-11-11",
-  "status": "video_rows_verified_new_november_posts",
-  "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
-  "last_successful_data_sync": "2026-11-11T17:00:00Z",
+  "last_checked": "2026-11-12",
+  "status": "video_rows_verified_recent_indexing_lag",
+  "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+  "last_successful_data_sync": "2026-11-12T17:00:00Z",
   "metric_ids": [
     "TKPO01",
     "TKPO02",
@@ -152,6 +152,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261029",
+          "views": 56,
+          "reach": 48,
+          "completion_rate_raw": "3.449999913573265E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "published_date": "20261029",
@@ -172,7 +183,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261029",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7702113744230337822"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7702113744230337822",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7702113744230337822"
     },
     {
       "video_id": "7702113563866877215",
@@ -304,6 +316,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261029",
+          "views": 603,
+          "reach": 332,
+          "completion_rate_raw": "2.7000000700354575E-5",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "published_date": "20261029",
@@ -324,7 +347,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261029",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7702113563866877215"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7702113563866877215",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7702113563866877215"
     },
     {
       "video_id": "7701760729132616973",
@@ -454,6 +478,17 @@
           "average_watch_time_raw": 0,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261029",
+          "views": 16,
+          "reach": 14,
+          "completion_rate_raw": "0.0",
+          "average_watch_time_raw": 0,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "published_date": "20261029",
@@ -474,7 +509,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261029",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701760729132616973"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701760729132616973",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701760729132616973"
     },
     {
       "video_id": "7701767296984861965",
@@ -604,6 +640,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261028",
+          "views": 411,
+          "reach": 202,
+          "completion_rate_raw": "8.799999952316284E-5",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "published_date": "20261028",
@@ -624,7 +671,8 @@
       "completion_rate_raw_source_string": "9.300000034272671E-5",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261028",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701767296984861965"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701767296984861965",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701767296984861965"
     },
     {
       "video_id": "7701760621108382989",
@@ -776,7 +824,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261028",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701760621108382989"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701760621108382989",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701760621108382989"
     },
     {
       "video_id": "7701760454791646478",
@@ -908,6 +957,17 @@
           "average_watch_time_raw": 4,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261028",
+          "views": 12,
+          "reach": 11,
+          "completion_rate_raw": "9.08999964594841E-4",
+          "average_watch_time_raw": 4,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "published_date": "20261028",
@@ -928,7 +988,8 @@
       "completion_rate_raw_source_string": "0.0011110000312328338",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261028",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701760454791646478"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701760454791646478",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701760454791646478"
     },
     {
       "video_id": "7701402545348037901",
@@ -1072,6 +1133,17 @@
           "average_watch_time_raw": 0,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261028",
+          "views": 34,
+          "reach": 27,
+          "completion_rate_raw": "0.0",
+          "average_watch_time_raw": 0,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "published_date": "20261028",
@@ -1093,7 +1165,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261028",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701402545348037901"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701402545348037901",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701402545348037901"
     },
     {
       "video_id": "7701402433179684109",
@@ -1237,6 +1310,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261028",
+          "views": 428,
+          "reach": 236,
+          "completion_rate_raw": "1.119999960064888E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "published_date": "20261028",
@@ -1258,7 +1342,8 @@
       "completion_rate_raw_source_string": "1.2600000016391277E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261028",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701402433179684109"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701402433179684109",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701402433179684109"
     },
     {
       "video_id": "7701402273146047757",
@@ -1402,6 +1487,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261028",
+          "views": 22,
+          "reach": 16,
+          "completion_rate_raw": "0.0",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "published_date": "20261028",
@@ -1423,7 +1519,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261028",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701402273146047757"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701402273146047757",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701402273146047757"
     },
     {
       "video_id": "7701402195551407374",
@@ -1567,6 +1664,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261027",
+          "views": 45,
+          "reach": 39,
+          "completion_rate_raw": "2.0400000736117363E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "published_date": "20261027",
@@ -1588,7 +1696,8 @@
       "completion_rate_raw_source_string": "2.779999934136867E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261027",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701402195551407374"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701402195551407374",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701402195551407374"
     },
     {
       "video_id": "7701402076760395022",
@@ -1732,6 +1841,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261027",
+          "views": 30,
+          "reach": 18,
+          "completion_rate_raw": "0.0",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "published_date": "20261027",
@@ -1753,7 +1873,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261027",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701402076760395022"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701402076760395022",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701402076760395022"
     },
     {
       "video_id": "7701401983890033933",
@@ -1897,6 +2018,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261027",
+          "views": 35,
+          "reach": 18,
+          "completion_rate_raw": "0.0",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "published_date": "20261027",
@@ -1918,7 +2050,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261027",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701401983890033933"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701401983890033933",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701401983890033933"
     },
     {
       "video_id": "7701011912129088798",
@@ -2062,6 +2195,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261027",
+          "views": 18,
+          "reach": 12,
+          "completion_rate_raw": "0.0",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "published_date": "20261027",
@@ -2083,7 +2227,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261027",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701011912129088798"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701011912129088798",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701011912129088798"
     },
     {
       "video_id": "7701011776758041887",
@@ -2227,6 +2372,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261027",
+          "views": 343,
+          "reach": 279,
+          "completion_rate_raw": "4.949999973177909E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "published_date": "20261027",
@@ -2248,7 +2404,8 @@
       "completion_rate_raw_source_string": "5.130000039935113E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261027",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701011776758041887"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701011776758041887",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701011776758041887"
     },
     {
       "video_id": "7701011687943572766",
@@ -2392,6 +2549,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261026",
+          "views": 171,
+          "reach": 121,
+          "completion_rate_raw": "3.750000149011612E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "published_date": "20261026",
@@ -2413,7 +2581,8 @@
       "completion_rate_raw_source_string": "3.849999979138374E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261026",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701011687943572766"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701011687943572766",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701011687943572766"
     },
     {
       "video_id": "7701011583681563934",
@@ -2557,6 +2726,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261026",
+          "views": 195,
+          "reach": 177,
+          "completion_rate_raw": "3.669999912381172E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "published_date": "20261026",
@@ -2578,7 +2758,8 @@
       "completion_rate_raw_source_string": "3.539999946951866E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261026",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701011583681563934"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701011583681563934",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701011583681563934"
     },
     {
       "video_id": "7701011500319771934",
@@ -2722,6 +2903,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261026",
+          "views": 43,
+          "reach": 33,
+          "completion_rate_raw": "5.000000074505806E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "published_date": "20261026",
@@ -2743,7 +2935,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261026",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701011500319771934"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701011500319771934",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701011500319771934"
     },
     {
       "video_id": "7701011427376647455",
@@ -2887,6 +3080,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261026",
+          "views": 85,
+          "reach": 66,
+          "completion_rate_raw": "3.57000008225441E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "published_date": "20261026",
@@ -2908,7 +3112,8 @@
       "completion_rate_raw_source_string": "3.229999914765358E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261026",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701011427376647455"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701011427376647455",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701011427376647455"
     },
     {
       "video_id": "7700639402678209822",
@@ -3052,6 +3257,17 @@
           "average_watch_time_raw": 3,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261026",
+          "views": 66,
+          "reach": 50,
+          "completion_rate_raw": "8.20000022649765E-4",
+          "average_watch_time_raw": 3,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "published_date": "20261026",
@@ -3073,7 +3289,8 @@
       "completion_rate_raw_source_string": "6.89999982714653E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261026",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700639402678209822"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700639402678209822",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700639402678209822"
     },
     {
       "video_id": "7700638858777529631",
@@ -3217,6 +3434,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261026",
+          "views": 36,
+          "reach": 21,
+          "completion_rate_raw": "3.33000011742115E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "published_date": "20261026",
@@ -3238,7 +3466,8 @@
       "completion_rate_raw_source_string": "3.7000000476837156E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261026",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700638858777529631"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700638858777529631",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700638858777529631"
     },
     {
       "video_id": "7700638774216232223",
@@ -3382,6 +3611,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261025",
+          "views": 200,
+          "reach": 169,
+          "completion_rate_raw": "1.0200000368058681E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "published_date": "20261025",
@@ -3403,7 +3643,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261025",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700638774216232223"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700638774216232223",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700638774216232223"
     },
     {
       "video_id": "7700638674475601182",
@@ -3547,6 +3788,17 @@
           "average_watch_time_raw": 4,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261025",
+          "views": 562,
+          "reach": 269,
+          "completion_rate_raw": "2.6399999856948855E-4",
+          "average_watch_time_raw": 4,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "published_date": "20261025",
@@ -3568,7 +3820,8 @@
       "completion_rate_raw_source_string": "2.669999934732914E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261025",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700638674475601182"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700638674475601182",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700638674475601182"
     },
     {
       "published_date": "20261025",
@@ -3754,7 +4007,8 @@
       "completion_rate_raw_source_string": "0.0010339999943971634",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261025",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700638593622084895"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700638593622084895",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700638593622084895"
     },
     {
       "published_date": "20261025",
@@ -3933,6 +4187,17 @@
           "average_watch_time_raw": 0,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261025",
+          "views": 10,
+          "reach": 10,
+          "completion_rate_raw": "9.08999964594841E-4",
+          "average_watch_time_raw": 0,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -3940,7 +4205,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261025",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700638520653647134"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700638520653647134",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700638520653647134"
     },
     {
       "published_date": "20261025",
@@ -4119,6 +4385,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261025",
+          "views": 114,
+          "reach": 110,
+          "completion_rate_raw": "1.6100000590085983E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -4126,7 +4403,8 @@
       "completion_rate_raw_source_string": "1.6100000590085983E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261025",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700313905054158111"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700313905054158111",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700313905054158111"
     },
     {
       "published_date": "20261025",
@@ -4305,6 +4583,17 @@
           "average_watch_time_raw": 5,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261025",
+          "views": 552,
+          "reach": 274,
+          "completion_rate_raw": "3.6100000143051146E-4",
+          "average_watch_time_raw": 5,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -4312,7 +4601,8 @@
       "completion_rate_raw_source_string": "3.669999912381172E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261025",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700313832027180319"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700313832027180319",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700313832027180319"
     },
     {
       "published_date": "20261024",
@@ -4491,6 +4781,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261024",
+          "views": 42,
+          "reach": 33,
+          "completion_rate_raw": "0.0",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -4498,7 +4799,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261024",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700313773843778847"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700313773843778847",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700313773843778847"
     },
     {
       "published_date": "20261024",
@@ -4677,6 +4979,17 @@
           "average_watch_time_raw": 0,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261024",
+          "views": 11,
+          "reach": 10,
+          "completion_rate_raw": "0.0",
+          "average_watch_time_raw": 0,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -4684,7 +4997,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261024",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700313628427193630"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700313628427193630",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700313628427193630"
     },
     {
       "published_date": "20261024",
@@ -4863,6 +5177,17 @@
           "average_watch_time_raw": 3,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261024",
+          "views": 15,
+          "reach": 10,
+          "completion_rate_raw": "0.0",
+          "average_watch_time_raw": 3,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -4870,7 +5195,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261024",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700313512991591710"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700313512991591710",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700313512991591710"
     },
     {
       "published_date": "20261024",
@@ -5049,6 +5375,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261024",
+          "views": 81,
+          "reach": 77,
+          "completion_rate_raw": "1.2000000104308129E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -5056,7 +5393,8 @@
       "completion_rate_raw_source_string": "1.2000000104308129E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261024",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700142459250035999"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700142459250035999",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700142459250035999"
     },
     {
       "published_date": "20261024",
@@ -5235,6 +5573,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261024",
+          "views": 64,
+          "reach": 42,
+          "completion_rate_raw": "3.7700001150369644E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -5242,7 +5591,8 @@
       "completion_rate_raw_source_string": "3.920000046491623E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261024",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699894299109952798"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699894299109952798",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699894299109952798"
     },
     {
       "published_date": "20261023",
@@ -5421,6 +5771,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261023",
+          "views": 348,
+          "reach": 317,
+          "completion_rate_raw": "1.9899999722838401E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -5428,7 +5789,8 @@
       "completion_rate_raw_source_string": "1.0300000198185444E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261023",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699894158097468703"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699894158097468703",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699894158097468703"
     },
     {
       "published_date": "20261023",
@@ -5607,6 +5969,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261023",
+          "views": 24,
+          "reach": 19,
+          "completion_rate_raw": "4.1700001806020735E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -5614,7 +5987,8 @@
       "completion_rate_raw_source_string": "4.1700001806020735E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261023",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699894117563649310"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699894117563649310",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699894117563649310"
     },
     {
       "published_date": "20261023",
@@ -5793,6 +6167,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261023",
+          "views": 86,
+          "reach": 60,
+          "completion_rate_raw": "3.9999999105930326E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -5800,7 +6185,8 @@
       "completion_rate_raw_source_string": "4.1700001806020735E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261023",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699893985661259038"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699893985661259038",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699893985661259038"
     },
     {
       "published_date": "20261023",
@@ -5979,6 +6365,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261023",
+          "views": 390,
+          "reach": 331,
+          "completion_rate_raw": "2.1999999880790712E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -5986,7 +6383,8 @@
       "completion_rate_raw_source_string": "2.2099999710917473E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261023",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699518348555521294"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699518348555521294",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699518348555521294"
     },
     {
       "published_date": "20261023",
@@ -6165,6 +6563,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261023",
+          "views": 171,
+          "reach": 159,
+          "completion_rate_raw": "2.669999934732914E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -6172,7 +6581,8 @@
       "completion_rate_raw_source_string": "2.749999985098839E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261023",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699518111564746014"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699518111564746014",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699518111564746014"
     },
     {
       "published_date": "20261022",
@@ -6351,6 +6761,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261022",
+          "views": 401,
+          "reach": 338,
+          "completion_rate_raw": "4.089999943971634E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -6358,7 +6779,8 @@
       "completion_rate_raw_source_string": "4.1499998420476916E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261022",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699518006350613791"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699518006350613791",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699518006350613791"
     },
     {
       "published_date": "20261022",
@@ -6537,6 +6959,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261022",
+          "views": 42,
+          "reach": 39,
+          "completion_rate_raw": "0.0",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -6544,7 +6977,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261022",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699517552740797726"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699517552740797726",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699517552740797726"
     },
     {
       "published_date": "20261022",
@@ -6723,6 +7157,17 @@
           "average_watch_time_raw": 0,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261022",
+          "views": 8,
+          "reach": 4,
+          "completion_rate_raw": "0.0",
+          "average_watch_time_raw": 0,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -6730,7 +7175,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261022",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699517419517136159"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699517419517136159",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699517419517136159"
     },
     {
       "published_date": "20261022",
@@ -6909,6 +7355,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261022",
+          "views": 21,
+          "reach": 16,
+          "completion_rate_raw": "0.0",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -6916,7 +7373,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261022",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699517042226990367"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699517042226990367",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699517042226990367"
     },
     {
       "published_date": "20261022",
@@ -7095,6 +7553,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261022",
+          "views": 22,
+          "reach": 10,
+          "completion_rate_raw": "4.549999907612801E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -7102,7 +7571,8 @@
       "completion_rate_raw_source_string": "4.549999907612801E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261022",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699516323042299167"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699516323042299167",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699516323042299167"
     },
     {
       "published_date": "20261022",
@@ -7281,6 +7751,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261022",
+          "views": 84,
+          "reach": 57,
+          "completion_rate_raw": "2.630000002682209E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -7288,7 +7769,8 @@
       "completion_rate_raw_source_string": "2.669999934732914E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261022",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699148319364222222"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699148319364222222",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699148319364222222"
     },
     {
       "published_date": "20261022",
@@ -7467,6 +7949,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261022",
+          "views": 129,
+          "reach": 121,
+          "completion_rate_raw": "8.100000210106373E-5",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -7474,7 +7967,8 @@
       "completion_rate_raw_source_string": "7.899999618530274E-5",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261022",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699148228314336525"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699148228314336525",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699148228314336525"
     },
     {
       "published_date": "20261022",
@@ -7653,6 +8147,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261022",
+          "views": 20,
+          "reach": 17,
+          "completion_rate_raw": "4.549999907612801E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -7660,7 +8165,8 @@
       "completion_rate_raw_source_string": "4.7600001096725463E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261022",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699148138854092046"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699148138854092046",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699148138854092046"
     },
     {
       "published_date": "20261021",
@@ -7839,6 +8345,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261021",
+          "views": 50,
+          "reach": 35,
+          "completion_rate_raw": "4.259999841451645E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -7846,7 +8363,8 @@
       "completion_rate_raw_source_string": "4.349999874830246E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261021",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699147911682116877"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699147911682116877",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699147911682116877"
     },
     {
       "published_date": "20261021",
@@ -8025,6 +8543,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261021",
+          "views": 149,
+          "reach": 145,
+          "completion_rate_raw": "1.899999938905239E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -8032,7 +8561,8 @@
       "completion_rate_raw_source_string": "1.899999938905239E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261021",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699147813816372494"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699147813816372494",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699147813816372494"
     },
     {
       "published_date": "20261021",
@@ -8211,6 +8741,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261021",
+          "views": 25,
+          "reach": 24,
+          "completion_rate_raw": "0.0",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -8218,7 +8759,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261021",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699147748125216014"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699147748125216014",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699147748125216014"
     },
     {
       "published_date": "20261021",
@@ -8397,6 +8939,17 @@
           "average_watch_time_raw": 3,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261021",
+          "views": 186,
+          "reach": 96,
+          "completion_rate_raw": "7.739999890327454E-4",
+          "average_watch_time_raw": 3,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -8404,7 +8957,8 @@
       "completion_rate_raw_source_string": "7.14000016450882E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261021",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699147659751247117"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699147659751247117",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699147659751247117"
     },
     {
       "published_date": "20261021",
@@ -8590,7 +9144,8 @@
       "completion_rate_raw_source_string": "0.0014290000498294831",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261021",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699117800589200653"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699117800589200653",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699117800589200653"
     },
     {
       "published_date": "20261021",
@@ -8769,6 +9324,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261021",
+          "views": 796,
+          "reach": 490,
+          "completion_rate_raw": "1.810000091791153E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -8776,7 +9342,8 @@
       "completion_rate_raw_source_string": "1.8500000238418578E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261021",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698767931341081869"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698767931341081869",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698767931341081869"
     },
     {
       "published_date": "20261021",
@@ -8955,6 +9522,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261021",
+          "views": 82,
+          "reach": 77,
+          "completion_rate_raw": "0.0",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -8962,7 +9540,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261021",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698767927440411918"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698767927440411918",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698767927440411918"
     },
     {
       "published_date": "20261020",
@@ -9141,6 +9720,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261020",
+          "views": 91,
+          "reach": 76,
+          "completion_rate_raw": "2.2199999541044235E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -9148,7 +9738,8 @@
       "completion_rate_raw_source_string": "2.500000037252903E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261020",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698767582765075726"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698767582765075726",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698767582765075726"
     },
     {
       "published_date": "20261020",
@@ -9327,6 +9918,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261020",
+          "views": 186,
+          "reach": 145,
+          "completion_rate_raw": "5.68000003695488E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -9334,7 +9936,8 @@
       "completion_rate_raw_source_string": "5.710000172257423E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261020",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698767354846596366"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698767354846596366",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698767354846596366"
     },
     {
       "published_date": "20261020",
@@ -9513,6 +10116,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261020",
+          "views": 448,
+          "reach": 373,
+          "completion_rate_raw": "4.259999841451645E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -9520,7 +10134,8 @@
       "completion_rate_raw_source_string": "4.0399998426437377E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261020",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698767170255293710"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698767170255293710",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698767170255293710"
     },
     {
       "published_date": "20261020",
@@ -9699,6 +10314,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261020",
+          "views": 81,
+          "reach": 51,
+          "completion_rate_raw": "1.3899999670684336E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -9706,7 +10332,8 @@
       "completion_rate_raw_source_string": "1.489999983459711E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261020",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698612391466110222"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698612391466110222",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698612391466110222"
     },
     {
       "published_date": "20261019",
@@ -9885,6 +10512,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261019",
+          "views": 75,
+          "reach": 54,
+          "completion_rate_raw": "6.669999659061432E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -9892,7 +10530,8 @@
       "completion_rate_raw_source_string": "6.759999692440032E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261019",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698458299695385886"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698458299695385886",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698458299695385886"
     },
     {
       "published_date": "20261019",
@@ -10071,6 +10710,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261019",
+          "views": 272,
+          "reach": 242,
+          "completion_rate_raw": "2.2600000724196434E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -10078,7 +10728,8 @@
       "completion_rate_raw_source_string": "2.2600000724196434E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261019",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698399073698696478"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698399073698696478",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698399073698696478"
     },
     {
       "published_date": "20261019",
@@ -10257,6 +10908,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261019",
+          "views": 189,
+          "reach": 183,
+          "completion_rate_raw": "5.100000184029341E-5",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -10264,7 +10926,8 @@
       "completion_rate_raw_source_string": "5.200000014156103E-5",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261019",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698054150751407391"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698054150751407391",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698054150751407391"
     },
     {
       "published_date": "20261018",
@@ -10443,6 +11106,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261018",
+          "views": 34,
+          "reach": 30,
+          "completion_rate_raw": "3.229999914765358E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -10450,7 +11124,8 @@
       "completion_rate_raw_source_string": "3.33000011742115E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261018",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698054087073352990"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698054087073352990",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698054087073352990"
     },
     {
       "published_date": "20261018",
@@ -10629,6 +11304,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261018",
+          "views": 643,
+          "reach": 376,
+          "completion_rate_raw": "2.1800000220537186E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -10636,7 +11322,8 @@
       "completion_rate_raw_source_string": "2.1999999880790712E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261018",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698053944072883487"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698053944072883487",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698053944072883487"
     },
     {
       "published_date": "20261018",
@@ -10815,6 +11502,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261018",
+          "views": 230,
+          "reach": 203,
+          "completion_rate_raw": "9.009999781847E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -10822,7 +11520,8 @@
       "completion_rate_raw_source_string": "9.049999713897705E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261018",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698053838120537374"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698053838120537374",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698053838120537374"
     },
     {
       "published_date": "20261018",
@@ -11001,6 +11700,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261018",
+          "views": 690,
+          "reach": 442,
+          "completion_rate_raw": "1.820000074803829E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -11008,7 +11718,8 @@
       "completion_rate_raw_source_string": "1.8300000578165055E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261018",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697668012333174047"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697668012333174047",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7697668012333174047"
     },
     {
       "published_date": "20261018",
@@ -11187,6 +11898,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261018",
+          "views": 35,
+          "reach": 32,
+          "completion_rate_raw": "4.879999905824661E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -11194,7 +11916,8 @@
       "completion_rate_raw_source_string": "4.879999905824661E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261018",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697667960319626526"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697667960319626526",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7697667960319626526"
     },
     {
       "published_date": "20261017",
@@ -11373,6 +12096,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261017",
+          "views": 70,
+          "reach": 56,
+          "completion_rate_raw": "2.4399999529123306E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -11380,7 +12114,8 @@
       "completion_rate_raw_source_string": "1.3000000268220902E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261017",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697667887317749022"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697667887317749022",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7697667887317749022"
     },
     {
       "published_date": "20261017",
@@ -11559,6 +12294,17 @@
           "average_watch_time_raw": 4,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261017",
+          "views": 170,
+          "reach": 141,
+          "completion_rate_raw": "1.8400000408291817E-4",
+          "average_watch_time_raw": 4,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -11566,7 +12312,8 @@
       "completion_rate_raw_source_string": "1.8500000238418578E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261017",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697667874390953247"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697667874390953247",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7697667874390953247"
     },
     {
       "published_date": "20261017",
@@ -11745,6 +12492,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261017",
+          "views": 507,
+          "reach": 458,
+          "completion_rate_raw": "1.5599999576807022E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -11752,7 +12510,8 @@
       "completion_rate_raw_source_string": "1.5900000929832458E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261017",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697667766622375198"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697667766622375198",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7697667766622375198"
     },
     {
       "published_date": "20261017",
@@ -11931,6 +12690,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261017",
+          "views": 123,
+          "reach": 109,
+          "completion_rate_raw": "3.2000001519918444E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -11938,7 +12708,8 @@
       "completion_rate_raw_source_string": "3.2000001519918444E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261017",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697289412429810975"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697289412429810975",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7697289412429810975"
     },
     {
       "published_date": "20261017",
@@ -12117,6 +12888,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261017",
+          "views": 121,
+          "reach": 101,
+          "completion_rate_raw": "4.839999973773956E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -12124,7 +12906,8 @@
       "completion_rate_raw_source_string": "5.079999938607216E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261017",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697289366783249694"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697289366783249694",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7697289366783249694"
     },
     {
       "published_date": "20261016",
@@ -12303,6 +13086,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261016",
+          "views": 82,
+          "reach": 71,
+          "completion_rate_raw": "1.140000019222498E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -12310,7 +13104,8 @@
       "completion_rate_raw_source_string": "1.3199999928474427E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261016",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697289252425501982"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697289252425501982",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7697289252425501982"
     },
     {
       "published_date": "20261016",
@@ -12489,6 +13284,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261016",
+          "views": 290,
+          "reach": 261,
+          "completion_rate_raw": "2.0600000396370888E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -12496,7 +13302,8 @@
       "completion_rate_raw_source_string": "2.070000022649765E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261016",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697289128316030239"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697289128316030239",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7697289128316030239"
     },
     {
       "published_date": "20261016",
@@ -12675,6 +13482,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261016",
+          "views": 77,
+          "reach": 75,
+          "completion_rate_raw": "4.820000007748604E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -12682,7 +13500,8 @@
       "completion_rate_raw_source_string": "4.940000176429748E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261016",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697288827349617951"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697288827349617951",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7697288827349617951"
     },
     {
       "published_date": "20261015",
@@ -12861,6 +13680,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261015",
+          "views": 324,
+          "reach": 292,
+          "completion_rate_raw": "9.399999864399433E-5",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -12868,7 +13698,8 @@
       "completion_rate_raw_source_string": "9.399999864399433E-5",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261015",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696914201935121694"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696914201935121694",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7696914201935121694"
     },
     {
       "published_date": "20261015",
@@ -13047,6 +13878,17 @@
           "average_watch_time_raw": 0,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261015",
+          "views": 108,
+          "reach": 98,
+          "completion_rate_raw": "0.0",
+          "average_watch_time_raw": 0,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -13054,7 +13896,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261015",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696914103012494622"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696914103012494622",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7696914103012494622"
     },
     {
       "published_date": "20261015",
@@ -13233,6 +14076,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261015",
+          "views": 904,
+          "reach": 619,
+          "completion_rate_raw": "7.400000002235175E-5",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -13240,7 +14094,8 @@
       "completion_rate_raw_source_string": "7.400000002235175E-5",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261015",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696913942311931167"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696913942311931167",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7696913942311931167"
     },
     {
       "published_date": "20261015",
@@ -13419,6 +14274,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261015",
+          "views": 1141,
+          "reach": 970,
+          "completion_rate_raw": "4.820000007748604E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -13426,7 +14292,8 @@
       "completion_rate_raw_source_string": "4.839999973773956E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261015",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696913831649348894"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696913831649348894",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7696913831649348894"
     },
     {
       "published_date": "20261015",
@@ -13605,6 +14472,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261015",
+          "views": 350,
+          "reach": 316,
+          "completion_rate_raw": "2.850000001490116E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -13612,7 +14490,8 @@
       "completion_rate_raw_source_string": "2.3099999874830245E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261015",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696545588325649694"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696545588325649694",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7696545588325649694"
     },
     {
       "published_date": "20261015",
@@ -13791,6 +14670,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261015",
+          "views": 120,
+          "reach": 113,
+          "completion_rate_raw": "1.5599999576807022E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -13798,7 +14688,8 @@
       "completion_rate_raw_source_string": "1.5599999576807022E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261015",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696545352723352863"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696545352723352863",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7696545352723352863"
     },
     {
       "published_date": "20261014",
@@ -13977,6 +14868,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261014",
+          "views": 90,
+          "reach": 78,
+          "completion_rate_raw": "2.2700000554323196E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -13984,7 +14886,8 @@
       "completion_rate_raw_source_string": "2.2700000554323196E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261014",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696545131100441887"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696545131100441887",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7696545131100441887"
     },
     {
       "published_date": "20261014",
@@ -14163,6 +15066,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261014",
+          "views": 801,
+          "reach": 530,
+          "completion_rate_raw": "8.39999970048666E-5",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -14170,7 +15084,8 @@
       "completion_rate_raw_source_string": "8.39999970048666E-5",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261014",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696545032152599838"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696545032152599838",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7696545032152599838"
     },
     {
       "published_date": "20261014",
@@ -14349,6 +15264,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261014",
+          "views": 455,
+          "reach": 372,
+          "completion_rate_raw": "5.160000175237656E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -14356,7 +15282,8 @@
       "completion_rate_raw_source_string": "4.980000108480453E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261014",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696544906558459167"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696544906558459167",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7696544906558459167"
     },
     {
       "published_date": "20261014",
@@ -14535,6 +15462,17 @@
           "average_watch_time_raw": 0,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261014",
+          "views": 84,
+          "reach": 83,
+          "completion_rate_raw": "0.0",
+          "average_watch_time_raw": 0,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -14542,7 +15480,8 @@
       "completion_rate_raw_source_string": "0.0",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261014",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696172102256250143"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696172102256250143",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7696172102256250143"
     },
     {
       "published_date": "20261013",
@@ -14721,6 +15660,17 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261013",
+          "views": 132,
+          "reach": 122,
+          "completion_rate_raw": "7.799999788403511E-5",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -14728,7 +15678,8 @@
       "completion_rate_raw_source_string": "8.700000122189521E-5",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261013",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696172007666339103"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696172007666339103",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7696172007666339103"
     },
     {
       "published_date": "20261013",
@@ -14907,6 +15858,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261013",
+          "views": 1209,
+          "reach": 712,
+          "completion_rate_raw": "1.7400000244379042E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -14914,7 +15876,8 @@
       "completion_rate_raw_source_string": "1.510000042617321E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261013",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696171821724454174"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696171821724454174",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7696171821724454174"
     },
     {
       "published_date": "20261013",
@@ -15093,6 +16056,17 @@
           "average_watch_time_raw": 3,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261013",
+          "views": 702,
+          "reach": 460,
+          "completion_rate_raw": "4.8700001090765E-4",
+          "average_watch_time_raw": 3,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -15100,7 +16074,8 @@
       "completion_rate_raw_source_string": "4.450000077486038E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261013",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696171717504421151"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696171717504421151",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7696171717504421151"
     },
     {
       "published_date": "20261013",
@@ -15279,6 +16254,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261013",
+          "views": 528,
+          "reach": 305,
+          "completion_rate_raw": "1.4700000174343585E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -15286,7 +16272,8 @@
       "completion_rate_raw_source_string": "1.4700000174343585E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261013",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696171559601360158"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7696171559601360158",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7696171559601360158"
     },
     {
       "published_date": "20261013",
@@ -15465,6 +16452,17 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261013",
+          "views": 830,
+          "reach": 535,
+          "completion_rate_raw": "2.1400000900030137E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "last_observed_at": "2026-11-10T17:00:00Z",
@@ -15472,7 +16470,8 @@
       "completion_rate_raw_source_string": "2.1500000730156898E-4",
       "outside_current_query_window": false,
       "source_published_date_raw": "20261013",
-      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7695808226398407950"
+      "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7695808226398407950",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7695808226398407950"
     },
     {
       "published_date": "20261012",
@@ -24638,10 +25637,22 @@
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified.",
           "reach_anomaly": "positive_views_zero_reach"
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261110",
+          "views": 14,
+          "reach": 0,
+          "completion_rate_raw": "0.0",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7706584474615598349",
-      "source_published_date_raw": "20261110"
+      "source_published_date_raw": "20261110",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7706584474615598349"
     },
     {
       "video_id": "7706584564235259150",
@@ -24668,10 +25679,22 @@
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified.",
           "reach_anomaly": "positive_views_zero_reach"
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261110",
+          "views": 66,
+          "reach": 0,
+          "completion_rate_raw": "1.489999983459711E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7706584564235259150",
-      "source_published_date_raw": "20261110"
+      "source_published_date_raw": "20261110",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7706584564235259150"
     },
     {
       "video_id": "7706216386611121421",
@@ -24698,10 +25721,22 @@
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified.",
           "reach_anomaly": "positive_views_zero_reach"
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261110",
+          "views": 151,
+          "reach": 0,
+          "completion_rate_raw": "2.070000022649765E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7706216386611121421",
-      "source_published_date_raw": "20261110"
+      "source_published_date_raw": "20261110",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7706216386611121421"
     },
     {
       "video_id": "7706216329157610765",
@@ -24728,10 +25763,22 @@
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified.",
           "reach_anomaly": "positive_views_zero_reach"
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261110",
+          "views": 361,
+          "reach": 0,
+          "completion_rate_raw": "9.459999948740006E-4",
+          "average_watch_time_raw": 3,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7706216329157610765",
-      "source_published_date_raw": "20261110"
+      "source_published_date_raw": "20261110",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7706216329157610765"
     },
     {
       "video_id": "7706216222613933325",
@@ -24758,10 +25805,22 @@
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified.",
           "reach_anomaly": "positive_views_zero_reach"
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261109",
+          "views": 229,
+          "reach": 0,
+          "completion_rate_raw": "6.100000068545342E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7706216222613933325",
-      "source_published_date_raw": "20261109"
+      "source_published_date_raw": "20261109",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7706216222613933325"
     },
     {
       "video_id": "7706216064664833293",
@@ -24788,10 +25847,22 @@
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified.",
           "reach_anomaly": "positive_views_zero_reach"
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261109",
+          "views": 614,
+          "reach": 0,
+          "completion_rate_raw": "6.100000068545342E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7706216064664833293",
-      "source_published_date_raw": "20261109"
+      "source_published_date_raw": "20261109",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7706216064664833293"
     },
     {
       "video_id": "7706215989351959822",
@@ -24818,10 +25889,22 @@
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified.",
           "reach_anomaly": "positive_views_zero_reach"
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261109",
+          "views": 907,
+          "reach": 0,
+          "completion_rate_raw": "6.539999693632126E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7706215989351959822",
-      "source_published_date_raw": "20261109"
+      "source_published_date_raw": "20261109",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7706215989351959822"
     },
     {
       "video_id": "7705894537482226957",
@@ -24847,10 +25930,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261109",
+          "views": 300,
+          "reach": 258,
+          "completion_rate_raw": "4.0300000458955767E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7705894537482226957",
-      "source_published_date_raw": "20261109"
+      "source_published_date_raw": "20261109",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7705894537482226957"
     },
     {
       "video_id": "7705894413100240141",
@@ -24877,10 +25972,22 @@
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified.",
           "reach_anomaly": "positive_views_zero_reach"
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261109",
+          "views": 248,
+          "reach": 0,
+          "completion_rate_raw": "4.960000142455101E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7705894413100240141",
-      "source_published_date_raw": "20261109"
+      "source_published_date_raw": "20261109",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7705894413100240141"
     },
     {
       "video_id": "7705893294261144862",
@@ -24906,10 +26013,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261108",
+          "views": 652,
+          "reach": 3,
+          "completion_rate_raw": "5.249999836087226E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7705893294261144862",
-      "source_published_date_raw": "20261108"
+      "source_published_date_raw": "20261108",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7705893294261144862"
     },
     {
       "video_id": "7705893052547632415",
@@ -24935,10 +26054,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261108",
+          "views": 536,
+          "reach": 53,
+          "completion_rate_raw": "3.849999979138374E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7705893052547632415",
-      "source_published_date_raw": "20261108"
+      "source_published_date_raw": "20261108",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7705893052547632415"
     },
     {
       "video_id": "7705745453958139167",
@@ -24964,10 +26095,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261108",
+          "views": 261,
+          "reach": 78,
+          "completion_rate_raw": "5.620000138878823E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7705745453958139167",
-      "source_published_date_raw": "20261108"
+      "source_published_date_raw": "20261108",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7705745453958139167"
     },
     {
       "video_id": "7705497600174214413",
@@ -24993,10 +26136,22 @@
           "average_watch_time_raw": 4,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261108",
+          "views": 582,
+          "reach": 397,
+          "completion_rate_raw": "5.75999990105629E-4",
+          "average_watch_time_raw": 4,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7705497600174214413",
-      "source_published_date_raw": "20261108"
+      "source_published_date_raw": "20261108",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7705497600174214413"
     },
     {
       "video_id": "7705497571778694414",
@@ -25022,10 +26177,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261108",
+          "views": 502,
+          "reach": 368,
+          "completion_rate_raw": "5.449999868869782E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7705497571778694414",
-      "source_published_date_raw": "20261108"
+      "source_published_date_raw": "20261108",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7705497571778694414"
     },
     {
       "video_id": "7705497309919841549",
@@ -25051,10 +26218,22 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261107",
+          "views": 41,
+          "reach": 18,
+          "completion_rate_raw": "9.300000220537186E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7705497309919841549",
-      "source_published_date_raw": "20261107"
+      "source_published_date_raw": "20261107",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7705497309919841549"
     },
     {
       "video_id": "7705497188771679501",
@@ -25080,10 +26259,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261107",
+          "views": 395,
+          "reach": 340,
+          "completion_rate_raw": "4.6799998730421064E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7705497188771679501",
-      "source_published_date_raw": "20261107"
+      "source_published_date_raw": "20261107",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7705497188771679501"
     },
     {
       "video_id": "7705488494277233950",
@@ -25109,10 +26300,22 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261107",
+          "views": 932,
+          "reach": 691,
+          "completion_rate_raw": "7.670000195503235E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7705488494277233950",
-      "source_published_date_raw": "20261107"
+      "source_published_date_raw": "20261107",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7705488494277233950"
     },
     {
       "video_id": "7705356726442183966",
@@ -25138,10 +26341,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261107",
+          "views": 612,
+          "reach": 499,
+          "completion_rate_raw": "4.4900000095367433E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7705356726442183966",
-      "source_published_date_raw": "20261107"
+      "source_published_date_raw": "20261107",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7705356726442183966"
     },
     {
       "video_id": "7705108386718715150",
@@ -25167,10 +26382,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261107",
+          "views": 446,
+          "reach": 310,
+          "completion_rate_raw": "4.050000011920929E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7705108386718715150",
-      "source_published_date_raw": "20261107"
+      "source_published_date_raw": "20261107",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7705108386718715150"
     },
     {
       "video_id": "7705108400526413069",
@@ -25196,10 +26423,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261106",
+          "views": 103,
+          "reach": 76,
+          "completion_rate_raw": "4.2100001126527787E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7705108400526413069",
-      "source_published_date_raw": "20261106"
+      "source_published_date_raw": "20261106",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7705108400526413069"
     },
     {
       "video_id": "7705107562412182798",
@@ -25225,10 +26464,22 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261106",
+          "views": 658,
+          "reach": 436,
+          "completion_rate_raw": "7.020000368356705E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7705107562412182798",
-      "source_published_date_raw": "20261106"
+      "source_published_date_raw": "20261106",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7705107562412182798"
     },
     {
       "video_id": "7704783005956558111",
@@ -25257,7 +26508,8 @@
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7704783005956558111",
-      "source_published_date_raw": "20261106"
+      "source_published_date_raw": "20261106",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7704783005956558111"
     },
     {
       "video_id": "7704782949274619166",
@@ -25283,10 +26535,22 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261106",
+          "views": 424,
+          "reach": 348,
+          "completion_rate_raw": "5.660000070929527E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7704782949274619166",
-      "source_published_date_raw": "20261106"
+      "source_published_date_raw": "20261106",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7704782949274619166"
     },
     {
       "video_id": "7704782807217851678",
@@ -25312,10 +26576,22 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261105",
+          "views": 3636,
+          "reach": 2002,
+          "completion_rate_raw": "6.650000065565109E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7704782807217851678",
-      "source_published_date_raw": "20261105"
+      "source_published_date_raw": "20261105",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7704782807217851678"
     },
     {
       "video_id": "7704721776659500319",
@@ -25341,10 +26617,22 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261105",
+          "views": 129,
+          "reach": 102,
+          "completion_rate_raw": "4.879999905824661E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7704721776659500319",
-      "source_published_date_raw": "20261105"
+      "source_published_date_raw": "20261105",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7704721776659500319"
     },
     {
       "video_id": "7704360254703766797",
@@ -25370,10 +26658,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261105",
+          "views": 341,
+          "reach": 263,
+          "completion_rate_raw": "1.9300000742077827E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7704360254703766797",
-      "source_published_date_raw": "20261105"
+      "source_published_date_raw": "20261105",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7704360254703766797"
     },
     {
       "video_id": "7704360204619484429",
@@ -25399,10 +26699,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261105",
+          "views": 194,
+          "reach": 172,
+          "completion_rate_raw": "5.100000184029341E-5",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7704360204619484429",
-      "source_published_date_raw": "20261105"
+      "source_published_date_raw": "20261105",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7704360204619484429"
     },
     {
       "video_id": "7704360144452193550",
@@ -25428,10 +26740,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261105",
+          "views": 1760,
+          "reach": 1170,
+          "completion_rate_raw": "7.370000332593918E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7704360144452193550",
-      "source_published_date_raw": "20261105"
+      "source_published_date_raw": "20261105",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7704360144452193550"
     },
     {
       "video_id": "7704360070879956238",
@@ -25457,10 +26781,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261104",
+          "views": 115,
+          "reach": 92,
+          "completion_rate_raw": "3.640000149607658E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7704360070879956238",
-      "source_published_date_raw": "20261104"
+      "source_published_date_raw": "20261104",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7704360070879956238"
     },
     {
       "video_id": "7704359957663173902",
@@ -25486,10 +26822,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261104",
+          "views": 455,
+          "reach": 364,
+          "completion_rate_raw": "1.6699999570846558E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7704359957663173902",
-      "source_published_date_raw": "20261104"
+      "source_published_date_raw": "20261104",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7704359957663173902"
     },
     {
       "video_id": "7704359772170013965",
@@ -25515,10 +26863,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261104",
+          "views": 388,
+          "reach": 320,
+          "completion_rate_raw": "5.400000140070915E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7704359772170013965",
-      "source_published_date_raw": "20261104"
+      "source_published_date_raw": "20261104",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7704359772170013965"
     },
     {
       "video_id": "7704040313517559053",
@@ -25547,7 +26907,8 @@
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7704040313517559053",
-      "source_published_date_raw": "20261104"
+      "source_published_date_raw": "20261104",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7704040313517559053"
     },
     {
       "video_id": "7704040188460272909",
@@ -25573,10 +26934,22 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261103",
+          "views": 158657,
+          "reach": 60185,
+          "completion_rate_raw": "6.800000369548797E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7704040188460272909",
-      "source_published_date_raw": "20261103"
+      "source_published_date_raw": "20261103",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7704040188460272909"
     },
     {
       "video_id": "7704009537522601229",
@@ -25602,10 +26975,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261103",
+          "views": 675,
+          "reach": 419,
+          "completion_rate_raw": "1.2600000016391277E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7704009537522601229",
-      "source_published_date_raw": "20261103"
+      "source_published_date_raw": "20261103",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7704009537522601229"
     },
     {
       "video_id": "7703654822087576862",
@@ -25631,10 +27016,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261103",
+          "views": 133,
+          "reach": 107,
+          "completion_rate_raw": "8.200000040233135E-5",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7703654822087576862",
-      "source_published_date_raw": "20261103"
+      "source_published_date_raw": "20261103",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7703654822087576862"
     },
     {
       "video_id": "7703653908954041631",
@@ -25660,10 +27057,22 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261102",
+          "views": 48,
+          "reach": 43,
+          "completion_rate_raw": "5.770000070333481E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7703653908954041631",
-      "source_published_date_raw": "20261102"
+      "source_published_date_raw": "20261102",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7703653908954041631"
     },
     {
       "video_id": "7703653695816289566",
@@ -25689,10 +27098,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261102",
+          "views": 130,
+          "reach": 104,
+          "completion_rate_raw": "8.500000461935997E-5",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7703653695816289566",
-      "source_published_date_raw": "20261102"
+      "source_published_date_raw": "20261102",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7703653695816289566"
     },
     {
       "video_id": "7703290437557177631",
@@ -25718,10 +27139,22 @@
           "average_watch_time_raw": 3,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261102",
+          "views": 146,
+          "reach": 92,
+          "completion_rate_raw": "4.720000177621841E-4",
+          "average_watch_time_raw": 3,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7703290437557177631",
-      "source_published_date_raw": "20261102"
+      "source_published_date_raw": "20261102",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7703290437557177631"
     },
     {
       "video_id": "7703290390870314271",
@@ -25747,10 +27180,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261101",
+          "views": 336,
+          "reach": 294,
+          "completion_rate_raw": "5.260000005364418E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7703290390870314271",
-      "source_published_date_raw": "20261101"
+      "source_published_date_raw": "20261101",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7703290390870314271"
     },
     {
       "video_id": "7703290330434637086",
@@ -25776,10 +27221,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261101",
+          "views": 352,
+          "reach": 304,
+          "completion_rate_raw": "2.9500000178813937E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7703290330434637086",
-      "source_published_date_raw": "20261101"
+      "source_published_date_raw": "20261101",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7703290330434637086"
     },
     {
       "video_id": "7702869685846478094",
@@ -25805,10 +27262,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261101",
+          "views": 180,
+          "reach": 140,
+          "completion_rate_raw": "1.1900000274181366E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7702869685846478094",
-      "source_published_date_raw": "20261101"
+      "source_published_date_raw": "20261101",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7702869685846478094"
     },
     {
       "video_id": "7702869538131447054",
@@ -25834,10 +27303,22 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261031",
+          "views": 143,
+          "reach": 115,
+          "completion_rate_raw": "2.070000022649765E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7702869538131447054",
-      "source_published_date_raw": "20261031"
+      "source_published_date_raw": "20261031",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7702869538131447054"
     },
     {
       "video_id": "7702869344660901133",
@@ -25863,10 +27344,22 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261031",
+          "views": 150,
+          "reach": 126,
+          "completion_rate_raw": "6.120000034570694E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7702869344660901133",
-      "source_published_date_raw": "20261031"
+      "source_published_date_raw": "20261031",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7702869344660901133"
     },
     {
       "video_id": "7702537236385975583",
@@ -25892,10 +27385,22 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261031",
+          "views": 160,
+          "reach": 106,
+          "completion_rate_raw": "3.6800000816583633E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7702537236385975583",
-      "source_published_date_raw": "20261031"
+      "source_published_date_raw": "20261031",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7702537236385975583"
     },
     {
       "video_id": "7702526266909510942",
@@ -25921,10 +27426,22 @@
           "average_watch_time_raw": 2,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261031",
+          "views": 68,
+          "reach": 49,
+          "completion_rate_raw": "3.7000000476837156E-4",
+          "average_watch_time_raw": 2,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7702526266909510942",
-      "source_published_date_raw": "20261031"
+      "source_published_date_raw": "20261031",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7702526266909510942"
     },
     {
       "video_id": "7702526090446720287",
@@ -25950,10 +27467,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261030",
+          "views": 628,
+          "reach": 278,
+          "completion_rate_raw": "1.640000008046627E-4",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7702526090446720287",
-      "source_published_date_raw": "20261030"
+      "source_published_date_raw": "20261030",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7702526090446720287"
     },
     {
       "video_id": "7702525944816356638",
@@ -25979,10 +27508,22 @@
           "average_watch_time_raw": 3,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261030",
+          "views": 510,
+          "reach": 347,
+          "completion_rate_raw": "2.0800000056624411E-4",
+          "average_watch_time_raw": 3,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7702525944816356638",
-      "source_published_date_raw": "20261030"
+      "source_published_date_raw": "20261030",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7702525944816356638"
     },
     {
       "video_id": "7702113998321503519",
@@ -26008,10 +27549,22 @@
           "average_watch_time_raw": 0,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261030",
+          "views": 182,
+          "reach": 146,
+          "completion_rate_raw": "1.630000025033951E-4",
+          "average_watch_time_raw": 0,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7702113998321503519",
-      "source_published_date_raw": "20261030"
+      "source_published_date_raw": "20261030",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7702113998321503519"
     },
     {
       "video_id": "7702113837574655263",
@@ -26037,10 +27590,22 @@
           "average_watch_time_raw": 1,
           "query_window": "2026-10-12T00:00:00-08:00 to 2026-11-11T23:59:59-08:00; independent 2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
           "note": "Cumulative metrics; TKPO13 scale unvalidated; TKPO15 seconds may be rounded; publication timezone unverified."
+        },
+        {
+          "observed_at": "2026-11-12T17:00:00Z",
+          "source": "Metricool TikTok posts, brand 7649128",
+          "source_published_date_raw": "20261029",
+          "views": 49,
+          "reach": 39,
+          "completion_rate_raw": "0.0",
+          "average_watch_time_raw": 1,
+          "query_window": "2026-10-13T00:00:00-07:00 to 2026-11-12T23:59:59-08:00; independent 2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+          "note": "Cumulative post metrics; TKPO13 raw scale unvalidated; source publication timezone unverified."
         }
       ],
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7702113837574655263",
-      "source_published_date_raw": "20261029"
+      "source_published_date_raw": "20261029",
+      "url": "https://www.tiktok.com/@maya._.finds/video/7702113837574655263"
     }
   ],
   "notes": "30-calendar-day and independent five-calendar-day Metricool queries merged by canonical TikTok video ID; preserve historical records and observations. Source publication timezone unverified and recent dates absent: do not infer zero posts or sales.",
@@ -26188,6 +27753,19 @@
     "freshness": "November posts returned in both queries; 138 rolling rows, 19 recent rows; current day not yet indexed."
   },
   "latest_metricool_source_published_date": "20261110",
-  "last_recent_query_window": "2026-11-07T00:00:00-08:00 to 2026-11-11T23:59:59-08:00",
-  "last_recent_query_returned_rows": 19
+  "last_recent_query_window": "2026-11-08T00:00:00-08:00 to 2026-11-12T23:59:59-08:00",
+  "last_recent_query_returned_rows": 14,
+  "last_sync_summary": {
+    "observed_at": "2026-11-12T17:00:00Z",
+    "rolling_rows": 135,
+    "rolling_unique_ids": 135,
+    "rolling_cumulative_views": 199492,
+    "recent_rows": 14,
+    "new_video_ids": 0,
+    "changed_observations": 130,
+    "positive_views_zero_reach": 8,
+    "prior_latest_published_date": "20261110",
+    "latest_published_date": "20261110",
+    "source_timezone_unverified": true
+  }
 }
