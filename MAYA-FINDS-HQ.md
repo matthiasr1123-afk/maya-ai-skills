@@ -1,3 +1,25 @@
+## Daily Product Scout Shortlist — 2026-11-13
+
+**Checked November 13, 2026 PST.** Read `product-research.md` and `docs/paid-demand-creator-scarcity-spec.md`. Fresh [TokConnect Black Friday US tracker](https://tokconnect.com/trends/tiktok-shop/black-friday-2026/) updated **Nov 13**, sales through **Nov 11**, reports estimated Womenswear & Underwear **$88.5M (-3.2% week over week)** and Fashion Accessories **$33.8M (-11.8%)** over Nov 5–11. This is category-level evidence, NOT exact-product VIDEO-driven acceleration. Product-specific [new-product rankings](https://tokconnect.com/trends/tiktok-shop/new-products/) have not been freshly validated; historical snapshot from Nov 7 / sales through Nov 4 retained as STALE, not promoted as current. EchoTik previously returned HTTP 402; no authorized endpoint available to retest, so outage recovery UNKNOWN and stale EchoTik rankings excluded.
+
+**Eight screened from historical public candidate set (not newly verified today):** PULKRITU pleated A-line (source launch Oct 10, $9.6K/246 units, 16 reported sellers); Comfrt Dreamer Robe (Oct 26, $274.6K/4.1K, 669); Comfrt Sweater Knit Hoodie (Oct 28, $195.9K/5.3K, 374); Comfrt Sweater Knit Crew (Oct 28, $168.3K/4.5K, 380); women's half-zip two-piece (Oct 17, $39.7K/2.1K, 278); waffle-knit collared long sleeve (Oct 12, $24.6K/1.6K, 176); gold-tone initial bracelet (Oct 16, $588.4K/58K, 59); Comfrt Packable Puffer (Oct 7, $243.2K/5K, creator count unavailable). All revenues historical estimates, NOT fresh Nov 13 measurements; listing dates source-reported, not independently verified creation timestamps. Nov 13 provisional ages: 34, 18, 16, 16, 27, 32, 28, 37 days respectively.
+
+**Mandatory exact-product creator verification — ACCESS REQUIRED:** Authorized Kalodata Open Center API / equivalent exact-product creator-video integration not exposed among available connected tools. `/openapi/v1/tiktok/video/rank` with region US, last30Day, exact product_id, publish_date_range <30, page_size 100 was NOT called. For each shortlisted candidate: **0 pages retrieved, 0 videos inspected, 0 IDs processed** (retrieval counts only, NOT zero competition). Unique active 30d creators **UNKNOWN**, unique IDs **UNKNOWN**, 7d creator count and growth **UNKNOWN**, timestamp **N/A**, completeness **NOT ESTABLISHED**, pagination coverage **0/unavailable**, estimation limits **NOT ASSESSABLE**. Exact canonical TikTok Shop product IDs unresolved, so identity matching also NOT VERIFIED. No VERIFIED LOW COMPETITION.
+
+**Advertising and economics:** No dated exact-product active US advertiser/creative independently confirmed. Creative Center Top Ads is curated supplemental evidence, not exhaustive ad inventory. `ad=1`, `ad_view_ratio`, `ad_revenue_ratio`, `ads_roas` **N/A**; documented ad spend USD **null**. TikTok Commercial Content API US coverage not assumed. No account-authorized 48-hour Maya exact-ID eligibility, commission, inventory or showcase verification; **UNKNOWN**. No exact-product 7d video-sales acceleration established.
+
+**Scoring:** Competition 25%, ad intensity 25%, video momentum 20%, listing age 10%, affiliate economics 10%, faithful AI UGC 10%. Unknowns N/A, no misleading numerical composite. Exactly three editorial investigation priorities, NOT verified winners:
+
+| Rank | Candidate | Basis / limitation | Decision |
+|---|---|---|---|
+| 1 | Comfrt Dreamer Robe | Provisional Oct 26 launch (18d); historical $274.6K revenue; 669 historical selling creators suggests saturation risk, NOT verified active-video count; AI wardrobe reference required. | WATCHLIST |
+| 2 | Comfrt Sweater Knit Hoodie | Provisional Oct 28 launch (16d); historical $195.9K; 374 historical selling creators; exact listing/ad data missing. | WATCHLIST |
+| 3 | Women's half-zip two-piece outfit | Provisional Oct 17 launch (27d); historical $39.7K; 278 historical selling creators; exact identity and faithful depiction reference missing. | WATCHLIST |
+
+**Result:** 8 historical candidates re-screened, exactly 3 ranked, **0 VERIFIED TEST**. New November 13 market data is category-level and insufficient to certify any product. Preserve `MAYA_AFFILIATE` and all history. No prompts/scripts/captions, purchases, showcase changes or Gemini credits.
+
+---
+
 ## Daily Metricool verification — November 13, 2026
 
 - **Source:** Metricool brand 7649128; TKPO01, TKPO03, TKPO07, TKPO11, TKPO13, TKPO15. Rolling 2026-10-14T00:00:00-07:00 to 2026-11-13T23:59:59-08:00; independent 2026-11-09T00:00:00-08:00 to 2026-11-13T23:59:59-08:00. Checked 2026-11-13T17:00:00Z (run timestamp; provider response timestamp unavailable).
