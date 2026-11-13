@@ -1,3 +1,15 @@
+## Daily Metricool verification — November 13, 2026
+
+- **Source:** Metricool brand 7649128; TKPO01, TKPO03, TKPO07, TKPO11, TKPO13, TKPO15. Rolling 2026-10-14T00:00:00-07:00 to 2026-11-13T23:59:59-08:00; independent 2026-11-09T00:00:00-08:00 to 2026-11-13T23:59:59-08:00. Checked 2026-11-13T17:00:00Z (run timestamp; provider response timestamp unavailable).
+- **Rolling:** 130 rows, 130 unique IDs, 196,091 cumulative views on returned posts (NOT views earned in window). Recent query: 9 rows.
+- **Freshness:** latest returned publication 20261110; prior saved latest 20261110; delayed indexing / stale relative to current date. No returned rows on November 11–13 does not establish zero published posts. Source timezone unknown and UTC/local boundaries may differ.
+- **Snapshot:** 208 previous IDs preserved, 0 newly persisted, 208 total; 0 new/changed observations; 8 positive-view/zero-reach anomalies. Completion TKPO13 stored raw without scale interpretation; watch time source-reported.
+- **Last three publication cohorts:** 11/11: 0 returned posts, views unavailable (no rows); 11/12: 0 returned posts, views unavailable (no rows); 11/13: 0 returned posts, views unavailable (no rows). Counts and views refer to returned publication cohorts, not daily views earned.
+- **Recent top returned videos:** [20261107: 932 views](https://www.tiktok.com/@maya._.finds/video/7705488494277233950); [20261109: 907 views](https://www.tiktok.com/@maya._.finds/video/7706215989351959822); [20261106: 658 views](https://www.tiktok.com/@maya._.finds/video/7705107562412182798); [20261108: 652 views](https://www.tiktok.com/@maya._.finds/video/7705893294261144862); [20261109: 614 views](https://www.tiktok.com/@maya._.finds/video/7706216064664833293).
+- **Limitations:** indexing delay, source timezone, completion scale, current Shop sales, CTR, creative/product attribution and exact Gemini-to-post matching unverified. No automated publishing.
+
+---
+
 ## Daily Product Scout Shortlist — 2026-11-12
 
 **Checked November 12, 2026 PST.** Followed product-research.md and docs/paid-demand-creator-scarcity-spec.md. Public [TokConnect new-products](https://tokconnect.com/trends/tiktok-shop/new-products/) still dated November 7, covering October 6–November 4: eight-day-old product observations, not current demand. [Black Friday tracker](https://tokconnect.com/trends/tiktok-shop/black-friday-2026/) published November 11 covers November 2–8: US Womenswear estimated $84.9M (+29.2% week over week), Fashion Accessories $33.4M (+13.4%); CATEGORY only, not product momentum. [Rising products](https://tokconnect.com/trends/tiktok-shop/rising-products/) still covers November 4, with a $50K weekly revenue floor and mostly crowded products; not proof of scarcity.
