@@ -1,3 +1,15 @@
+## Daily Metricool verification — November 14, 2026
+
+- **Source:** Metricool brand 7649128; TKPO01, TKPO03, TKPO07, TKPO11, TKPO13, TKPO15. Rolling 2026-10-15T00:00:00-07:00 to 2026-11-14T23:59:59-08:00; independent 2026-11-10T00:00:00-08:00 to 2026-11-14T23:59:59-08:00. Checked 2026-11-14T17:00:00Z (run timestamp; provider response timestamp unavailable).
+- **Rolling:** 126 rows, 126 unique video IDs, 194,661 cumulative views on returned posts, not views earned during the window. Recent query: 4 rows.
+- **Freshness:** newest returned publication 20261110; previous saved 20261110. Reporting remains delayed; missing recent rows do not prove no publishing. Metricool publication timezone unverified; UTC/Pacific boundaries considered.
+- **Snapshot:** 208 historical IDs preserved; 0 new IDs persisted; 0 new/changed observations; 8 returned posts with positive views but zero reach. TKPO13 is unvalidated raw completion data.
+- **Last three calendar dates:** 11/12: 0 returned posts, views unavailable (no rows); 11/13: 0 returned posts, views unavailable (no rows); 11/14: 0 returned posts, views unavailable (no rows). Counts are publication cohorts, not daily view accrual.
+- **Recent top returned posts:** [20261103 — 158,657 views](https://www.tiktok.com/@maya._.finds/video/7704040188460272909); [20261105 — 3,636 views](https://www.tiktok.com/@maya._.finds/video/7704782807217851678); [20261105 — 1,760 views](https://www.tiktok.com/@maya._.finds/video/7704360144452193550).
+- **Limitations:** No verified TikTok Shop sales or CTR, no verified Gemini-to-post mappings; no creative-format attribution. Missing posts may reflect delayed Metricool indexing.
+
+---
+
 ## Daily Product Scout Shortlist — 2026-11-13
 
 **Checked November 13, 2026 PST.** Read `product-research.md` and `docs/paid-demand-creator-scarcity-spec.md`. Fresh [TokConnect Black Friday US tracker](https://tokconnect.com/trends/tiktok-shop/black-friday-2026/) updated **Nov 13**, sales through **Nov 11**, reports estimated Womenswear & Underwear **$88.5M (-3.2% week over week)** and Fashion Accessories **$33.8M (-11.8%)** over Nov 5–11. This is category-level evidence, NOT exact-product VIDEO-driven acceleration. Product-specific [new-product rankings](https://tokconnect.com/trends/tiktok-shop/new-products/) have not been freshly validated; historical snapshot from Nov 7 / sales through Nov 4 retained as STALE, not promoted as current. EchoTik previously returned HTTP 402; no authorized endpoint available to retest, so outage recovery UNKNOWN and stale EchoTik rankings excluded.
