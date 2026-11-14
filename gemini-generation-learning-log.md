@@ -185,3 +185,12 @@ _No new reviews logged yet._
 - User-preferred hook style: large lowercase white sans headline, smaller centered second line, fine dark outline, outline heart inline, thin white divider beneath; no blocks/busy typography. Checked output contact sheets for spacing and visibility. This is a user preference, not proven retention lift.
 - Highest-impact next action: confirm exact seller lower-leg cut before Shop publication; preserve useful motion and trim idle/repeated tails rather than add movements.
 - Sound: no exact current US CML track verified; exports silent. No new performance metrics.
+
+
+## Auto-Editor default change — 2026-11-14 (user-approved)
+- Applies to both Maya Finds and Cozy Collective, with account analytics tracked separately.
+- Default FINAL edited runtime: **5–6 seconds**. Keep only coherent normal-speed movement; do not stretch, speed unnaturally, or pass a static clip. If the usable footage cannot support 5–6 seconds, QA and hold rather than forcing a bad cut.
+- Hook: follow the **Nov 3 Maya leopard car-fit-check winner** as the creative reference (TikTok video 7704040188460272909). Use a single short, natural, product-accurate hook immediately, in a similar unobtrusive fashion-UGC presentation; preserve safe margins, contrast, product visibility, coordinated color and accurate emoji rendering. **Exact visual typography/position is not verified from analytics alone**: inspect reference frames before claiming an exact match. Do not invent its on-screen wording or overlay style.
+- Product visible from first frame; no intro, excessive cuts, second caption, transition or end card. Preserve one simple realistic motion and the strongest angle. Car-fit-check is preferred for appropriate sets, but adapt to product (mirror/standing for jeans, close details for shoes).
+- Final MP4 silent, product-faithful, with required AI provenance/disclosures preserved. Full rendered-frame QA required. Continue approved-folder destination, caption attachment, manifest/version checks and safe Trash policy unchanged.
+- Evidence: Metricool snapshot Oct 25–Nov 14: Nov 3 leopard car-fit-check, 5 seconds, 158,657 cumulative views; other 5–6s outfit videos performed relatively well. This is an **editorial default to test**, not proven causal effect or guaranteed retention uplift. Record runtime, hook, visual format and outcomes by account and compare similar products.
