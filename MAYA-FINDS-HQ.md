@@ -10,6 +10,28 @@
 
 ---
 
+## Daily Product Scout Shortlist — 2026-11-14
+
+**Checked Nov 14, 2026 PST.** Followed `product-research.md` and `docs/paid-demand-creator-scarcity-spec.md`. Fresh public [TokConnect new-products ranking](https://tokconnect.com/trends/tiktok-shop/new-products/) **updated Nov 13, data through Nov 11** (30d observation Oct 13–Nov 11). Source reports estimated revenue as listed price × sold-counter units, NOT independently audited revenue, product-level VIDEO sales or acceleration. Source launch dates are provider-reported, not independently verified TikTok listing creation. [Black Friday tracker](https://tokconnect.com/trends/tiktok-shop/black-friday-2026/) updated Nov 13: US Womenswear $88.5M (-3.2% WoW), Fashion Accessories $33.8M (-11.8% WoW), Nov 5–11; category evidence only.
+
+**Nine public fashion/shoe candidates screened** (launch date, price, estimated 30d revenue, reported selling creators): Leopard Print Faux Fur Slippers (Oct 20, $53.48, $225.6K, 47); HEYDUDE Wally Funk Snow Camo (Nov 6, $79.41, $147.9K, 24); Crocs Adult Unfurgettable Platform Clog (Nov 4, $74.99, $147.3K, 31); HEYDUDE Wendy Holiday Dress (Oct 24, $64.99, $169.5K, 382, public commission 10%); Men's/Women's Retro Chunky Sneakers (Oct 24, $113.17, $131.2K, 22); Comfrt Sweater Knit Sweatpants (Oct 28, $27.82, $422.8K, 943); Comfrt Dreamer Robe (Oct 26, $66.99, $301.5K, 689); Comfrt Sweater Knit Hoodie (Oct 28, $36.97, $272.5K, 546); Women's High-Waisted Wide-Leg Pants (Oct 18, $16.64, $78.2K, 257). Reported selling creators are NOT verified unique 30d active exact-product video creators. These numbers cannot establish low competition. Product-specific affiliate commission otherwise not publicly listed.
+
+**Mandatory creator verification — ACCESS REQUIRED:** Available connected tool names inspected; no authorized Kalodata Open Center API, EchoTik product/video API, TokConnect product-level creator feed or equivalent exposed. Exact US canonical TikTok Shop product IDs/URLs for today's shortlist could not be independently matched. Consequently `/openapi/v1/tiktok/video/rank` region US, date_range last30Day, publish_date_range <30, page_size 100 **not called**. For EACH of the three ranked candidates: 0 API pages retrieved, 0 videos inspected, 0 unique creator IDs processed (retrieval counts, NOT market counts); unique active 30d creators UNKNOWN; 7d creators/growth UNKNOWN; video publication window NOT CHECKED; provider data timestamp N/A; pagination total pages UNKNOWN; coverage 0/unavailable; completeness NOT ESTABLISHED; provider estimation limits NOT ASSESSABLE. No VERIFIED LOW COMPETITION.
+
+**Advertising:** No dated exact-listing active US ad creative/advertiser independently confirmed; Creative Center Top Ads curated, not exhaustive. `ad=1`, `ad_view_ratio`, `ad_revenue_ratio`, `ads_roas` N/A. Documented USD spend null. TikTok Commercial Content API US availability not assumed. **EchoTik:** previous HQ records HTTP 402; no authorized endpoint to retest Nov 14, recovery UNKNOWN, all stale rankings excluded. **Maya affiliate:** no account-authorized exact-ID eligibility/commission/inventory/showcase verification in last 48h, UNKNOWN. No 7d vs previous 7d exact-product VIDEO sales comparison. No VERIFIED TEST.
+
+**Weights:** 25% creator competition, 25% paid advertising, 20% video sales momentum, 10% listing age, 10% Maya-specific affiliate economics, 10% faithful AI UGC. Unknowns N/A, no fabricated composite score. Exactly **three editorial investigation priorities**, not verified winners:
+
+| Rank | Candidate | Source evidence / limitations | Decision |
+|---|---|---|---|
+| 1 | Leopard Print Faux Fur Slippers | Oct 20 provisional launch (25d); $225.6K estimated 30d, 47 historical reported selling creators; visual fashion fit for Maya, but exact product identity/creator sample/ad/affiliate unknown | WATCHLIST |
+| 2 | Crocs Adult Unfurgettable Platform Clog | Nov 4 provisional launch (10d); $147.3K estimated 30d, 31 reported selling creators; exact branded style must match seller reference; ad and affiliate unknown | WATCHLIST |
+| 3 | HEYDUDE Wally Funk Snow Camo | Nov 6 provisional launch (8d); $147.9K estimated 30d, 24 reported selling creators; weaker Maya women's fashion fit, but newer launch and lower historical reported participation than many alternatives | WATCHLIST |
+
+**Result:** 9 screened, exactly 3 ranked, **0 VERIFIED TEST**. Public rankings updated since yesterday, but exact product ID, active creator counts, paid ads, video acceleration and fresh Maya eligibility are still blockers. Preserve MAYA_AFFILIATE and all prior HQ history. No prompts/scripts/captions, purchases, showcase changes or Gemini credits.
+
+---
+
 ## Daily Product Scout Shortlist — 2026-11-13
 
 **Checked November 13, 2026 PST.** Read `product-research.md` and `docs/paid-demand-creator-scarcity-spec.md`. Fresh [TokConnect Black Friday US tracker](https://tokconnect.com/trends/tiktok-shop/black-friday-2026/) updated **Nov 13**, sales through **Nov 11**, reports estimated Womenswear & Underwear **$88.5M (-3.2% week over week)** and Fashion Accessories **$33.8M (-11.8%)** over Nov 5–11. This is category-level evidence, NOT exact-product VIDEO-driven acceleration. Product-specific [new-product rankings](https://tokconnect.com/trends/tiktok-shop/new-products/) have not been freshly validated; historical snapshot from Nov 7 / sales through Nov 4 retained as STALE, not promoted as current. EchoTik previously returned HTTP 402; no authorized endpoint available to retest, so outage recovery UNKNOWN and stale EchoTik rankings excluded.
