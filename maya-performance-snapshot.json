@@ -2,10 +2,10 @@
   "schema_version": 1,
   "account": "maya._.finds",
   "source": "Metricool TikTok posts, brand 7649128",
-  "last_checked": "2026-11-14",
+  "last_checked": "2026-11-15",
   "status": "video_rows_verified_recent_indexing_lag",
-  "query_window": "2026-10-15T00:00:00-07:00 to 2026-11-14T23:59:59-08:00; independent 2026-11-10T00:00:00-08:00 to 2026-11-14T23:59:59-08:00",
-  "last_successful_data_sync": "2026-11-14T17:00:00Z",
+  "query_window": "2026-10-16T00:00:00-07:00 to 2026-11-15T23:59:59-08:00; independent 2026-11-11T00:00:00-08:00 to 2026-11-15T23:59:59-08:00",
+  "last_successful_data_sync": "2026-11-15T17:00:00Z",
   "metric_ids": [
     "TKPO01",
     "TKPO02",
@@ -27952,10 +27952,10 @@
     }
   ],
   "notes": "30-calendar-day and independent five-calendar-day Metricool queries merged by canonical TikTok video ID; preserve historical records and observations. Source publication timezone unverified and recent dates absent: do not infer zero posts or sales.",
-  "last_checked_at": "2026-11-14T17:00:00Z",
-  "query_window_start": "2026-10-15T00:00:00-07:00",
-  "query_window_end": "2026-11-14T23:59:59-08:00",
-  "queried_video_count": 126,
+  "last_checked_at": "2026-11-15T17:00:00Z",
+  "query_window_start": "2026-10-16T00:00:00-07:00",
+  "query_window_end": "2026-11-15T23:59:59-08:00",
+  "queried_video_count": 120,
   "latest_observation_summary": {
     "checked_at_utc": "2026-11-10T17:00:00Z",
     "rolling_query_returned_rows": 94,
@@ -28096,19 +28096,17 @@
     "freshness": "November posts returned in both queries; 138 rolling rows, 19 recent rows; current day not yet indexed."
   },
   "latest_metricool_source_published_date": "20261110",
-  "last_recent_query_window": "2026-11-10T00:00:00-08:00 to 2026-11-14T23:59:59-08:00",
-  "last_recent_query_returned_rows": 4,
+  "last_recent_query_window": "2026-11-11T00:00:00-08:00 to 2026-11-15T23:59:59-08:00",
+  "last_recent_query_returned_rows": 0,
   "last_sync_summary": {
-    "checked_at": "2026-11-14T17:00:00Z",
-    "rolling_rows": 126,
-    "rolling_unique_ids": 126,
-    "rolling_cumulative_views": 194661,
-    "recent_rows": 4,
-    "new_video_ids": 0,
-    "changed_observations": 0,
-    "positive_views_zero_reach": 8,
-    "prior_latest_published_date": "20261110",
-    "latest_published_date": "20261110",
-    "source_timezone_unverified": true
+    "rolling_rows": 120,
+    "recent_rows": 0,
+    "unique_returned_ids": 120,
+    "new_ids_persisted": 0,
+    "new_or_changed_observations": 0,
+    "newest_saved_before": "20261110",
+    "newest_live": "20261110",
+    "cumulative_views_returned": 191714,
+    "positive_views_zero_reach": 8
   }
 }
