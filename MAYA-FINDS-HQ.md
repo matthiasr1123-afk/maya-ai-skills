@@ -1,3 +1,15 @@
+## Daily Metricool verification — November 15, 2026
+
+- **Source:** Metricool brand 7649128; TKPO01, TKPO03, TKPO07, TKPO11, TKPO13, TKPO15. Rolling 2026-10-16T00:00:00-07:00 to 2026-11-15T23:59:59-08:00; independent 2026-11-11T00:00:00-08:00 to 2026-11-15T23:59:59-08:00. Checked 2026-11-15T17:00:00Z (run timestamp, not provider timestamp).
+- **Rolling:** 120 rows; 120 unique IDs across both queries; 191,714 cumulative views on returned posts, not views earned during the period. Recent query: 0 rows.
+- **Freshness:** newest returned publication 20261110; saved before 20261110. Reporting may lag; missing rows do not prove no publishing. Source timezone unverified; Pacific/UTC boundaries considered.
+- **Snapshot:** 208 historical IDs; 0 new IDs persisted; 0 new/changed observations; 8 returned posts with positive views and zero reach. TKPO13 is unvalidated raw completion data.
+- **Last three calendar dates:** 11/13: 0 returned posts, views unavailable (no rows); 11/14: 0 returned posts, views unavailable (no rows); 11/15: 0 returned posts, views unavailable (no rows). Counts are publication cohorts, not daily view accrual.
+- **Recent top returned posts:** [20261103 — 158,657 views](https://www.tiktok.com/@maya._.finds/video/7704040188460272909); [20261105 — 3,636 views](https://www.tiktok.com/@maya._.finds/video/7704782807217851678); [20261105 — 1,760 views](https://www.tiktok.com/@maya._.finds/video/7704360144452193550).
+- **Limitations:** No verified TikTok Shop sales or CTR; no verified Gemini-to-post mappings or creative-format attribution. Delayed indexing remains possible.
+
+---
+
 ## Daily Metricool verification — November 14, 2026
 
 - **Source:** Metricool brand 7649128; TKPO01, TKPO03, TKPO07, TKPO11, TKPO13, TKPO15. Rolling 2026-10-15T00:00:00-07:00 to 2026-11-14T23:59:59-08:00; independent 2026-11-10T00:00:00-08:00 to 2026-11-14T23:59:59-08:00. Checked 2026-11-14T17:00:00Z (run timestamp; provider response timestamp unavailable).
