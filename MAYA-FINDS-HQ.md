@@ -22,6 +22,28 @@
 
 ---
 
+## Daily Product Scout Shortlist — 2026-11-15
+
+**Checked November 15, 2026 PST.** Followed `product-research.md` and `docs/paid-demand-creator-scarcity-spec.md`. Public [TokConnect new-product rankings](https://tokconnect.com/trends/tiktok-shop/new-products/) updated **Nov 13**, estimates through **Nov 11**, so not current Nov 15 product demand. [Black Friday tracker](https://tokconnect.com/trends/tiktok-shop/black-friday-2026/) refreshed **Nov 15**, category data **Nov 7–13**: US Womenswear & Underwear $94.2M (+0.9% WoW), Fashion Accessories $35.2M (+4.6%). Category momentum is NOT product-specific VIDEO-sales acceleration. TokConnect revenues are price × sold-counter units estimates, not independently audited.
+
+**Nine public candidates screened** from Nov 13 ranking (source-reported launch, estimated 30d revenue, historical reported selling creators): Leopard Print Faux Fur Slippers (Oct 20, $225.6K, 47); Crocs Adult Unfurgettable Platform Clog (Nov 4, $147.3K, 31); HEYDUDE Wally Funk Snow Camo (Nov 6, $147.9K, 24); HEYDUDE Wendy Holiday Dress (Oct 24, $169.5K, 382); Retro Chunky Sneakers (Oct 24, $131.2K, 22); Comfrt Sweater Knit Sweatpants (Oct 28, $422.8K, 943); Comfrt Dreamer Robe (Oct 26, $301.5K, 689); Comfrt Sweater Knit Hoodie (Oct 28, $272.5K, 546); Women's High-Waisted Wide-Leg Pants (Oct 18, $78.2K, 257). Public creator figures are NOT deduplicated unique last-30d exact-product video creators. Provider launch dates NOT independently verified creation dates. All nine provisionally 7–30 days old on Nov 15.
+
+**Mandatory creator competition — ACCESS REQUIRED:** Connected tool inventory checked Nov 15: no authorized Kalodata Open Center API, TokConnect exact-product creator/video API, EchoTik product API or equivalent. Exact canonical TikTok Shop US listing URLs/product IDs NOT independently resolved. Therefore `/openapi/v1/tiktok/video/rank` with region US, date_range last30Day, product_id, publish_date_range <30, page_size 100 NOT called. For EACH of three shortlisted candidates: pages retrieved **0**, videos processed **0**, creator IDs processed **0** (retrieval counts only, NOT zero market creators); actual unique active 30d creators **UNKNOWN**; unique ID count **UNKNOWN**; 7d creator count/growth **UNKNOWN**; data timestamp **N/A**; pagination total **UNKNOWN**; completeness **NOT ESTABLISHED**; source authorized provider **NONE**; estimation limitations **NOT ASSESSABLE**. No VERIFIED LOW COMPETITION.
+
+**Ads:** No dated exact-product US advertiser/active creative independently confirmed. Creative Center Top Ads is curated supplemental evidence only, not a comprehensive active-ad inventory. `ad=1`, `ad_view_ratio`, `ad_revenue_ratio`, `ads_roas` N/A; documented ad spend USD **null**. TikTok Commercial Content API US coverage NOT assumed. **EchoTik:** historical HTTP 402 recorded; no authorized endpoint to retest today; recovery UNKNOWN; exclude stale rankings. **Maya affiliate:** no account-authorized exact-ID eligibility, commission, inventory or showcase verification within 48h, all UNKNOWN. No exact-product 7d VIDEO-sales acceleration proven.
+
+**Ranking method:** 25% verified creator scarcity, 25% active paid ad intensity, 20% video sales momentum, 10% listing age, 10% Maya-specific affiliate economics, 10% faithful AI UGC suitability. Unknown dimensions N/A, no inflated composite. Exactly three provisional investigation priorities, NOT verified winners:
+
+| Rank | Product | Public evidence and limitations | Decision |
+|---|---|---|---|
+| 1 | Leopard Print Faux Fur Slippers | Provisional Oct 20 launch (26d); historical estimated $225.6K/30d; 47 reported selling creators (NOT verified 30d active); strongest Maya fashion visual fit; exact listing, ad, affiliate unknown | WATCHLIST |
+| 2 | Crocs Adult Unfurgettable Platform Clog | Provisional Nov 4 launch (11d); historical estimated $147.3K/30d; 31 reported selling creators (NOT verified active); product fidelity requires exact reference; ads/affiliate unknown | WATCHLIST |
+| 3 | HEYDUDE Wally Funk Snow Camo | Provisional Nov 6 launch (9d); historical estimated $147.9K/30d; 24 reported selling creators (NOT verified active); weaker Maya fashion fit; ads/affiliate unknown | WATCHLIST |
+
+**Result:** 9 screened, exactly 3 ranked, **0 VERIFIED TEST**. Fresh category-level market evidence, but no newly validated exact-product competition, paid ads, video momentum or Maya affiliate economics. Preserve MAYA_AFFILIATE and previous history. No prompts, scripts, captions, purchases, showcase changes or Gemini credits.
+
+---
+
 ## Daily Product Scout Shortlist — 2026-11-14
 
 **Checked Nov 14, 2026 PST.** Followed `product-research.md` and `docs/paid-demand-creator-scarcity-spec.md`. Fresh public [TokConnect new-products ranking](https://tokconnect.com/trends/tiktok-shop/new-products/) **updated Nov 13, data through Nov 11** (30d observation Oct 13–Nov 11). Source reports estimated revenue as listed price × sold-counter units, NOT independently audited revenue, product-level VIDEO sales or acceleration. Source launch dates are provider-reported, not independently verified TikTok listing creation. [Black Friday tracker](https://tokconnect.com/trends/tiktok-shop/black-friday-2026/) updated Nov 13: US Womenswear $88.5M (-3.2% WoW), Fashion Accessories $33.8M (-11.8% WoW), Nov 5–11; category evidence only.
