@@ -1,3 +1,25 @@
+## Daily Product Scout Shortlist — 2026-11-16
+
+**Checked Nov 16, 2026 PST.** Read `product-research.md` and `docs/paid-demand-creator-scarcity-spec.md`. Public [TokConnect new-product ranking](https://tokconnect.com/trends/tiktok-shop/new-products/) updated Nov 13, estimates through Nov 11; no fresher exact-product data found. [US Black Friday tracker](https://tokconnect.com/trends/tiktok-shop/black-friday-2026/) updated Nov 15, data Nov 7–13: Womenswear & Underwear $94.2M (+0.9% WoW), Fashion Accessories $35.2M (+4.6%); CATEGORY data only, not product VIDEO sales acceleration. Historical revenue is estimated price × sold counter, not audited.
+
+**Nine public US fashion/footwear candidates screened** (provider launch, historical estimated 30d revenue, provider reported selling creators): Leopard Print Faux Fur Slippers (Oct 20, $225.6K, 47); Crocs Adult Unfurgettable Platform Clog (Nov 4, $147.3K, 31); HEYDUDE Wally Funk Snow Camo (Nov 6, $147.9K, 24); HEYDUDE Wendy Holiday Dress (Oct 24, $169.5K, 382); Retro Chunky Sneakers (Oct 24, $131.2K, 22); Comfrt Sweater Knit Sweatpants (Oct 28, $422.8K, 943); Comfrt Dreamer Robe (Oct 26, $301.5K, 689); Comfrt Sweater Knit Hoodie (Oct 28, $272.5K, 546); Women's High-Waisted Wide-Leg Pants (Oct 18, $78.2K, 257). These reported selling-creator figures are NOT deduplicated active last-30d exact-product video creators; do not use to certify low competition. All source launch dates provisional and unverified against canonical TikTok Shop listing creation.
+
+**Mandatory exact-product creator verification — ACCESS REQUIRED:** Connected integration inventory checked Nov 16: no authorized Kalodata Open Center API, EchoTik, TokConnect exact-product creator/video API, or other equivalent accessible. Exact canonical US TikTok Shop product IDs/URLs not independently resolved. Therefore `/openapi/v1/tiktok/video/rank` (region US, date_range last30Day, product_id, publish_date_range <30, page_size 100) NOT called. For EACH shortlisted product: pages retrieved **0**, videos processed **0**, creator IDs processed **0** (retrieval counts, NOT zero market creators); unique active creators 30d **UNKNOWN**, unique creator IDs **UNKNOWN**, 7d creators/growth **UNKNOWN**, provider data timestamp **N/A**, total pages **UNKNOWN**, sample completeness **NOT ESTABLISHED**, estimation limitations **NOT ASSESSABLE**. No VERIFIED LOW COMPETITION.
+
+**Ads and affiliate:** No independently confirmed dated active US exact-product advertiser/creative. TikTok Creative Center Top Ads curated only, not comprehensive inventory; TikTok Commercial Content API US coverage not assumed. Kalodata `ad=1`, `ad_view_ratio`, `ad_revenue_ratio`, `ads_roas` **N/A**; documented spend USD **null** (NOT inferred from revenue). EchoTik prior HTTP 402 recorded; no authorized endpoint to freshly retest; outage status UNKNOWN; stale rankings excluded. Maya exact-ID affiliate eligibility, commission, inventory and showcase status not verified within 48h: UNKNOWN. Exact-product 7d VIDEO-attributed sales acceleration UNKNOWN.
+
+**Ranking:** Competition 25%, ad intensity 25%, video-sales momentum 20%, listing age 10%, Maya affiliate economics 10%, faithful AI UGC 10%. Unknowns N/A, no composite score invented. Exactly three editorial investigation priorities:
+
+| Rank | Candidate | Evidence and caveats | Decision |
+|---|---|---|---|
+| 1 | Leopard Print Faux Fur Slippers | Provisional Oct 20 launch (27d); historical estimated $225.6K/30d; 47 provider-reported selling creators (not verified active); good Maya outfit fit; exact ID/ads/affiliate unknown | WATCHLIST |
+| 2 | Crocs Adult Unfurgettable Platform Clog | Provisional Nov 4 launch (12d); historical estimated $147.3K/30d; 31 reported selling creators (not verified active); reference fidelity critical; exact ID/ads/affiliate unknown | WATCHLIST |
+| 3 | HEYDUDE Wally Funk Snow Camo | Provisional Nov 6 launch (10d); historical estimated $147.9K/30d; 24 reported selling creators (not verified active); weaker women's outfit fit; exact ID/ads/affiliate unknown | WATCHLIST |
+
+**Result:** 9 screened, exactly 3 ranked, **0 VERIFIED TEST**. Research only. Preserve MAYA_AFFILIATE section and all previous history; no prompts, scripts, captions, purchases, showcase changes or Gemini credits.
+
+---
+
 ## Daily Metricool verification — November 16, 2026
 
 - **Source:** Metricool brand 7649128; TKPO01, TKPO03, TKPO07, TKPO11, TKPO13, TKPO15. Rolling 2026-10-17T00:00:00-07:00 to 2026-11-16T23:59:59-08:00; independent 2026-11-12T00:00:00-08:00 to 2026-11-16T23:59:59-08:00. Checked 2026-11-16T17:00:00Z (run timestamp; provider timestamp unavailable).
