@@ -2,10 +2,10 @@
   "schema_version": 1,
   "account": "maya._.finds",
   "source": "Metricool TikTok posts, brand 7649128",
-  "last_checked": "2026-11-15",
+  "last_checked": "2026-11-16",
   "status": "video_rows_verified_recent_indexing_lag",
-  "query_window": "2026-10-16T00:00:00-07:00 to 2026-11-15T23:59:59-08:00; independent 2026-11-11T00:00:00-08:00 to 2026-11-15T23:59:59-08:00",
-  "last_successful_data_sync": "2026-11-15T17:00:00Z",
+  "query_window": "2026-10-17T00:00:00-07:00 to 2026-11-16T23:59:59-08:00; independent 2026-11-12T00:00:00-08:00 to 2026-11-16T23:59:59-08:00",
+  "last_successful_data_sync": "2026-11-16T17:00:00Z",
   "metric_ids": [
     "TKPO01",
     "TKPO02",
@@ -184,7 +184,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261029",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7702113744230337822",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7702113744230337822"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7702113744230337822",
+      "published_date_raw": "20261029"
     },
     {
       "video_id": "7702113563866877215",
@@ -348,7 +349,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261029",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7702113563866877215",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7702113563866877215"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7702113563866877215",
+      "published_date_raw": "20261029"
     },
     {
       "video_id": "7701760729132616973",
@@ -510,7 +512,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261029",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701760729132616973",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7701760729132616973"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701760729132616973",
+      "published_date_raw": "20261029"
     },
     {
       "video_id": "7701767296984861965",
@@ -672,7 +675,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261028",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701767296984861965",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7701767296984861965"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701767296984861965",
+      "published_date_raw": "20261028"
     },
     {
       "video_id": "7701760621108382989",
@@ -825,7 +829,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261028",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701760621108382989",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7701760621108382989"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701760621108382989",
+      "published_date_raw": "20261028"
     },
     {
       "video_id": "7701760454791646478",
@@ -989,7 +994,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261028",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701760454791646478",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7701760454791646478"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701760454791646478",
+      "published_date_raw": "20261028"
     },
     {
       "video_id": "7701402545348037901",
@@ -1166,7 +1172,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261028",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701402545348037901",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7701402545348037901"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701402545348037901",
+      "published_date_raw": "20261028"
     },
     {
       "video_id": "7701402433179684109",
@@ -1343,7 +1350,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261028",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701402433179684109",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7701402433179684109"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701402433179684109",
+      "published_date_raw": "20261028"
     },
     {
       "video_id": "7701402273146047757",
@@ -1520,7 +1528,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261028",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701402273146047757",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7701402273146047757"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701402273146047757",
+      "published_date_raw": "20261028"
     },
     {
       "video_id": "7701402195551407374",
@@ -1697,7 +1706,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261027",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701402195551407374",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7701402195551407374"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701402195551407374",
+      "published_date_raw": "20261027"
     },
     {
       "video_id": "7701402076760395022",
@@ -1874,7 +1884,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261027",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701402076760395022",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7701402076760395022"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701402076760395022",
+      "published_date_raw": "20261027"
     },
     {
       "video_id": "7701401983890033933",
@@ -2051,7 +2062,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261027",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701401983890033933",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7701401983890033933"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701401983890033933",
+      "published_date_raw": "20261027"
     },
     {
       "video_id": "7701011912129088798",
@@ -2228,7 +2240,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261027",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701011912129088798",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7701011912129088798"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701011912129088798",
+      "published_date_raw": "20261027"
     },
     {
       "video_id": "7701011776758041887",
@@ -2405,7 +2418,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261027",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701011776758041887",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7701011776758041887"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701011776758041887",
+      "published_date_raw": "20261027"
     },
     {
       "video_id": "7701011687943572766",
@@ -2582,7 +2596,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261026",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701011687943572766",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7701011687943572766"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701011687943572766",
+      "published_date_raw": "20261026"
     },
     {
       "video_id": "7701011583681563934",
@@ -2759,7 +2774,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261026",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701011583681563934",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7701011583681563934"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701011583681563934",
+      "published_date_raw": "20261026"
     },
     {
       "video_id": "7701011500319771934",
@@ -2936,7 +2952,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261026",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701011500319771934",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7701011500319771934"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701011500319771934",
+      "published_date_raw": "20261026"
     },
     {
       "video_id": "7701011427376647455",
@@ -3113,7 +3130,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261026",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7701011427376647455",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7701011427376647455"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7701011427376647455",
+      "published_date_raw": "20261026"
     },
     {
       "video_id": "7700639402678209822",
@@ -3290,7 +3308,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261026",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700639402678209822",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7700639402678209822"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700639402678209822",
+      "published_date_raw": "20261026"
     },
     {
       "video_id": "7700638858777529631",
@@ -3467,7 +3486,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261026",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700638858777529631",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7700638858777529631"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700638858777529631",
+      "published_date_raw": "20261026"
     },
     {
       "video_id": "7700638774216232223",
@@ -3644,7 +3664,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261025",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700638774216232223",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7700638774216232223"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700638774216232223",
+      "published_date_raw": "20261025"
     },
     {
       "video_id": "7700638674475601182",
@@ -3821,7 +3842,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261025",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700638674475601182",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7700638674475601182"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700638674475601182",
+      "published_date_raw": "20261025"
     },
     {
       "published_date": "20261025",
@@ -4008,7 +4030,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261025",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700638593622084895",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7700638593622084895"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700638593622084895",
+      "published_date_raw": "20261025"
     },
     {
       "published_date": "20261025",
@@ -4206,7 +4229,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261025",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700638520653647134",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7700638520653647134"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700638520653647134",
+      "published_date_raw": "20261025"
     },
     {
       "published_date": "20261025",
@@ -4404,7 +4428,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261025",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700313905054158111",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7700313905054158111"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700313905054158111",
+      "published_date_raw": "20261025"
     },
     {
       "published_date": "20261025",
@@ -4602,7 +4627,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261025",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700313832027180319",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7700313832027180319"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700313832027180319",
+      "published_date_raw": "20261025"
     },
     {
       "published_date": "20261024",
@@ -4800,7 +4826,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261024",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700313773843778847",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7700313773843778847"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700313773843778847",
+      "published_date_raw": "20261024"
     },
     {
       "published_date": "20261024",
@@ -4998,7 +5025,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261024",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700313628427193630",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7700313628427193630"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700313628427193630",
+      "published_date_raw": "20261024"
     },
     {
       "published_date": "20261024",
@@ -5196,7 +5224,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261024",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700313512991591710",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7700313512991591710"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700313512991591710",
+      "published_date_raw": "20261024"
     },
     {
       "published_date": "20261024",
@@ -5394,7 +5423,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261024",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7700142459250035999",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7700142459250035999"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7700142459250035999",
+      "published_date_raw": "20261024"
     },
     {
       "published_date": "20261024",
@@ -5592,7 +5622,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261024",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699894299109952798",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7699894299109952798"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699894299109952798",
+      "published_date_raw": "20261024"
     },
     {
       "published_date": "20261023",
@@ -5790,7 +5821,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261023",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699894158097468703",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7699894158097468703"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699894158097468703",
+      "published_date_raw": "20261023"
     },
     {
       "published_date": "20261023",
@@ -5988,7 +6020,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261023",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699894117563649310",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7699894117563649310"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699894117563649310",
+      "published_date_raw": "20261023"
     },
     {
       "published_date": "20261023",
@@ -6186,7 +6219,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261023",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699893985661259038",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7699893985661259038"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699893985661259038",
+      "published_date_raw": "20261023"
     },
     {
       "published_date": "20261023",
@@ -6384,7 +6418,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261023",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699518348555521294",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7699518348555521294"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699518348555521294",
+      "published_date_raw": "20261023"
     },
     {
       "published_date": "20261023",
@@ -6582,7 +6617,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261023",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699518111564746014",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7699518111564746014"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699518111564746014",
+      "published_date_raw": "20261023"
     },
     {
       "published_date": "20261022",
@@ -6780,7 +6816,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261022",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699518006350613791",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7699518006350613791"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699518006350613791",
+      "published_date_raw": "20261022"
     },
     {
       "published_date": "20261022",
@@ -6978,7 +7015,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261022",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699517552740797726",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7699517552740797726"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699517552740797726",
+      "published_date_raw": "20261022"
     },
     {
       "published_date": "20261022",
@@ -7176,7 +7214,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261022",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699517419517136159",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7699517419517136159"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699517419517136159",
+      "published_date_raw": "20261022"
     },
     {
       "published_date": "20261022",
@@ -7374,7 +7413,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261022",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699517042226990367",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7699517042226990367"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699517042226990367",
+      "published_date_raw": "20261022"
     },
     {
       "published_date": "20261022",
@@ -7572,7 +7612,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261022",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699516323042299167",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7699516323042299167"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699516323042299167",
+      "published_date_raw": "20261022"
     },
     {
       "published_date": "20261022",
@@ -7770,7 +7811,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261022",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699148319364222222",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7699148319364222222"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699148319364222222",
+      "published_date_raw": "20261022"
     },
     {
       "published_date": "20261022",
@@ -7968,7 +8010,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261022",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699148228314336525",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7699148228314336525"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699148228314336525",
+      "published_date_raw": "20261022"
     },
     {
       "published_date": "20261022",
@@ -8166,7 +8209,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261022",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699148138854092046",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7699148138854092046"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699148138854092046",
+      "published_date_raw": "20261022"
     },
     {
       "published_date": "20261021",
@@ -8364,7 +8408,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261021",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699147911682116877",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7699147911682116877"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699147911682116877",
+      "published_date_raw": "20261021"
     },
     {
       "published_date": "20261021",
@@ -8562,7 +8607,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261021",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699147813816372494",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7699147813816372494"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699147813816372494",
+      "published_date_raw": "20261021"
     },
     {
       "published_date": "20261021",
@@ -8760,7 +8806,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261021",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699147748125216014",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7699147748125216014"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699147748125216014",
+      "published_date_raw": "20261021"
     },
     {
       "published_date": "20261021",
@@ -8958,7 +9005,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261021",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699147659751247117",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7699147659751247117"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699147659751247117",
+      "published_date_raw": "20261021"
     },
     {
       "published_date": "20261021",
@@ -9145,7 +9193,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261021",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7699117800589200653",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7699117800589200653"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7699117800589200653",
+      "published_date_raw": "20261021"
     },
     {
       "published_date": "20261021",
@@ -9343,7 +9392,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261021",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698767931341081869",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7698767931341081869"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698767931341081869",
+      "published_date_raw": "20261021"
     },
     {
       "published_date": "20261021",
@@ -9541,7 +9591,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261021",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698767927440411918",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7698767927440411918"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698767927440411918",
+      "published_date_raw": "20261021"
     },
     {
       "published_date": "20261020",
@@ -9739,7 +9790,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261020",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698767582765075726",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7698767582765075726"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698767582765075726",
+      "published_date_raw": "20261020"
     },
     {
       "published_date": "20261020",
@@ -9937,7 +9989,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261020",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698767354846596366",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7698767354846596366"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698767354846596366",
+      "published_date_raw": "20261020"
     },
     {
       "published_date": "20261020",
@@ -10135,7 +10188,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261020",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698767170255293710",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7698767170255293710"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698767170255293710",
+      "published_date_raw": "20261020"
     },
     {
       "published_date": "20261020",
@@ -10333,7 +10387,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261020",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698612391466110222",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7698612391466110222"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698612391466110222",
+      "published_date_raw": "20261020"
     },
     {
       "published_date": "20261019",
@@ -10531,7 +10586,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261019",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698458299695385886",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7698458299695385886"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698458299695385886",
+      "published_date_raw": "20261019"
     },
     {
       "published_date": "20261019",
@@ -10729,7 +10785,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261019",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698399073698696478",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7698399073698696478"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698399073698696478",
+      "published_date_raw": "20261019"
     },
     {
       "published_date": "20261019",
@@ -10927,7 +10984,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261019",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698054150751407391",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7698054150751407391"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698054150751407391",
+      "published_date_raw": "20261019"
     },
     {
       "published_date": "20261018",
@@ -11125,7 +11183,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261018",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698054087073352990",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7698054087073352990"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698054087073352990",
+      "published_date_raw": "20261018"
     },
     {
       "published_date": "20261018",
@@ -11323,7 +11382,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261018",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698053944072883487",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7698053944072883487"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698053944072883487",
+      "published_date_raw": "20261018"
     },
     {
       "published_date": "20261018",
@@ -11521,7 +11581,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261018",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7698053838120537374",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7698053838120537374"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7698053838120537374",
+      "published_date_raw": "20261018"
     },
     {
       "published_date": "20261018",
@@ -11719,7 +11780,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261018",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697668012333174047",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7697668012333174047"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7697668012333174047",
+      "published_date_raw": "20261018"
     },
     {
       "published_date": "20261018",
@@ -11917,7 +11979,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261018",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697667960319626526",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7697667960319626526"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7697667960319626526",
+      "published_date_raw": "20261018"
     },
     {
       "published_date": "20261017",
@@ -12115,7 +12178,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261017",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697667887317749022",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7697667887317749022"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7697667887317749022",
+      "published_date_raw": "20261017"
     },
     {
       "published_date": "20261017",
@@ -12313,7 +12377,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261017",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697667874390953247",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7697667874390953247"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7697667874390953247",
+      "published_date_raw": "20261017"
     },
     {
       "published_date": "20261017",
@@ -12511,7 +12576,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261017",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697667766622375198",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7697667766622375198"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7697667766622375198",
+      "published_date_raw": "20261017"
     },
     {
       "published_date": "20261017",
@@ -12709,7 +12775,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261017",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697289412429810975",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7697289412429810975"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7697289412429810975",
+      "published_date_raw": "20261017"
     },
     {
       "published_date": "20261017",
@@ -12907,7 +12974,8 @@
       "outside_current_query_window": false,
       "source_published_date_raw": "20261017",
       "source_video_url": "https://www.tiktok.com/@maya._.finds/video/7697289366783249694",
-      "url": "https://www.tiktok.com/@maya._.finds/video/7697289366783249694"
+      "url": "https://www.tiktok.com/@maya._.finds/video/7697289366783249694",
+      "published_date_raw": "20261017"
     },
     {
       "published_date": "20261016",
@@ -25659,7 +25727,8 @@
       "completion_rate_raw": "0.0",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": true
+      "reach_zero_with_positive_views": true,
+      "published_date_raw": "20261110"
     },
     {
       "video_id": "7706584564235259150",
@@ -25708,7 +25777,8 @@
       "completion_rate_raw": "1.489999983459711E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": true
+      "reach_zero_with_positive_views": true,
+      "published_date_raw": "20261110"
     },
     {
       "video_id": "7706216386611121421",
@@ -25757,7 +25827,8 @@
       "completion_rate_raw": "2.070000022649765E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": true
+      "reach_zero_with_positive_views": true,
+      "published_date_raw": "20261110"
     },
     {
       "video_id": "7706216329157610765",
@@ -25806,7 +25877,8 @@
       "completion_rate_raw": "9.459999948740006E-4",
       "average_watch_time_raw": 3,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": true
+      "reach_zero_with_positive_views": true,
+      "published_date_raw": "20261110"
     },
     {
       "video_id": "7706216222613933325",
@@ -25855,7 +25927,8 @@
       "completion_rate_raw": "6.100000068545342E-4",
       "average_watch_time_raw": 2,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": true
+      "reach_zero_with_positive_views": true,
+      "published_date_raw": "20261109"
     },
     {
       "video_id": "7706216064664833293",
@@ -25904,7 +25977,8 @@
       "completion_rate_raw": "6.100000068545342E-4",
       "average_watch_time_raw": 2,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": true
+      "reach_zero_with_positive_views": true,
+      "published_date_raw": "20261109"
     },
     {
       "video_id": "7706215989351959822",
@@ -25953,7 +26027,8 @@
       "completion_rate_raw": "6.539999693632126E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": true
+      "reach_zero_with_positive_views": true,
+      "published_date_raw": "20261109"
     },
     {
       "video_id": "7705894537482226957",
@@ -26001,7 +26076,8 @@
       "completion_rate_raw": "4.0300000458955767E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261109"
     },
     {
       "video_id": "7705894413100240141",
@@ -26050,7 +26126,8 @@
       "completion_rate_raw": "4.960000142455101E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": true
+      "reach_zero_with_positive_views": true,
+      "published_date_raw": "20261109"
     },
     {
       "video_id": "7705893294261144862",
@@ -26098,7 +26175,8 @@
       "completion_rate_raw": "5.249999836087226E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261108"
     },
     {
       "video_id": "7705893052547632415",
@@ -26146,7 +26224,8 @@
       "completion_rate_raw": "3.849999979138374E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261108"
     },
     {
       "video_id": "7705745453958139167",
@@ -26194,7 +26273,8 @@
       "completion_rate_raw": "5.620000138878823E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261108"
     },
     {
       "video_id": "7705497600174214413",
@@ -26242,7 +26322,8 @@
       "completion_rate_raw": "5.75999990105629E-4",
       "average_watch_time_raw": 4,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261108"
     },
     {
       "video_id": "7705497571778694414",
@@ -26290,7 +26371,8 @@
       "completion_rate_raw": "5.449999868869782E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261108"
     },
     {
       "video_id": "7705497309919841549",
@@ -26338,7 +26420,8 @@
       "completion_rate_raw": "9.300000220537186E-4",
       "average_watch_time_raw": 2,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261107"
     },
     {
       "video_id": "7705497188771679501",
@@ -26386,7 +26469,8 @@
       "completion_rate_raw": "4.6799998730421064E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261107"
     },
     {
       "video_id": "7705488494277233950",
@@ -26434,7 +26518,8 @@
       "completion_rate_raw": "7.670000195503235E-4",
       "average_watch_time_raw": 2,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261107"
     },
     {
       "video_id": "7705356726442183966",
@@ -26482,7 +26567,8 @@
       "completion_rate_raw": "4.4900000095367433E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261107"
     },
     {
       "video_id": "7705108386718715150",
@@ -26530,7 +26616,8 @@
       "completion_rate_raw": "4.050000011920929E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261107"
     },
     {
       "video_id": "7705108400526413069",
@@ -26578,7 +26665,8 @@
       "completion_rate_raw": "4.2100001126527787E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261106"
     },
     {
       "video_id": "7705107562412182798",
@@ -26626,7 +26714,8 @@
       "completion_rate_raw": "7.020000368356705E-4",
       "average_watch_time_raw": 2,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261106"
     },
     {
       "video_id": "7704783005956558111",
@@ -26663,7 +26752,8 @@
       "completion_rate_raw": "0.0014169999957084655",
       "average_watch_time_raw": 3,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261106"
     },
     {
       "video_id": "7704782949274619166",
@@ -26711,7 +26801,8 @@
       "completion_rate_raw": "5.660000070929527E-4",
       "average_watch_time_raw": 2,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261106"
     },
     {
       "video_id": "7704782807217851678",
@@ -26759,7 +26850,8 @@
       "completion_rate_raw": "6.650000065565109E-4",
       "average_watch_time_raw": 2,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261105"
     },
     {
       "video_id": "7704721776659500319",
@@ -26807,7 +26899,8 @@
       "completion_rate_raw": "4.879999905824661E-4",
       "average_watch_time_raw": 2,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261105"
     },
     {
       "video_id": "7704360254703766797",
@@ -26855,7 +26948,8 @@
       "completion_rate_raw": "1.9300000742077827E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261105"
     },
     {
       "video_id": "7704360204619484429",
@@ -26903,7 +26997,8 @@
       "completion_rate_raw": "5.100000184029341E-5",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261105"
     },
     {
       "video_id": "7704360144452193550",
@@ -26951,7 +27046,8 @@
       "completion_rate_raw": "7.370000332593918E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261105"
     },
     {
       "video_id": "7704360070879956238",
@@ -26999,7 +27095,8 @@
       "completion_rate_raw": "3.640000149607658E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261104"
     },
     {
       "video_id": "7704359957663173902",
@@ -27047,7 +27144,8 @@
       "completion_rate_raw": "1.6699999570846558E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261104"
     },
     {
       "video_id": "7704359772170013965",
@@ -27095,7 +27193,8 @@
       "completion_rate_raw": "5.400000140070915E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261104"
     },
     {
       "video_id": "7704040313517559053",
@@ -27132,7 +27231,8 @@
       "completion_rate_raw": "0.0010109999775886535",
       "average_watch_time_raw": 3,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261104"
     },
     {
       "video_id": "7704040188460272909",
@@ -27180,7 +27280,8 @@
       "completion_rate_raw": "6.800000369548797E-4",
       "average_watch_time_raw": 2,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261103"
     },
     {
       "video_id": "7704009537522601229",
@@ -27228,7 +27329,8 @@
       "completion_rate_raw": "1.2600000016391277E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261103"
     },
     {
       "video_id": "7703654822087576862",
@@ -27276,7 +27378,8 @@
       "completion_rate_raw": "8.200000040233135E-5",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261103"
     },
     {
       "video_id": "7703653908954041631",
@@ -27324,7 +27427,8 @@
       "completion_rate_raw": "5.770000070333481E-4",
       "average_watch_time_raw": 2,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261102"
     },
     {
       "video_id": "7703653695816289566",
@@ -27372,7 +27476,8 @@
       "completion_rate_raw": "8.500000461935997E-5",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261102"
     },
     {
       "video_id": "7703290437557177631",
@@ -27420,7 +27525,8 @@
       "completion_rate_raw": "4.720000177621841E-4",
       "average_watch_time_raw": 3,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261102"
     },
     {
       "video_id": "7703290390870314271",
@@ -27468,7 +27574,8 @@
       "completion_rate_raw": "5.260000005364418E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261101"
     },
     {
       "video_id": "7703290330434637086",
@@ -27516,7 +27623,8 @@
       "completion_rate_raw": "2.9500000178813937E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261101"
     },
     {
       "video_id": "7702869685846478094",
@@ -27564,7 +27672,8 @@
       "completion_rate_raw": "1.1900000274181366E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261101"
     },
     {
       "video_id": "7702869538131447054",
@@ -27612,7 +27721,8 @@
       "completion_rate_raw": "2.070000022649765E-4",
       "average_watch_time_raw": 2,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261031"
     },
     {
       "video_id": "7702869344660901133",
@@ -27660,7 +27770,8 @@
       "completion_rate_raw": "6.120000034570694E-4",
       "average_watch_time_raw": 2,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261031"
     },
     {
       "video_id": "7702537236385975583",
@@ -27708,7 +27819,8 @@
       "completion_rate_raw": "3.6800000816583633E-4",
       "average_watch_time_raw": 2,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261031"
     },
     {
       "video_id": "7702526266909510942",
@@ -27756,7 +27868,8 @@
       "completion_rate_raw": "3.7000000476837156E-4",
       "average_watch_time_raw": 2,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261031"
     },
     {
       "video_id": "7702526090446720287",
@@ -27804,7 +27917,8 @@
       "completion_rate_raw": "1.640000008046627E-4",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261030"
     },
     {
       "video_id": "7702525944816356638",
@@ -27852,7 +27966,8 @@
       "completion_rate_raw": "2.0800000056624411E-4",
       "average_watch_time_raw": 3,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261030"
     },
     {
       "video_id": "7702113998321503519",
@@ -27900,7 +28015,8 @@
       "completion_rate_raw": "1.630000025033951E-4",
       "average_watch_time_raw": 0,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261030"
     },
     {
       "video_id": "7702113837574655263",
@@ -27948,7 +28064,8 @@
       "completion_rate_raw": "0.0",
       "average_watch_time_raw": 1,
       "last_observed_at": "2026-11-14T17:00:00Z",
-      "reach_zero_with_positive_views": false
+      "reach_zero_with_positive_views": false,
+      "published_date_raw": "20261029"
     }
   ],
   "notes": "30-calendar-day and independent five-calendar-day Metricool queries merged by canonical TikTok video ID; preserve historical records and observations. Source publication timezone unverified and recent dates absent: do not infer zero posts or sales.",
@@ -28108,5 +28225,6 @@
     "newest_live": "20261110",
     "cumulative_views_returned": 191714,
     "positive_views_zero_reach": 8
-  }
+  },
+  "latest_published_date": "20261110"
 }
