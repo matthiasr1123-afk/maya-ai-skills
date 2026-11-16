@@ -1,3 +1,15 @@
+## Daily Metricool verification — November 16, 2026
+
+- **Source:** Metricool brand 7649128; TKPO01, TKPO03, TKPO07, TKPO11, TKPO13, TKPO15. Rolling 2026-10-17T00:00:00-07:00 to 2026-11-16T23:59:59-08:00; independent 2026-11-12T00:00:00-08:00 to 2026-11-16T23:59:59-08:00. Checked 2026-11-16T17:00:00Z (run timestamp; provider timestamp unavailable).
+- **Rolling:** 117 rows, 191,265 cumulative views on returned posts, not views gained during the window. Independent recent query: 0 rows; 117 unique IDs across both queries.
+- **Freshness:** newest returned publication 20261110; saved historical snapshot previously at least 20261110. Missing recent rows do not establish no posts; UTC/Pacific boundaries and Metricool indexing lag remain limitations.
+- **Snapshot:** 208 historical IDs preserved; 0 new IDs persisted; 0 new or changed metric observations; 8 returned posts with positive views but zero reach. TKPO13 stored as unvalidated raw data.
+- **Last three calendar dates:** 11/14: 0 returned posts, views unavailable (no rows); 11/15: 0 returned posts, views unavailable (no rows); 11/16: 0 returned posts, views unavailable (no rows). Publication cohorts, not daily view accrual.
+- **Recent top returned posts:** [20261103 — 158,657 views](https://www.tiktok.com/@maya._.finds/video/7704040188460272909); [20261105 — 3,636 views](https://www.tiktok.com/@maya._.finds/video/7704782807217851678); [20261105 — 1,760 views](https://www.tiktok.com/@maya._.finds/video/7704360144452193550).
+- **Limitations:** No verified TikTok Shop CTR or sales, and no confirmed Gemini-to-post product/format mapping. Cozy metrics not part of this Maya brand query.
+
+---
+
 ## Daily Metricool verification — November 15, 2026
 
 - **Source:** Metricool brand 7649128; TKPO01, TKPO03, TKPO07, TKPO11, TKPO13, TKPO15. Rolling 2026-10-16T00:00:00-07:00 to 2026-11-15T23:59:59-08:00; independent 2026-11-11T00:00:00-08:00 to 2026-11-15T23:59:59-08:00. Checked 2026-11-15T17:00:00Z (run timestamp, not provider timestamp).
