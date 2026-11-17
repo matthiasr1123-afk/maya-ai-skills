@@ -1,3 +1,15 @@
+## Daily Metricool verification — November 17, 2026
+
+- **Source:** Metricool brand 7649128, TKPO01, TKPO03, TKPO07, TKPO11, TKPO13, TKPO15. Rolling 2026-10-18T00:00:00-07:00 to 2026-11-17T23:59:59-08:00; independently 2026-11-13T00:00:00-08:00 to 2026-11-17T23:59:59-08:00. Checked 2026-11-17T17:04:09Z; provider response timestamp unavailable.
+- **Rolling:** 112 rows, 190,274 cumulative views on returned posts, 112 deduplicated IDs; separate five-day query 0 rows.
+- **Freshness:** newest returned publication 20261110; saved snapshot previously 20261110. No returned posts for November 15–17; indexing delay, query truncation and timezone uncertainty mean publishing activity is unconfirmed.
+- **Snapshot:** 208 historical IDs preserved; 0 new IDs; 0 changed metric observations; 8 returned posts with positive views but zero reach. TKPO13 retained raw and unvalidated; TKPO15 average watch time from provider.
+- **Last three calendar dates:** 11/15: 0 returned posts, views unavailable (no rows); 11/16: 0 returned posts, views unavailable (no rows); 11/17: 0 returned posts, views unavailable (no rows). Publication cohorts, not daily view accrual.
+- **Recent top returned posts:** [20261103 — 158,657 views](https://www.tiktok.com/@maya._.finds/video/7704040188460272909); [20261105 — 3,636 views](https://www.tiktok.com/@maya._.finds/video/7704782807217851678); [20261105 — 1,760 views](https://www.tiktok.com/@maya._.finds/video/7704360144452193550).
+- **Limitations:** No verified TikTok Shop CTR or sales; no confirmed Gemini-to-post product/format matching. Cozy metrics not included.
+
+---
+
 ## Daily Product Scout Shortlist — 2026-11-16
 
 **Checked Nov 16, 2026 PST.** Read `product-research.md` and `docs/paid-demand-creator-scarcity-spec.md`. Public [TokConnect new-product ranking](https://tokconnect.com/trends/tiktok-shop/new-products/) updated Nov 13, estimates through Nov 11; no fresher exact-product data found. [US Black Friday tracker](https://tokconnect.com/trends/tiktok-shop/black-friday-2026/) updated Nov 15, data Nov 7–13: Womenswear & Underwear $94.2M (+0.9% WoW), Fashion Accessories $35.2M (+4.6%); CATEGORY data only, not product VIDEO sales acceleration. Historical revenue is estimated price × sold counter, not audited.
