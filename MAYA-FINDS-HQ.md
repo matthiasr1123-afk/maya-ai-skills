@@ -1,3 +1,21 @@
+## Maya HQ Metricool daily sync — November 19, 2026 (Pacific)
+
+**Checked:** 2026-11-19T16:55:08Z; brand 7649128. Rolling query 2026-10-20T00:00:00-07:00 to 2026-11-19T23:59:59-08:00; independent five-calendar-day query 2026-11-15T00:00:00-08:00 to 2026-11-19T23:59:59-08:00. Metrics: TKPO01, TKPO03, TKPO07, TKPO11, TKPO13, TKPO15.
+
+**Returned:** 104 rolling rows; 0 recent rows; 104 distinct video IDs in union; 0 newly persisted IDs; 99 new/changed observations. Historical snapshot records preserved (208 total). Latest returned published date **20261110**; previous saved latest **20261110**. Freshness: **stale / indexing lag**; zero recent rows do not prove no posts.
+
+| Publication date (Pacific reporting dates; source timezone unverified) | Returned posts | Cumulative views on those posts |
+|---|---:|---:|
+| 2026-11-17 | 0 | Unavailable (no rows returned) |
+| 2026-11-18 | 0 | Unavailable (no rows returned) |
+| 2026-11-19 | 0 | Unavailable (no rows returned) |
+
+**Leading November videos in returned data:** [11/03 — 158,657 views](https://www.tiktok.com/@maya._.finds/video/7704040188460272909); [11/05 — 3,636 views](https://www.tiktok.com/@maya._.finds/video/7704782807217851678); [11/05 — 1,760 views](https://www.tiktok.com/@maya._.finds/video/7704360144452193550).
+
+**Quality / limitations:** 8 returned posts have positive views but zero reach. TKPO13 completion values retained raw, scale unvalidated; TKPO15 average watch time retained as returned, potentially rounded. Views are cumulative per post, not daily account views. Metricool indexing, result truncation and UTC/local boundary may hide new posts. No TikTok Shop sales, CTR, product mappings or Gemini-to-post matches verified; keep all creative matches outstanding. Do not infer missing posts are zero.
+
+---
+
 ## Daily Product Scout Shortlist — 2026-11-18
 
 **Checked November 18, 2026 PST.** Read `product-research.md` and `docs/paid-demand-creator-scarcity-spec.md`. Public [TokConnect US new-products ranking](https://tokconnect.com/trends/tiktok-shop/new-products/) last updated **November 13**, estimates through **November 11**. No newer exact-product ranking established. [US Black Friday tracker](https://tokconnect.com/trends/tiktok-shop/black-friday-2026/) updated **November 17**, estimated US Womenswear & Underwear **$102.3M (+29.4% WoW)** and Fashion Accessories **$37.9M (+23.0% WoW)** for November 9–15. These are CATEGORY trends, not exact-product video sales momentum.
