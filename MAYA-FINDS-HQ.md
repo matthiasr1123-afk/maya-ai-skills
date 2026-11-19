@@ -1,3 +1,25 @@
+## Daily Product Scout Shortlist — 2026-11-19
+
+**Checked November 19, 2026 PST.** Read `product-research.md` and `docs/paid-demand-creator-scarcity-spec.md`. Public [TokConnect US new-products ranking](https://tokconnect.com/trends/tiktok-shop/new-products/) still explicitly updated **November 13**, estimated 30-day period **October 13–November 11**. No fresher product-level ranking confirmed. [Black Friday US tracker](https://tokconnect.com/trends/tiktok-shop/black-friday-2026/) latest explicit update **November 17**, data **November 9–15**: Womenswear & Underwear **$102.3M (+29.4% WoW)** and Fashion Accessories **$37.9M (+23.0% WoW)**. Category growth is not evidence of individual VIDEO sales acceleration.
+
+**Nine public US fashion/footwear candidates re-screened** (provisional source launch; historical estimated 30-day revenue; historical reported selling creators, NOT deduplicated active product-video creators): Leopard Print Faux Fur Slippers (Oct 20, $225.6K, 47); Crocs Adult Unfurgettable Platform Clog (Nov 4, $147.3K, 31); HEYDUDE Wally Funk Snow Camo (Nov 6, $147.9K, 24); HEYDUDE Wendy Holiday Dress (Oct 24, $169.5K, 382); Retro Chunky Sneakers (Oct 24, $131.2K, 22); Comfrt Sweater Knit Sweatpants (Oct 28, $422.8K, 943); Comfrt Dreamer Robe (Oct 26, $301.5K, 689); Comfrt Sweater Knit Hoodie (Oct 28, $272.5K, 546); Women's High-Waisted Wide-Leg Pants (Oct 18, $78.2K, 257). Oct 18 candidate now **32 days**, outside preferred 7–30d. Oct 20 slippers now **30 days**, at upper boundary. Source listing launch dates and canonical TikTok Shop product IDs/URLs not independently validated; price×sold-counter revenue estimates are not audited video sales.
+
+**Mandatory creator verification — ACCESS REQUIRED:** Connected integration inventory checked this run: **no authorized Kalodata Open Center API, or equivalent exact-product creator/video provider**. Exact US TikTok Shop product IDs not independently established. Therefore `/openapi/v1/tiktok/video/rank` with region US, date_range last30Day, product_id, publish_date_range <30, page_size 100 was **not called**. For **each** shortlisted product: pages retrieved **0**, videos processed **0**, creator IDs processed **0** (retrieval counts, NOT market zeros); unique active 30d creators **UNKNOWN**, unique IDs **UNKNOWN**, 7d creators/growth **UNKNOWN**, total pages **UNKNOWN**, provider data timestamp **N/A**, completeness and sample coverage **NOT ESTABLISHED**, estimation limits **NOT ASSESSABLE**. No VERIFIED LOW COMPETITION.
+
+**Advertising / affiliate / provider:** No independently confirmed dated active US paid creative matched to an exact listing. Creative Center Top Ads is curated, not exhaustive; TikTok Commercial Content API US coverage not assumed. Kalodata `ad=1`, `ad_view_ratio`, `ad_revenue_ratio`, `ads_roas` **N/A**; documented ad spend USD **null** (never inferred from revenue). EchoTik prior HTTP 402 recorded in HQ; no authorized endpoint to retest today, recovery **UNKNOWN**; exclude stale EchoTik rankings. Maya exact-product affiliate eligibility, commission, inventory and showcase status verified within 48h **UNKNOWN**. Exact-product 7d video-attributed sales acceleration **UNKNOWN**.
+
+**Ranking standard:** 25% creator competition, 25% ad intensity, 20% video-sales momentum, 10% listing age, 10% Maya affiliate economics, 10% faithful AI UGC. Unknown dimensions N/A, no fabricated composite. Exactly three **editorial investigation priorities**, not evidence-qualified scores:
+
+| Rank | Candidate | Provisional evidence and limitation | Decision |
+|---|---|---|---|
+| 1 | Crocs Adult Unfurgettable Platform Clog | Nov 4 launch (~15d), estimated $147.3K historical 30d revenue, 31 historical selling creators; product fidelity and affiliate unknown | WATCHLIST |
+| 2 | HEYDUDE Wally Funk Snow Camo | Nov 6 launch (~13d), estimated $147.9K, 24 historical selling creators; weaker Maya women's-fashion fit; exact ID and ads unknown | WATCHLIST |
+| 3 | Leopard Print Faux Fur Slippers | Oct 20 launch (~30d), estimated $225.6K, 47 historical selling creators; good Maya fashion fit but ages out tomorrow if launch date accurate | WATCHLIST |
+
+**Result:** Nine historical candidates re-screened, exactly three ranked, **0 VERIFIED TEST**. Priority order changed to favor remaining early-entry window; this is **not** new verified paid-demand evidence. Preserve MAYA_AFFILIATE and all earlier HQ history. No prompts, scripts, captions, purchases, showcase changes or Gemini credits.
+
+---
+
 ## Maya HQ Metricool daily sync — November 19, 2026 (Pacific)
 
 **Checked:** 2026-11-19T16:55:08Z; brand 7649128. Rolling query 2026-10-20T00:00:00-07:00 to 2026-11-19T23:59:59-08:00; independent five-calendar-day query 2026-11-15T00:00:00-08:00 to 2026-11-19T23:59:59-08:00. Metrics: TKPO01, TKPO03, TKPO07, TKPO11, TKPO13, TKPO15.
