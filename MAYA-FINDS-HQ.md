@@ -20,6 +20,24 @@
 
 ---
 
+## Maya HQ Metricool daily sync — November 20, 2026 (Pacific)
+
+**Checked:** 2026-11-20T16:57:36Z; brand 7649128. Rolling 2026-10-21T00:00:00-07:00 to 2026-11-20T23:59:59-08:00; separately 2026-11-16T00:00:00-08:00 to 2026-11-20T23:59:59-08:00. Metrics: TKPO01, TKPO03, TKPO07, TKPO11, TKPO13, TKPO15.
+
+**Returned:** 100 rolling rows; 0 recent rows; 100 distinct video IDs; 0 newly persisted IDs; 0 new/changed observations. Historical records preserved (208 total). Latest returned published date **20261110**; previous saved latest **20261110**. Freshness: **stale / indexing lag**; zero recent rows cannot establish zero posts.
+
+| Publication date (Pacific reporting dates; source timezone unverified) | Returned posts | Cumulative views on those posts |
+|---|---:|---:|
+| 2026-11-18 | 0 | Unavailable (no rows returned) |
+| 2026-11-19 | 0 | Unavailable (no rows returned) |
+| 2026-11-20 | 0 | Unavailable (no rows returned) |
+
+**Leading November videos in returned data:** [11/03 — 158,657 views](https://www.tiktok.com/@maya._.finds/video/7704040188460272909); [11/05 — 3,636 views](https://www.tiktok.com/@maya._.finds/video/7704782807217851678); [11/05 — 1,760 views](https://www.tiktok.com/@maya._.finds/video/7704360144452193550).
+
+**Quality / limitations:** 8 returned posts show positive views but zero reach. TKPO13 raw values retained without scale validation; TKPO15 watch time retained as reported. Views are cumulative per post, not daily account views. UTC/local boundaries, Metricool indexing and truncation may hide newer posts. TikTok Shop sales, CTR, product mapping and Gemini-to-post matches unverified. No creative attribution inferred.
+
+---
+
 ## Maya HQ Metricool daily sync — November 19, 2026 (Pacific)
 
 **Checked:** 2026-11-19T16:55:08Z; brand 7649128. Rolling query 2026-10-20T00:00:00-07:00 to 2026-11-19T23:59:59-08:00; independent five-calendar-day query 2026-11-15T00:00:00-08:00 to 2026-11-19T23:59:59-08:00. Metrics: TKPO01, TKPO03, TKPO07, TKPO11, TKPO13, TKPO15.
