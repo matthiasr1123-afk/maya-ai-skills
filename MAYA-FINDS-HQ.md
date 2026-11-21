@@ -1,3 +1,19 @@
+## Maya HQ Metricool sync — November 21, 2026 (Pacific)
+
+**Status: PARTIAL — snapshot persistence blocked, not a successful sync.** Queried brand 7649128, six TKPO metrics, rolling Oct 22–Nov 21 (Pacific offsets) and independent Nov 17–21. The live source returned 149 rolling rows and 23 recent rows, 149 distinct IDs. Latest returned publication date **20261120**, newer than the snapshot's previously documented **20261110**. **New video IDs exist and are NOT yet merged into maya-performance-snapshot.json.** GitHub fetch returned an empty content body for the existing snapshot despite a nonempty SHA; replacing it would risk deleting 208 historical records and observations. Snapshot left unchanged intentionally. Retry full-content retrieval and safe merge; do not call this synced or zero new IDs.
+
+| Publication date (source date; timezone not independently validated) | Returned posts | Cumulative views on returned posts |
+|---|---:|---:|
+| Nov 19 | 7 | 2,329 |
+| Nov 20 | 4 | 782 |
+| Nov 21 | 0 | Unavailable — no rows yet |
+
+**Recent leading links:** [11/17 — 1,118 views](https://www.tiktok.com/@maya._.finds/video/7709190809710497038); [11/19 — 1,041 views](https://www.tiktok.com/@maya._.finds/video/7709569667647425805); [11/18 — 766 views](https://www.tiktok.com/@maya._.finds/video/7709569455684128013); [11/19 — 682 views](https://www.tiktok.com/@maya._.finds/video/7709922576864136461).
+
+**Data quality:** 4 returned videos have positive views with zero reach. TKPO13 completion values unvalidated; TKPO15 watch time returned as reported. Views are cumulative per published video, not daily earned views. Source query date ranges can be affected by UTC/Pacific boundary, indexing delay or truncation. Metricool returned no November 21 post yet, which does not prove no post was published. New source timestamps and row observations still require safe persistence to the snapshot. No TikTok Shop sales, CTR, creative attribution or Gemini-to-post mapping verified. All exact generation matches outstanding.
+
+---
+
 ## Daily Product Scout Shortlist — 2026-11-20
 
 **Checked November 20, 2026 PST.** Followed `product-research.md` and `docs/paid-demand-creator-scarcity-spec.md`. Fresh public [TokConnect US new-products ranking](https://tokconnect.com/trends/tiktok-shop/new-products/) updated **November 19**, estimated sold-counter data **October 19–November 17**. This is a new source refresh since November 19 HQ. Revenue = listed price × reported sold units; NOT audited, NOT video-attributed. [TokConnect US category report](https://tokconnect.com/trends/tiktok-shop/categories/) updated Nov 19, data through Nov 17: Womenswear & Underwear estimated **$106.38M over 7d, -7.0% WoW**, category only.
