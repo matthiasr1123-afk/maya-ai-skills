@@ -14,6 +14,28 @@
 
 ---
 
+## Daily Product Scout Shortlist — 2026-11-21
+
+**Checked November 21, 2026 PST.** Reviewed [product-research.md](product-research.md) and [paid-demand creator scarcity spec](docs/paid-demand-creator-scarcity-spec.md). Public [TokConnect new-product rankings](https://tokconnect.com/trends/tiktok-shop/new-products/) still explicitly **updated November 19**, with estimated TikTok Shop US sold-counter data through **November 17**; no November 21 product-level refresh established. [TokConnect category overview](https://tokconnect.com/trends/tiktok-shop/categories/) also updated November 19, data through November 15; category sales are not product-specific VIDEO momentum. TokConnect describes estimated revenue as listed price multiplied by sold-counter units, not audited or VIDEO-attributed sales.
+
+**Ten US fashion/footwear/cozy candidates re-screened** from the last confirmed public ranking (provisional source launch, historical estimated 30-day revenue, source-reported selling creators, NOT verified unique active 30d product-video creators): Crocs Adult Unfurgettable Platform Clog (Nov 4, $167.1K, 33); HEYDUDE Wally Funk White Camo (Nov 6, $217.6K, 34); Men's Women's Retro Chunky Sneakers (Oct 24, $282.6K, 42); HEYDUDE Wendy Holiday Dress (Oct 24, $193.2K, 476); Comfrt Sweater Knit Hoodie (Oct 28, $314.9K, 658); Comfrt Dreamer Robe (Oct 26, $311.0K, 692); Comfrt Sweater Knit Crew (Oct 28, $247.4K, 646); Cozy Wearable Blanket Wrap (Oct 25, $407.9K, 341); autumn/winter women's velvet fashion listing (Oct 23, $161.7K, 469); Comfrt Travel Blanket (Nov 2, $192.5K, 243). All dates are provider-reported, not independently verified listing creation. No canonical exact US product IDs or listing URLs established; historical estimated totals are not accelerating video-driven sales. Source data has not refreshed since yesterday's scout.
+
+**Mandatory creator competition verification — ACCESS REQUIRED:** Connected tool inventory contains **no authorized Kalodata Open Center API or other exact-product creator/video provider**. Exact product IDs unresolved. The requested `/openapi/v1/tiktok/video/rank` query (US, last30Day, exact product_id, publish_date_range <30, page_size 100, exhaustive pagination) could not be run. **For each of the three shortlisted products**: pages retrieved **0**; videos processed **0**; creator IDs processed **0** (retrieval activity, NOT evidence of zero competition); unique active 30d creators **UNKNOWN**; deduplicated ID count **UNKNOWN**; 7d count/growth **UNKNOWN**; available total pages **UNKNOWN**; date coverage **NOT ESTABLISHED**; data timestamp **N/A**; sample completeness **NOT ESTABLISHED**; API estimation limits **NOT ASSESSABLE**. Source-reported historical selling creators are not equivalent. No VERIFIED LOW COMPETITION.
+
+**Ads / affiliate / EchoTik:** No dated exact-ID active US paid creative and advertiser independently confirmed; TikTok Creative Center Top Ads is a curated sample, not a complete active-ad inventory; US Commercial Content API coverage not assumed. Kalodata `ad=1`, `ad_view_ratio`, `ad_revenue_ratio`, `ads_roas` **N/A**; documented USD spend **null**, not inferred. Exact-product 7d versus prior 7d VIDEO sales momentum **UNKNOWN**. Maya-specific exact-ID affiliate eligibility, commission, inventory and showcase state within 48h **UNKNOWN**; public commission is not an account-specific offer. EchoTik prior HTTP 402 recorded in HQ; no authorized integration available to retest outage, live recovery **UNKNOWN**, stale rankings excluded.
+
+**Weighted evaluation:** 25% creator competition (N/A), 25% paid ad intensity (N/A), 20% video-sales acceleration (N/A), 10% verified listing age (N/A; provider-provisional dates only), 10% Maya affiliate economics (N/A), 10% faithful AI UGC (qualitative only). No numeric score assigned to unknowns. Exactly three **editorial research priorities**, not VERIFIED TEST or verified low-competition products:
+
+| Rank | Product | Dated public evidence / risk | Decision |
+|---|---|---|---|
+| 1 | Crocs Adult Unfurgettable Platform Clog | Nov 4 provisional launch (~17d); historical est. $167.1K/30d; 33 reported selling creators; simple recognizable winter footwear, exact ID/ads/creator census/Maya offer unknown | WATCHLIST |
+| 2 | HEYDUDE Wally Funk White Camo | Nov 6 provisional launch (~15d); historical est. $217.6K/30d; 34 reported selling creators; men's styling is a weaker Maya fit; exact ID/ads/creator census/Maya offer unknown | WATCHLIST |
+| 3 | Men's Women's Retro Chunky Sneakers | Oct 24 provisional launch (~28d); historical est. $282.6K/30d; 42 reported selling creators; unisex visual angle but near age cutoff, exact ID/ads/creator census/Maya offer unknown | WATCHLIST |
+
+**Result:** 10 historical candidates re-screened, exactly 3 ranked, **0 VERIFIED TEST**. No newly verified winner or meaningful evidence change versus November 20. Preserve all history and protected MAYA_AFFILIATE dashboard. No prompts, scripts, captions, purchases, showcase changes, or Gemini credits.
+
+---
+
 ## Daily Product Scout Shortlist — 2026-11-20
 
 **Checked November 20, 2026 PST.** Followed `product-research.md` and `docs/paid-demand-creator-scarcity-spec.md`. Fresh public [TokConnect US new-products ranking](https://tokconnect.com/trends/tiktok-shop/new-products/) updated **November 19**, estimated sold-counter data **October 19–November 17**. This is a new source refresh since November 19 HQ. Revenue = listed price × reported sold units; NOT audited, NOT video-attributed. [TokConnect US category report](https://tokconnect.com/trends/tiktok-shop/categories/) updated Nov 19, data through Nov 17: Womenswear & Underwear estimated **$106.38M over 7d, -7.0% WoW**, category only.
