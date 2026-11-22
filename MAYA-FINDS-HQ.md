@@ -1,3 +1,19 @@
+## Maya HQ Metricool sync — November 22, 2026 (Pacific)
+
+**Status: SOURCE LAG — persisted and verified; current-day publishing not confirmed.** Metricool brand 7649128, TKPO01/03/07/11/13/15; rolling October 23–November 22 and independent November 18–22 query. Returned 141 rolling rows and 17 recent rows, 141 unique video IDs. Previous saved latest date 20261110; latest live publication **20261120**. Persisted **56 new IDs** and **129 new/changed observations**; historical records retained (264 total).
+
+| Source publication date (timezone unverified) | Posts returned | Cumulative views on returned posts |
+|---|---:|---:|
+| 11/20 | 4 | 782 |
+| 11/21 | None returned | Unavailable |
+| 11/22 | None returned | Unavailable |
+
+**Recent leading videos:** [11/17 — 1,118 views](https://www.tiktok.com/@maya._.finds/video/7709190809710497038); [11/19 — 1,041 views](https://www.tiktok.com/@maya._.finds/video/7709569667647425805); [11/18 — 766 views](https://www.tiktok.com/@maya._.finds/video/7709569455684128013); [11/19 — 682 views](https://www.tiktok.com/@maya._.finds/video/7709922576864136461).
+
+**Freshness and limitations:** No November 21–22 posts returned; this may reflect delayed indexing, source truncation, or UTC/Pacific publication boundaries, not zero publishing. Cumulative views by video are not daily earned views. 4 returned videos have positive views with zero reach. TKPO13 completion raw scale is unvalidated, TKPO15 watch time unit/rounding not independently validated. TikTok Shop CTR/sales unavailable. Gemini-to-post matching remains outstanding; no creative formats or products attributed without a shared ID.
+
+---
+
 ## Maya HQ Metricool sync — November 21, 2026 (Pacific)
 
 **Status: PARTIAL — snapshot persistence blocked, not a successful sync.** Queried brand 7649128, six TKPO metrics, rolling Oct 22–Nov 21 (Pacific offsets) and independent Nov 17–21. The live source returned 149 rolling rows and 23 recent rows, 149 distinct IDs. Latest returned publication date **20261120**, newer than the snapshot's previously documented **20261110**. **New video IDs exist and are NOT yet merged into maya-performance-snapshot.json.** GitHub fetch returned an empty content body for the existing snapshot despite a nonempty SHA; replacing it would risk deleting 208 historical records and observations. Snapshot left unchanged intentionally. Retry full-content retrieval and safe merge; do not call this synced or zero new IDs.
