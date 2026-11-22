@@ -1,3 +1,25 @@
+## Daily Product Scout Shortlist — 2026-11-22
+
+**Checked November 22, 2026 PST.** Re-read [product-research.md](product-research.md) and [paid-demand creator scarcity spec](docs/paid-demand-creator-scarcity-spec.md). Public [TokConnect new-products ranking](https://tokconnect.com/trends/tiktok-shop/new-products/) checked again today; still explicitly **updated November 19, data through November 17**. No newer exact-product sales update confirmed. Historical estimated revenue is price × sold counter, not audited VIDEO-attributed sales. [Category trends](https://tokconnect.com/trends/tiktok-shop/categories/) through November 17 show Womenswear -7.0% WoW, not product-level momentum.
+
+**Ten candidates screened** from the most recent confirmed public US ranking: Crocs Adult Unfurgettable Platform Clog (Nov 4, $167.1K, 33 reported selling creators); HEYDUDE Wally Funk White Camo (Nov 6, $217.6K, 34); Men's Women's Retro Chunky Sneakers (Oct 24, $282.6K, 42); HEYDUDE Wendy Holiday Dress (Oct 24, $193.2K, 476); Comfrt Sweater Knit Hoodie (Oct 28, $314.9K, 658); Comfrt Dreamer Robe (Oct 26, $311.0K, 692); Comfrt Sweater Knit Crew (Oct 28, $247.4K, 646); Cozy Wearable Blanket Wrap (Oct 25, $407.9K, 341); autumn/winter women's velvet listing (Oct 23, $161.7K, 469); Comfrt Travel Blanket (Nov 2, $192.5K, 243). Dates are provisional provider launch dates, not verified creation timestamps. Reported selling-creator figures are NOT unique 30d active product-video creators. Exact canonical TikTok Shop US product IDs and links are not established.
+
+**MANDATORY CREATOR COMPETITION — ACCESS REQUIRED:** Connected tools checked today: **no authorized Kalodata Open Center API or other exact-product creator/video provider**. Cannot query `/openapi/v1/tiktok/video/rank` with US, last30Day, exact product_id, publish_date_range <30, page_size 100 and all pages. For **each of the three shortlisted products**, pages retrieved **0**, videos processed **0**, creator IDs processed **0** (retrieval activity only, NOT market zero); unique active 30d creators **UNKNOWN**; deduplicated unique ID count **UNKNOWN**; 7d creator count/growth **UNKNOWN**; total available pages **UNKNOWN**; 30d date coverage **NOT ESTABLISHED**; provider data timestamp **N/A**; sample completeness **NOT ESTABLISHED**; API estimation limits **NOT ASSESSABLE**. No VERIFIED LOW COMPETITION.
+
+**Ads, affiliate and EchoTik:** No dated exact-ID active US paid creative or advertiser independently confirmed. Creative Center Top Ads is curated, not an active-ad census; US Commercial Content API coverage not assumed. Kalodata `ad=1`, `ad_view_ratio`, `ad_revenue_ratio`, `ads_roas` **N/A**; documented ad spend USD **null**. Exact-product 7d versus prior 7d VIDEO-attributed sales acceleration **UNKNOWN**. Maya-specific exact-ID affiliate eligibility, commission, inventory, showcase state checked within 48h **UNKNOWN**. EchoTik historical HTTP 402 remains unverified for recovery: no authorized integration for a live test; stale EchoTik rankings excluded.
+
+**Weighted framework:** 25% competition N/A; 25% ad intensity N/A; 20% VIDEO sales momentum N/A; 10% listing age N/A (provisional date only); 10% Maya affiliate economics N/A; 10% faithful AI UGC qualitative. No invented aggregate scores. Exactly three editorial priorities:
+
+| Rank | Candidate | Evidence / risk | Decision |
+|---|---|---|---|
+| 1 | Crocs Adult Unfurgettable Platform Clog | Nov 4 provisional launch (~18d); historical est. $167.1K/30d, 33 reported selling creators; recognizable footwear but exact ID, ads, creator census and Maya offer unknown | WATCHLIST |
+| 2 | HEYDUDE Wally Funk White Camo | Nov 6 provisional launch (~16d); historical est. $217.6K/30d, 34 reported selling creators; men's styling weaker Maya fit; exact ID, ads, creator census and offer unknown | WATCHLIST |
+| 3 | Men's Women's Retro Chunky Sneakers | Oct 24 provisional launch (~29d); historical est. $282.6K/30d, 42 reported selling creators; nearing 30d cutoff; exact ID, ads, creator census and offer unknown | WATCHLIST |
+
+**Result:** 10 historical candidates re-screened, exactly 3 ranked, **0 VERIFIED TEST**. No meaningful new exact-product evidence versus November 21. Protected MAYA_AFFILIATE section and all previous reports retained. No prompts, scripts, captions, purchases, showcase changes or Gemini credits.
+
+---
+
 ## Maya HQ Metricool sync — November 22, 2026 (Pacific)
 
 **Status: SOURCE LAG — persisted and verified; current-day publishing not confirmed.** Metricool brand 7649128, TKPO01/03/07/11/13/15; rolling October 23–November 22 and independent November 18–22 query. Returned 141 rolling rows and 17 recent rows, 141 unique video IDs. Previous saved latest date 20261110; latest live publication **20261120**. Persisted **56 new IDs** and **129 new/changed observations**; historical records retained (264 total).
