@@ -34,3 +34,12 @@ Source: `Maya/Approved/Black Leopard Trim Pants Set - Car Seat.jpeg`.
 
 ## Next test
 Prove source pixels can be passed to the generator for true reference-based editing. Test crop-preserving removal of original source screenshot's phone UI and caption while retaining full pants, shoes and high-angle geometry. If image generation cannot ingest the Library image directly, investigate materialization/attachment route instead of guessing.
+
+## Retest 2026-11-23: camera-angle correction
+- Source visually inspected again: `Black Leopard Trim Pants Set - Car Seat.jpeg` in ChatGPT Library.
+- New single-image output at 941x1672 (near 9:16) shows top-down, face-free, both legs and both white sneakers, black pants, leopard waistband, white drawstrings. No collage or text overlay.
+- **CAMERA_ANGLE: PASS for framing test.** This is a visual assessment, not exact reference fidelity.
+- **PRODUCT_FIDELITY: UNVERIFIED** because the generation was not proven to be a true pixel-conditioned edit of the Library source. Do not claim the source pixels were passed to the image generator.
+- Improved direction: lead with `top-down crop, face-free, chest-to-shoes, black leather car seat`, then specify exact garment. Avoid `selfie`, `pout`, `messy bun`, `arm extended` and face description; those cause face-focused output.
+- File existence and dimensions checked in current container; not yet approved for posting or tested in Gemini.
+- Next gate: actual image-to-image edit using accessible source bytes, compare pattern/fit/angle, then a second distinct approved product. Cozy Approved remains empty.
