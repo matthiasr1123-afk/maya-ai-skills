@@ -43,3 +43,10 @@ Prove source pixels can be passed to the generator for true reference-based edit
 - Improved direction: lead with `top-down crop, face-free, chest-to-shoes, black leather car seat`, then specify exact garment. Avoid `selfie`, `pout`, `messy bun`, `arm extended` and face description; those cause face-focused output.
 - File existence and dimensions checked in current container; not yet approved for posting or tested in Gemini.
 - Next gate: actual image-to-image edit using accessible source bytes, compare pattern/fit/angle, then a second distinct approved product. Cozy Approved remains empty.
+
+## Step 3 source-byte access test (2026-11-23)
+- **PASS**: Files materialize returned original JPEG bytes at `/mnt/data/maya_reference_test/Black Leopard Trim Pants Set - Car Seat.jpeg` (709x1536, 189876 bytes). This resolves the Library-to-container file access problem.
+- **NOT PROVEN**: image_gen call returned a fresh image with metadata `edit_op:null`, `parent_gen_id:null`; therefore this is **not verified source-conditioned editing**. The image resembles the source but similarity is insufficient proof. Do not call it an edited original.
+- **PASS**: fresh generation has a face-free chest-to-shoes high-angle composition, both white sneakers, black wide-leg pants, leopard waistband, white drawstrings and no on-image text.
+- **BLOCKED**: exact source-pixel preservation and removal of screenshot overlays by the image generator are not verified. Do not approve exact seller fidelity or mark full four-image workflow passed.
+- Next: test a true image editing action that accepts the original file bytes as input, or create a lossless pixel-preserving cleanup of the original using image-processing tools with explicit QC; distinguish this from generative image editing. Never replace source pixels silently.
