@@ -1,3 +1,25 @@
+## Daily Product Scout Shortlist — 2026-11-23
+
+**Fresh public source:** [TokConnect US new launches](https://tokconnect.com/trends/tiktok-shop/new-products/) updated **November 23**, estimates through **November 21** (Oct 23–Nov 21 window). Followed [product-research.md](product-research.md) and [paid-demand spec](docs/paid-demand-creator-scarcity-spec.md). Revenue is estimated listed price × sold-counter units, **not verified VIDEO-attributed revenue**. Provider launch dates are provisional, not independently verified listing creation. Canonical TikTok Shop US product IDs and URLs remain unresolved. Source reported “creators” are NOT unique active 30d product-promoting video creators.
+
+**Eight fashion/accessory/shoe/cozy candidates screened:** Autism Awareness Puzzle Piece Charm Bracelet (Nov 8; $344.4K est 30d; 20 reported selling creators; public commission not listed); Crocs Adult Unfurgettable Platform Clog (Nov 4; $169.6K; 33; not listed); HEYDUDE Wally Funk Camo (Nov 6; $280.7K; 38; not listed); Comfrt Sweater Knit Hoodie (Oct 28; $329.9K; 705; public 11%); Comfrt Dreamer Robe (Oct 26; $311.8K; 692; not listed); Comfrt Sweater Knit Crew (Oct 28; $248.5K; 670; public 10%); Cozy Wearable Blanket Wrap (Oct 25; $414.2K; 341; public 10%); Men's Santa Claus Fleece-Lined Coat (Nov 11; $286.8K; 643; not listed). No exact-ID VIDEO sales momentum established. The previous retro chunky sneakers no longer appear in the refreshed top-50, which does NOT prove a sales decline.
+
+**MANDATORY CREATOR COMPETITION — ACCESS REQUIRED:** Tool inventory checked: no authorized **Kalodata Open Center API** or other exact-product creator/video integration. No exact US product IDs confirmed; cannot invoke `/openapi/v1/tiktok/video/rank` with region US, date_range last30Day, exact product_id, publish_date_range <30, page_size 100, exhaustive pagination. **For each shortlisted candidate:** pages retrieved **0**, videos processed **0**, creator IDs processed **0** (retrieval activity only, not market zeros); unique active 30d creators **UNKNOWN**, deduplicated ID count **UNKNOWN**, 7d creator count/growth **UNKNOWN**, total available pages **UNKNOWN**, date coverage **NOT ESTABLISHED**, provider data timestamp **N/A**, completeness **NOT ESTABLISHED**, API estimation limits **NOT ASSESSABLE**. No VERIFIED LOW COMPETITION.
+
+**Paid ads and affiliate:** No exact-ID dated active US advertiser/creative confirmed; TikTok Creative Center Top Ads curated, not comprehensive. Do not assume US Commercial Content API coverage. Kalodata `ad=1`, `ad_view_ratio`, `ad_revenue_ratio`, `ads_roas` **N/A**; documented ad spend USD **null**. Maya-specific exact-ID offer eligibility, commission, inventory, showcase status checked within 48h **UNKNOWN**. EchoTik historical HTTP 402 remains a **recovery status UNKNOWN**: no authorized EchoTik access to retest; stale rankings excluded.
+
+**Weights applied without invented values:** creator competition 25% N/A, paid ad intensity 25% N/A, VIDEO sales momentum 20% N/A, verified listing age 10% N/A (provider dates provisional), Maya affiliate economics 10% N/A, faithful AI UGC 10% qualitative. No aggregate score for unknowns. **Exactly three editorial research priorities**, NOT verified tests:
+
+| Rank | Product | Fresh public evidence and caveats | Decision |
+|---|---|---|---|
+| 1 | Autism Awareness Puzzle Piece Charm Bracelet | Nov 8 provisional launch (~15d); $344.4K estimated 30d; **20 reported selling creators (not active-video census)**; small accessory easy to depict, but exact ID, ads, commission and Maya offer unknown | WATCHLIST |
+| 2 | Crocs Adult Unfurgettable Platform Clog | Nov 4 (~19d); $169.6K estimated 30d; 33 reported selling creators; simple footwear visual, exact ID and paid demand unverified | WATCHLIST |
+| 3 | HEYDUDE Wally Funk Camo | Nov 6 (~17d); $280.7K estimated 30d; 38 reported selling creators; weaker women's fashion fit, exact ID/ads/offer unknown | WATCHLIST |
+
+**Result:** 8 screened, exactly 3 ranked, **0 VERIFIED TEST**. Fresh Nov 23 public ranking changes the editorial shortlist; does not establish low creator saturation or paid ad intensity. Preserve MAYA_AFFILIATE and all historical reports. No prompts, scripts, captions, purchases, showcase changes or Gemini credits.
+
+---
+
 ## Metricool daily verification — 2026-11-23 (Monday)
 
 - **Verified query:** brand 7649128; TKPO01, TKPO03, TKPO07, TKPO11, TKPO13, TKPO15. Rolling 2026-10-24T00:00:00-07:00–2026-11-23T23:59:59-08:00: **136 rows**. Independent Nov 19–23 inclusive: **11 rows**. Source checked 2026-11-23T16:56:30Z. Metricool's published-date field may use a different timezone; the current date is included and indexing can lag.
