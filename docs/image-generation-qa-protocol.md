@@ -50,3 +50,11 @@ Prove source pixels can be passed to the generator for true reference-based edit
 - **PASS**: fresh generation has a face-free chest-to-shoes high-angle composition, both white sneakers, black wide-leg pants, leopard waistband, white drawstrings and no on-image text.
 - **BLOCKED**: exact source-pixel preservation and removal of screenshot overlays by the image generator are not verified. Do not approve exact seller fidelity or mark full four-image workflow passed.
 - Next: test a true image editing action that accepts the original file bytes as input, or create a lossless pixel-preserving cleanup of the original using image-processing tools with explicit QC; distinguish this from generative image editing. Never replace source pixels silently.
+
+## Pixel-preserving cleanup test (2026-11-23)
+- Materialized the exact original source JPEG and tested deterministic image-processing cleanup, not generative editing.
+- Crop 709x1296 removed top status bar and bottom playback UI while preserving original camera framing and pixels in the retained region.
+- Attempt A: large rectangle inpainting over text/emojis caused an obvious blurred horizontal patch on the black pants. **FAIL**.
+- Attempt B: narrow color/brightness segmentation and inpainting left dark ghost lettering/emoji artifacts. **FAIL**.
+- Neither cleanup result is approved for posting. Do not call the files clean or deliver them as production assets.
+- A pixel-preserving crop of the source is useful for geometry reference but cannot remove middle caption without reconstructing occluded garment pixels; deterministic inpainting may leave visible artifacts. Next step: a true image-editing route with original bytes explicitly attached, or a higher-quality local restoration method; compare the exact source and inspect edited area at full resolution. Never hide failed cleanup behind generic success labels.
