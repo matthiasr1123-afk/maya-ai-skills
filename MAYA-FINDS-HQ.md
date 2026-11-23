@@ -1,3 +1,28 @@
+## Metricool daily verification — 2026-11-23 (Monday)
+
+- **Verified query:** brand 7649128; TKPO01, TKPO03, TKPO07, TKPO11, TKPO13, TKPO15. Rolling 2026-10-24T00:00:00-07:00–2026-11-23T23:59:59-08:00: **136 rows**. Independent Nov 19–23 inclusive: **11 rows**. Source checked 2026-11-23T16:56:30Z. Metricool's published-date field may use a different timezone; the current date is included and indexing can lag.
+- **Latest returned publication:** 2026-11-20; previous saved latest: 20261120. **0 newly discovered IDs persisted; 8 new/changed observations; 264 historical IDs retained.** Returned unique IDs: 136. Metrics are cumulative post totals, not views earned in the query window.
+- **Last three calendar days (posts in response / cumulative views on those posts):** 11/21: 0 returned / unavailable views; 11/22: 0 returned / unavailable views; 11/23: 0 returned / unavailable views. A missing day is **not confirmed zero actual posts**.
+- **Leading returned videos:** [221,514 views, 20261103](https://www.tiktok.com/@maya._.finds/video/7704040188460272909); [4,904 views, 20261105](https://www.tiktok.com/@maya._.finds/video/7704782807217851678); [1,931 views, 20261105](https://www.tiktok.com/@maya._.finds/video/7704360144452193550); [1,286 views, 20261104](https://www.tiktok.com/@maya._.finds/video/7704040313517559053).
+- **Quality:** 4 returned videos show views > 0 and reach = 0; TKPO13 completion values preserved raw without scale interpretation; TKPO15 average watch time recorded as returned, unit unverified. No verified TikTok Shop sales, CTR, or Gemini-to-post creative mapping. The generation log does not establish shared IDs for these new posts.
+- **Freshness:** Feed has no confirmed publication on Nov 23; delayed indexing remains possible. Do not interpret a truncated response as zero posts. Snapshot and HQ readback verification is required before treating this sync as complete.
+
+## Seven-day production plan — Nov 23–29, 2026
+
+**Maya Finds (@maya._.finds):** Metricool verifies post-level views but not the exact products or camera formats for the leading posts. The product/format choices below are **tests using previously approved assets, not attributed winners**. Start with 2–3/day (up to 5 only if reviewed clips are ready). **Cozy Collective (@cozycollective.finds):** no current connected post-level Cozy analytics verified in this sync; all format choices are hypotheses. Start with 1–2/day rather than 8 until assets and performance are confirmed. Both accounts: accurate 9:16 iPhone-style UGC, first-second visual hook, 7–10 seconds, one subtle movement, verify garment details/anatomy, no auto-publishing.
+
+| Day | Maya: product, format, task | Cozy: product, format, task |
+|---|---|---|
+| Mon 23 | Leopard set, approved close mirror crop; QC product print, post 2; test crop against full-body | Comfort pants, approved car-seat crop; QC seam/fit, post 1–2; baseline test |
+| Tue 24 | Distressed jeans, close mirror and seated; verify wash and waistband, post 2; test hook timing | Brown tights, seated versus mirror; verify opacity, post 1–2 |
+| Wed 25 | Leopard set, approved car-seat versus mirror framing; reuse assets, post 2–3 | Scarf, product close-up versus outfit context; QC weave, post 1–2 |
+| Thu 26 | Pink patterned set, mirror crop; compare exact graphics to reference, post 1–2 | Baby shoes, close-up with stationary camera; QC straps/soles, post 1–2 |
+| Fri 27 | Jeans, seated angle; change only opening crop, post 2 | Pink pants, close mirror angle; verify color, post 1–2 |
+| Sat 28 | Leopard set, strongest approved angle; use fresh performance only if linked to product, post 2–3 | Comfort pants, alternate approved car-seat framing; post 1–2 |
+| Sun 29 | Best verified eligible approved SKU, review weekly results before 2 posts | Best reviewed Cozy asset; compare views/watch time if available, post 1–2 |
+
+**Controlled tests:** one variable at a time (close versus wider crop; immediate product reveal versus 1-second reveal; seated versus mirror). Keep account datasets separate. Only regenerate when reference-match QC fails; do not infer sales, clicks, or creative attribution from Metricool views.
+
 ## Daily Product Scout Shortlist — 2026-11-22
 
 **Checked November 22, 2026 PST.** Re-read [product-research.md](product-research.md) and [paid-demand creator scarcity spec](docs/paid-demand-creator-scarcity-spec.md). Public [TokConnect new-products ranking](https://tokconnect.com/trends/tiktok-shop/new-products/) checked again today; still explicitly **updated November 19, data through November 17**. No newer exact-product sales update confirmed. Historical estimated revenue is price × sold counter, not audited VIDEO-attributed sales. [Category trends](https://tokconnect.com/trends/tiktok-shop/categories/) through November 17 show Womenswear -7.0% WoW, not product-level momentum.
