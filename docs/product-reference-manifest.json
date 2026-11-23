@@ -1,0 +1,158 @@
+{
+  "version": "2026-11-23",
+  "source": "ChatGPT File Library",
+  "root": "/Maya + Cozy Product Reference Library",
+  "rules": [
+    "List the Library folder fresh each run; file IDs may change.",
+    "Read the actual native image via files__read mode=image_file before generation.",
+    "Approved folder is not proof of exact seller fidelity; visually compare product.",
+    "Do not generate from Needs Verification without approval.",
+    "Never substitute similar products; log failures honestly."
+  ],
+  "entries": [
+    {
+      "account": "Maya",
+      "status": "approved_folder",
+      "name": "Light Blue Long Sleeve Ruffle Mini Dress - Mirror.jpeg",
+      "library_path": "/Maya + Cozy Product Reference Library/Maya/Approved/Light Blue Long Sleeve Ruffle Mini Dress - Mirror.jpeg",
+      "file_id": "file_0000000084bc81fdbba62716b3fa768e",
+      "visual_fidelity": "not_yet_verified",
+      "generation_ready": "requires_visual_inspection"
+    },
+    {
+      "account": "Maya",
+      "status": "approved_folder",
+      "name": "Burgundy Sweater and Distressed Light Jeans - Mirror.png",
+      "library_path": "/Maya + Cozy Product Reference Library/Maya/Approved/Burgundy Sweater and Distressed Light Jeans - Mirror.png",
+      "file_id": "file_000000005afc81fdbd728cefaee3b36c",
+      "visual_fidelity": "not_yet_verified",
+      "generation_ready": "requires_visual_inspection"
+    },
+    {
+      "account": "Maya",
+      "status": "approved_folder",
+      "name": "White Ski Print Lounge Pants - Car Seat.png",
+      "library_path": "/Maya + Cozy Product Reference Library/Maya/Approved/White Ski Print Lounge Pants - Car Seat.png",
+      "file_id": "file_0000000062b481fdab23e7cbe9bac5a4",
+      "visual_fidelity": "not_yet_verified",
+      "generation_ready": "requires_visual_inspection"
+    },
+    {
+      "account": "Maya",
+      "status": "approved_folder",
+      "name": "Red Wide Leg Sweatpants - Car Seat.jpeg",
+      "library_path": "/Maya + Cozy Product Reference Library/Maya/Approved/Red Wide Leg Sweatpants - Car Seat.jpeg",
+      "file_id": "file_0000000054c481fd9c598070b070e349",
+      "visual_fidelity": "not_yet_verified",
+      "generation_ready": "requires_visual_inspection"
+    },
+    {
+      "account": "Maya",
+      "status": "approved_folder",
+      "name": "Black Dotted Wide Leg Jeans - Car Seat.jpeg",
+      "library_path": "/Maya + Cozy Product Reference Library/Maya/Approved/Black Dotted Wide Leg Jeans - Car Seat.jpeg",
+      "file_id": "file_000000002f1081fd85bfe81ef19cfd13",
+      "visual_fidelity": "not_yet_verified",
+      "generation_ready": "requires_visual_inspection"
+    },
+    {
+      "account": "Maya",
+      "status": "approved_folder",
+      "name": "Leopard Print Hoodie and Wide Leg Pants Set - Mirror.jpeg",
+      "library_path": "/Maya + Cozy Product Reference Library/Maya/Approved/Leopard Print Hoodie and Wide Leg Pants Set - Mirror.jpeg",
+      "file_id": "file_00000000112881fdbc3dfa13c0b0cbfd",
+      "visual_fidelity": "not_yet_verified",
+      "generation_ready": "requires_visual_inspection"
+    },
+    {
+      "account": "Maya",
+      "status": "approved_folder",
+      "name": "Burgundy Plaid Ruffle Mini Dress - Mirror.jpeg",
+      "library_path": "/Maya + Cozy Product Reference Library/Maya/Approved/Burgundy Plaid Ruffle Mini Dress - Mirror.jpeg",
+      "file_id": "file_000000000b1081fda7d4bced8a6eb932",
+      "visual_fidelity": "not_yet_verified",
+      "generation_ready": "requires_visual_inspection"
+    },
+    {
+      "account": "Maya",
+      "status": "approved_folder",
+      "name": "Vans Fleece Lined Shoes - Handheld.jpeg",
+      "library_path": "/Maya + Cozy Product Reference Library/Maya/Approved/Vans Fleece Lined Shoes - Handheld.jpeg",
+      "file_id": "file_00000000774c81fd82f7d2f3bcb08fc7",
+      "visual_fidelity": "not_yet_verified",
+      "generation_ready": "requires_visual_inspection"
+    },
+    {
+      "account": "Maya",
+      "status": "approved_folder",
+      "name": "Burgundy Floral Velvet Mermaid Skirt - Mirror.jpeg",
+      "library_path": "/Maya + Cozy Product Reference Library/Maya/Approved/Burgundy Floral Velvet Mermaid Skirt - Mirror.jpeg",
+      "file_id": "file_0000000022a481fd98fb14a513d6f777",
+      "visual_fidelity": "not_yet_verified",
+      "generation_ready": "requires_visual_inspection"
+    },
+    {
+      "account": "Maya",
+      "status": "approved_folder",
+      "name": "Taupe Ribbed Flare Pants - Car Seat.jpeg",
+      "library_path": "/Maya + Cozy Product Reference Library/Maya/Approved/Taupe Ribbed Flare Pants - Car Seat.jpeg",
+      "file_id": "file_0000000000c081fdbe74c2d93ccb8b64",
+      "visual_fidelity": "not_yet_verified",
+      "generation_ready": "requires_visual_inspection"
+    },
+    {
+      "account": "Maya",
+      "status": "approved_folder",
+      "name": "Burgundy Polka Dot Two Piece - Car Seat.jpeg",
+      "library_path": "/Maya + Cozy Product Reference Library/Maya/Approved/Burgundy Polka Dot Two Piece - Car Seat.jpeg",
+      "file_id": "file_00000000f4f081fdb2c6b686c698a0d4",
+      "visual_fidelity": "not_yet_verified",
+      "generation_ready": "requires_visual_inspection"
+    },
+    {
+      "account": "Maya",
+      "status": "approved_folder",
+      "name": "Black Leopard Trim Pants Set - Car Seat.jpeg",
+      "library_path": "/Maya + Cozy Product Reference Library/Maya/Approved/Black Leopard Trim Pants Set - Car Seat.jpeg",
+      "file_id": "file_00000000786c81fda3588ca3a1bf91c9",
+      "visual_fidelity": "not_yet_verified",
+      "generation_ready": "requires_visual_inspection"
+    },
+    {
+      "account": "Maya",
+      "status": "approved_folder",
+      "name": "Civilregime Pink Set - Front.png",
+      "library_path": "/Maya + Cozy Product Reference Library/Maya/Approved/Civilregime Pink Set - Front.png",
+      "file_id": "file_00000000c86881fda588dc96e04ec87b",
+      "visual_fidelity": "not_yet_verified",
+      "generation_ready": "requires_visual_inspection"
+    },
+    {
+      "account": "Cozy",
+      "status": "needs_verification",
+      "name": "Leopard Lounge Mirror.png",
+      "library_path": "/Maya + Cozy Product Reference Library/Cozy/Needs Verification/Leopard Lounge Mirror.png",
+      "file_id": "file_000000006a6c81fd9cf967a606b2e853",
+      "visual_fidelity": "not_yet_verified",
+      "generation_ready": "blocked_pending_approval"
+    },
+    {
+      "account": "Maya",
+      "status": "needs_verification",
+      "name": "Leopard Print Comfort Set.png",
+      "library_path": "/Maya + Cozy Product Reference Library/Maya/Needs Verification/Leopard Print Comfort Set.png",
+      "file_id": "file_000000002f9881fdaede8702fdaa59fb",
+      "visual_fidelity": "not_yet_verified",
+      "generation_ready": "blocked_pending_approval"
+    },
+    {
+      "account": "Maya",
+      "status": "approved_folder",
+      "name": "Civilregime Pink Set - Back.png",
+      "library_path": "/Maya + Cozy Product Reference Library/Maya/Approved/Civilregime Pink Set - Back.png",
+      "file_id": "file_0000000017d48230bbc3a0c4e920e2a5",
+      "visual_fidelity": "not_yet_verified",
+      "generation_ready": "requires_visual_inspection"
+    }
+  ]
+}
