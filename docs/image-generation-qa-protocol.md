@@ -61,7 +61,7 @@ Prove source pixels can be passed to the generator for true reference-based edit
 
 ## 2026-11-23 — Run Maya, source-based restoration retest
 
-“Run Maya” requests two Maya and two Cozy images unless the user specifies another scope. Read the current briefs, creative records and this protocol on each run. Enumerate each account's Approved folder directly. Materialize exact originals with the current Files helper, decode, hash, and inspect. Never use a fuzzy title hit or the Needs Verification folder for a production slot.
+The original test requested two Maya and two Cozy images. The current allocation rule below supersedes that historical test. Read the current briefs, creative records and this protocol on each run. Enumerate each account's Approved folder directly. Materialize exact originals with the current Files helper, decode, hash, and inspect. Never use a fuzzy title hit or the Needs Verification folder for a production slot.
 
 Maya car-seat framing is downward, face-free, chest to shoes, with both pant legs visible. Avoid the phrase “car selfie” as the main framing instruction. Use the original file as an actual image-edit input. An output generated from text alone cannot pass reference editing. The leopard affiliate item is the pants alone.
 
@@ -72,3 +72,7 @@ First composite FAIL: rectangular repair edge on black thigh; box seams and resi
 Both final PNGs passed visual product/framing and decoded file checks, 702 × 1248. Leopard output SHA256 fa5131166869344e28769dba1c987fca6282be0f961e573759677b8306506624; taupe c3bf9a04ac026b0e4ebd8182c2ffbd8c851c558e35d196e3d17ebd91a42f647c. Each receives its own 8-second camera-only prompt and caption. Gemini acceptance unverified. Do not count a drafted prompt as an executed video test. Delivery IDs libfile_06ea42ee2b0c819192893962a481bb45 and libfile_895432469dc48191ac8f5f81a394cb45.
 
 Full batch BLOCKED: Cozy/Approved listed zero files, and Cozy/Needs Verification contained Leopard Lounge Mirror.png. Do not promote it or reassign a Maya product. Re-list on each invocation. An automation run completing is insufficient evidence of four-image delivery. Preserve previous results, cap identical attempts at three, and record methods, source, corrections and per-file checks.
+
+## Current Run Maya allocation — November 23
+
+Fill four slots from whichever account has suitable approved references, including four Maya or four Cozy. Keep each asset assigned to its source account. An empty account folder does not block the other account. Prefer four distinct justified assets. Verify source bytes, visual fidelity, 9:16 PNGs, download paths, and individual prompt/caption pairs.
