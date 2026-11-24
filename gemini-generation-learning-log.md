@@ -202,3 +202,7 @@ User reported Gemini refused the black leopard-waistband pants car still and mot
 
 
 Follow-up on the November 23 refusal: User reports the replacement rendered swinging pants on a hanger and rejected that creative. Retire the hanger fallback for worn fit checks. Preserve the worn car composition and show a visible change in hem drape. Revised worn prompt acceptance remains untested.
+
+
+## Maya user-supplied viral reference review — 2026-11-24
+Source: v15044gf0000dbl3uk7og65hskf8ffd0.mp4, user supplied in response to request for leading video. 5.618s, 512x910, 30fps; visual frames sampled every 0.5s, audio not reviewed. Dark gray leopard fitted long-sleeve matching set, beige car, close seated selfie, one knee foreground, text 'currently obsessed / with this set'. Hand at top hem/waist initially, framing rises and gaze shifts toward window around 1–2s, hand relaxes around 2–3s, framing lowers around 3–4s, hand returns to hem around 4–5.6s. Legs largely still. No obvious cuts in samples. Candidate baseline: gentle hem adjustment and natural selfie framing return, preserve print and pose; generate 7s then edit to approximately 5.6s if motion supports it. Test against leg motion separately on comparable assets. Exact original Gemini prompt, published post ID, attributed sales and retention not independently matched; user-supplied viral reference, not causal proof. Do not attribute 221514 views to this file without confirming post identity.
