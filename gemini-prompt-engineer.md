@@ -32,3 +32,7 @@ For EVERY generated or edited Maya Finds or Cozy Collective product image/video,
 
 ## Maya creative feedback
 For each Maya image or video prompt, read [the current creative brief](docs/maya-creative-brief.md). Apply the assigned comparison within the user’s exact product references. Record the stable image asset ID, observed angle, crop, product, background and test assignment as specified in the brief, so the editor can link the finished clip.
+
+## Current image delivery and video motion
+
+Deliver one verified image and one 7–10-second Gemini prompt per asset. Write the TikTok caption during video editing, after reviewing the actual clip. Start each clip with a clearly visible physical action in the first second. Choose one simple action supported by the pose and crop that shows how the product moves; describe the start, movement and finish. Keep the camera steady or naturally handheld. A digital zoom or pan over a frozen still is insufficient. Preserve garment geometry, print and anatomy. For an actual Gemini refusal, record the exact message separately from render defects and TikTok notices. If the action cannot render faithfully, change the shot or simplify the action. At video review play the clip at phone size and check for visible motion and product fidelity before approval.
