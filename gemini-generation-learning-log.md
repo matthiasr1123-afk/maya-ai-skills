@@ -199,3 +199,6 @@ _No new reviews logged yet._
 ## November 23 — Gemini real-person refusal on pants fit check
 
 User reported Gemini refused the black leopard-waistband pants car still and motion prompt with “I can’t make videos of real people in situations like that. Can I help you with something else?” The submitted still includes a low-cut styling tank and a seated wearer. Exact trigger unknown. Product-focused framing and a person-free hanger shot are proposed corrections. Gemini acceptance unverified.
+
+
+Follow-up on the November 23 refusal: User reports the replacement rendered swinging pants on a hanger and rejected that creative. Retire the hanger fallback for worn fit checks. Preserve the worn car composition and show a visible change in hem drape. Revised worn prompt acceptance remains untested.
