@@ -194,3 +194,8 @@ _No new reviews logged yet._
 - Product visible from first frame; no intro, excessive cuts, second caption, transition or end card. Preserve one simple realistic motion and the strongest angle. Car-fit-check is preferred for appropriate sets, but adapt to product (mirror/standing for jeans, close details for shoes).
 - Final MP4 silent, product-faithful, with required AI provenance/disclosures preserved. Full rendered-frame QA required. Continue approved-folder destination, caption attachment, manifest/version checks and safe Trash policy unchanged.
 - Evidence: Metricool snapshot Oct 25–Nov 14: Nov 3 leopard car-fit-check, 5 seconds, 158,657 cumulative views; other 5–6s outfit videos performed relatively well. This is an **editorial default to test**, not proven causal effect or guaranteed retention uplift. Record runtime, hook, visual format and outcomes by account and compare similar products.
+
+
+## November 23 — Gemini real-person refusal on pants fit check
+
+User reported Gemini refused the black leopard-waistband pants car still and motion prompt with “I can’t make videos of real people in situations like that. Can I help you with something else?” The submitted still includes a low-cut styling tank and a seated wearer. Exact trigger unknown. Product-focused framing and a person-free hanger shot are proposed corrections. Gemini acceptance unverified.
