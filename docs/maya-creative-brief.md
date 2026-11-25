@@ -1,6 +1,9 @@
 # Maya creative brief
 Updated November 23, 2026. Applies to @maya._.finds.
 
+## Product selection before every run
+Before choosing products for every Maya batch, check current per-video views for @maya._.finds in Metricool over the most recent 14 days. Rank recent posts and match their captions or visible garments to exact approved references. Prioritize products with the strongest recent views, especially repeated high-view posts, while accounting for post age. Choose from those products before applying crop or styling tests. Report the view counts behind the picks. If live data is unavailable, use the latest verified figures and identify their date.
+
 ## What to make next
 Editor: Use the approved product-first hook and existing type treatment as the control. On two comparable takes of the same product, test a straight cut to a detail shot at 1 second versus 2 seconds. Hold runtime, shot order, words and styling steady. Use a detail shot only when accurate footage exists. Primary outcome: early retention at the same elapsed time if available, otherwise comparable average watch time in verified units. Check attributed sales separately.
 Image creator: Use an approved leopard set reference if available. Test close versus wider framing in the same seated setup. Keep the garment, pose, lighting and background consistent. Use the same edit for both. Compare attributed items per 1,000 views and report counts alongside rates. If commerce data is missing, report attention only. Run this separately from the editing test.
