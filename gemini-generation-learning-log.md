@@ -218,3 +218,10 @@ User reports 2K views; export_1795548083757.mp4, 169 frames at 30fps, 5.633s. Vi
 
 ## Maya lower-performing comparison — 2026-11-24
 Three files supplied in response to request for under-200-view examples; exact counts, post IDs, sales, retention and audio unverified. Twelve evenly spaced visual samples per clip. v12044gd0000dbuuasnog65gskr149r0.mp4 (5.633s): red leopard set, black car, red bag, tan boots, 'red set fit check'; slight hand repositioning on thigh, otherwise nearly static. export_1795548190068.mp4 (5.467s): brown off-shoulder top and burgundy patterned velvet skirt, black car, 'brown + burgundy'; hand lowers from hair to lap, gaze/expression changes, skirt hem outside crop. v12044gd0000dbviblnog65j206ho3ag.mp4 (5.633s): pink leopard set, black car, pink bag and footwear, 'pink leopard set'; minor hand/finger motion, near-static framing, similar composition to red. Compared with three high-view references, runtime and car setting overlap; noticeable casual gestures and neutral product palette are hypotheses, not causal findings. Avoid finger-only motion and long static holds; test one visible hand repositioning or hem adjustment with natural finish against leg movement using comparable same-product assets. Preserve product-first crop and test hook wording separately. Do not retire red/pink or infer color causality from these unmatched samples. No exact prompt-to-post linkage established.
+
+## 2026-11-25 — Burgundy plaid dress close-up (image 2)
+User reported Gemini rejected the first close-up prompt with a real-people-in-situations message and accepted this revision for the same image:
+
+> Create an 8-second vertical product-detail video using the uploaded photo as a still image. Start on the burgundy plaid just above the curved seam where the ruffle begins. From the first frame, pan slowly along that seam from left to right, then ease back far enough to show the full width of the ruffle. Use one continuous camera move. Keep the original plaid lines, stitching, folds and lighting fixed throughout.
+
+Reuse for this dress close-up. Gemini acceptance confirmed by user. Render quality and post performance unreviewed.
