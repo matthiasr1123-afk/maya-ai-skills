@@ -225,3 +225,8 @@ User reported Gemini rejected the first close-up prompt with a real-people-in-si
 > Create an 8-second vertical product-detail video using the uploaded photo as a still image. Start on the burgundy plaid just above the curved seam where the ruffle begins. From the first frame, pan slowly along that seam from left to right, then ease back far enough to show the full width of the ruffle. Use one continuous camera move. Keep the original plaid lines, stitching, folds and lighting fixed throughout.
 
 Reuse for this dress close-up. Gemini acceptance confirmed by user. Render quality and post performance unreviewed.
+
+## 2026-11-25 — Vans fleece-lined shoe style reference
+- User confirmed the Maya shoe video is not a winner. The observed 882 Metricool views are a count, not a winner designation. Do not prioritize it as a proven Maya performer.
+- User re-shared the exact image already filed at `/Maya + Cozy Product Reference Library/Maya/Approved/Vans Fleece Lined Shoes - Handheld.jpeg` and explicitly requested this style. Use it as an external style reference. The visible 7,478 is an engagement count on that screenshot, not Maya views.
+- Composition: handheld first-person downward outdoors, shoe broadside close to lens with fleece visible, matching shoe worn below, ribbed cream socks, dark leggings, seasonal ground and knit cuff. Use the source image as the edit reference, preserve the exact shoe and labels, and remove screenshot UI and captions. Retire the static bench version for this request.
