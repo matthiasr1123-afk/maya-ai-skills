@@ -230,3 +230,14 @@ Reuse for this dress close-up. Gemini acceptance confirmed by user. Render quali
 - User confirmed the Maya shoe video is not a winner. The observed 882 Metricool views are a count, not a winner designation. Do not prioritize it as a proven Maya performer.
 - User re-shared the exact image already filed at `/Maya + Cozy Product Reference Library/Maya/Approved/Vans Fleece Lined Shoes - Handheld.jpeg` and explicitly requested this style. Use it as an external style reference. The visible 7,478 is an engagement count on that screenshot, not Maya views.
 - Composition: handheld first-person downward outdoors, shoe broadside close to lens with fleece visible, matching shoe worn below, ribbed cream socks, dark leggings, seasonal ground and knit cuff. Use the source image as the edit reference, preserve the exact shoe and labels, and remove screenshot UI and captions. Retire the static bench version for this request.
+
+## 2026-11-27 — SHAPELLX white floral lace tights (#2), real-people refusal recovery
+
+- User confirmed the prompt below worked after several camera-only and flat-layer zoom prompts drew “I can’t make videos of real people in situations like that.” The intended opening was the original Maya #2 still. Exact classifier trigger is unknown. Output quality and post performance were not independently reviewed.
+- First retry for this error on a genuinely AI-generated adult fashion still: keep the original image as frame one, identify the model accurately as fictional, start visible handheld camera movement immediately, and include one small realistic pose movement suited to the starting image. For this fit check, use a small weight shift with both boots planted. Keep the full product in view and preserve pattern, material and setting. Use a single continuous shot. Adapt the movement to the product and pose.
+
+> Create an 8-second vertical mirror fit-check video from the uploaded AI-generated fashion still of a fictional adult model. Use the exact image as the first frame.
+>
+> Start with a gentle handheld camera drift to the right. As the camera moves, the model makes one small, natural weight shift onto her back foot. Both boots stay planted, and the dress hem settles slightly with the movement. Ease the camera back toward center to finish.
+>
+> Keep the full outfit visible throughout, including the faux-fur hem, white floral lace tights and both cream boots. Preserve the original lace pattern, room and daylight. One continuous shot at natural speed. No text or audio.
