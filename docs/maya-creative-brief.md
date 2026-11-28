@@ -29,3 +29,7 @@ For Gemini’s “I can’t make videos of real people in situations like that�
 ## Winning reference frames required for Run Maya
 
 Use only a specific product-video framing the user has identified as a winner or that verified results connect to an identifiable source frame. Inspect that actual frame before generation. Match camera height, tilt, distance, pose, product scale and crop, including the visible garment landmarks. A mirror or car setting alone does not qualify. Views for a caption alone do not verify an angle. Keep styling variations secondary. If a new product lacks a winning source frame, use an eligible product again. Check every output side by side against its source before delivery.
+
+
+## November 27 product selection correction
+Exclude the black leopard-waistband sweats from Maya runs. A winning angle is separate from a winning product. Before each run review the latest 14 days of Maya product performance, including verified views, product clicks, product CTR and attributed sales wherever available. Mark missing metrics unknown. Select distinct, identifiable products supported by those results and use the approved framing. Do not fill slots with repeated outfits or transfer sales evidence between similar products.
