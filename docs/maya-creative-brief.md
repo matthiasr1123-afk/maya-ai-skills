@@ -33,3 +33,15 @@ Use only a specific product-video framing the user has identified as a winner or
 
 ## November 27 product selection correction
 Exclude the black leopard-waistband sweats from Maya runs. A winning angle is separate from a winning product. Before each run review the latest 14 days of Maya product performance, including verified views, product clicks, product CTR and attributed sales wherever available. Mark missing metrics unknown. Select distinct, identifiable products supported by those results and use the approved framing. Do not fill slots with repeated outfits or transfer sales evidence between similar products.
+
+
+## TikTok Shop evidence supplied November 27
+November 14–26, 2026, GMT−8 (13 dates). All account totals: 67 attributed items, $1.6K attributed GMV, 70.6K product impressions, 2.5K product clicks, $124.52 estimated commissions. Approximate account product-card CTR 3.54%; product and video CTR unknown. Include older posts generating sales during the window.
+
+- Autumn Street Fashion Dark Leopard Print fitted matching set: 58 units, $1.4K. Nov 3 five-second “the car fit check never lies” video: 42.5K views, 58 units, $1.4K. Tight seated front crop, patterned long-sleeve top, waist and upper legs. Distinct from black leopard-waistband sweats (retired) and brown Comfrt sweats. Video has multiple tags; verify exact listing and opening frame before recreation.
+- Halara ribbed high-waisted pants: 2 units, $69.94. Nov 19 neutral wide-leg pants car fit, hands on thighs: 1.1K views, 2 items.
+- Tall Coldwater Canyon ripped jeans: 2 units, $35.98. Nov 16 distressed jeans, seated black tank with both ripped knees foregrounded: 335 views, 2 items.
+- Comfrt Minimalist Straight Leg Sweatpants: 2 units, $45.50. Nov 16 seated brown leopard video (257 views, $23.47) and Nov 13 standing pants detail (275 views, $22.03) have matching featured-product thumbnails, one unit each. Confirm exact variant; listing thumbnail appears light-colored.
+- Winter Women's Lamb Fleece Long Pants: 1 unit, $21.48. Women's Polka Dot listing: 1 unit, $19.51; Nov 18 burgundy seated set video, 377 views. Magcubic projector: 1 unit, $0.01.
+
+Use this dated snapshot for sales evidence pending a newer Shop report. The thumbnails identify compositions but cannot establish first-frame motion. Do not assign the account CTR to a product or infer video/product identity from caption alone.
